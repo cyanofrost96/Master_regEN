@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 7.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 7.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3c8a05136a1432f8",
   "lastOpenFiles": [
+    "README.md",
+    "md_cheatsheet.md",
     "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 7.md",
+    "PV1_Physik der Solarzelle/04-Wechselwirkung.md",
+    "PV1_Physik der Solarzelle/03-Fermi-Energie.md",
+    "pveducation.org/pvcdrom/pn-junctions/absorption-depth.md",
     "PV3_Solaranlagen u. Kraftwerke/06-Zeitreihenanalyse.md",
     "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 6.md",
     "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 5.md",
-    "PV1_Physik der Solarzelle/03-Fermi-Energie.md",
-    "PV1_Physik der Solarzelle/04-Wechselwirkung.md",
-    "PV1_Physik der Solarzelle/02-.md",
-    "pveducation.org/pvcdrom/pn-junctions/absorption-depth.md",
-    "Excalidraw/Drawing 2022-05-20 10.59.24.excalidraw.md",
-    "Excalidraw/Millersche Indizes (211).excalidraw.md"
+    "PV1_Physik der Solarzelle/02-.md"
   ]
 }
