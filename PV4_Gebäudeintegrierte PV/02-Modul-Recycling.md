@@ -1,0 +1,1 @@
+# Wiederaufwertung von PV Modulen

@@ -1,0 +1,1 @@
+besitzt eien ganz dünne Oxidschicht und wirken ein Tunnel-effekt.

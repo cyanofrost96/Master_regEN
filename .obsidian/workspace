@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "51deb27fd790e9b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c8a05136a1432f8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 7.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "161fca7b7d78be86",
+    "type": "split",
+    "children": [
+      {
+        "id": "745db9fb8799652e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8878e8ee5ff565f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5bd1b43cfb8fb93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "indirek",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271
+  },
+  "right": {
+    "id": "1c22e059df46409c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d2fdb83e1317dac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f524f3b14b9eb84f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3c8a05136a1432f8",
+  "lastOpenFiles": [
+    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 7.md",
+    "PV3_Solaranlagen u. Kraftwerke/06-Zeitreihenanalyse.md",
+    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 6.md",
+    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 5.md",
+    "PV1_Physik der Solarzelle/03-Fermi-Energie.md",
+    "PV1_Physik der Solarzelle/04-Wechselwirkung.md",
+    "PV1_Physik der Solarzelle/02-.md",
+    "pveducation.org/pvcdrom/pn-junctions/absorption-depth.md",
+    "Excalidraw/Drawing 2022-05-20 10.59.24.excalidraw.md",
+    "Excalidraw/Millersche Indizes (211).excalidraw.md"
+  ]
+}

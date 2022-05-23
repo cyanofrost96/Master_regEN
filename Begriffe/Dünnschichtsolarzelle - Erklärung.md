@@ -1,0 +1,1 @@
+besteht aus einem Substrat, auf dem viele andere Materialien durch PECVD aufgebracht werden. Diese sind Metallkontakt, aktive Schicht, und transparente Kontaktschicht.

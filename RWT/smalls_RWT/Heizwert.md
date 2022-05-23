@@ -1,0 +1,1 @@
+ist der Angabe zu unterem Brennwert.

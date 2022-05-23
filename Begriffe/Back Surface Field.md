@@ -1,0 +1,1 @@
+eine Grenzfläche auf der unterste Seite einer Zelle. Hier wird Alu-Schicht als metallische Kontaktieren für das +Pol gefeuert und einige Al-Atome werden in die p-dotierte Siliziumsteil eindiffundieren. 

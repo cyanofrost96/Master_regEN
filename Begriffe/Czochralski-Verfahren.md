@@ -1,0 +1,2 @@
+*auf Deu.* Tiegelziehen. Ein Herstellungsprozess der monokristalline Silizium (kann auch für andere Kristall verwendet werden, aber am besten für Silizium optimiert).
+Ein Impfkristall wird in der eingeschlossenes Si-Schmelze eingetaucht und bei der Abkühlung wird den gezogen und gedreht.

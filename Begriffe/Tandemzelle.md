@@ -1,0 +1,1 @@
+unter Tandemzelle versteht man mehrere verstapelte Materialien mit verschiedenen Bandlücken in einer Zelle. Es sollte so gestapelt, dass das Licht mit höheren eV erst absorbiert und dann die nächstgeringere Schicht.

@@ -1,0 +1,1 @@
+werden enkapsuliert mit zwei Glasschichten und dadurch steigt die Haltbarkeit und die Funktion, dass das Modul aus beide Richtungen Stahlung aufnehmen kann. Mechanisch sind die Zelle weniger beansprucht da sie genau mittig stehen.

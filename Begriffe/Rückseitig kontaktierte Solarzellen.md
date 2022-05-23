@@ -1,0 +1,1 @@
+interdigitated back contact grid

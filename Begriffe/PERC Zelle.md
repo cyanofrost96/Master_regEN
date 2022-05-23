@@ -1,0 +1,1 @@
+steht für *eng.* "Passivated Emmiter and Rear Cell", besitzt eine Oxideschicht vor dem Kontanktieren der Alu-Schicht als +Pol, die der [[Back Surface Field]] Effekt reduziert.
