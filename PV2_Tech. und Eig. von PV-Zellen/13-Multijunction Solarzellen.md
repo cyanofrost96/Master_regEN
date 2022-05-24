@@ -1,9 +1,12 @@
 # [Multijunction Solarzellen](file:///D:/Docs/UNI_Master/PV2_TechnologieCharakterisierungPV/WPV2-SS22-Folien-13_MJ_CPV.pdf)
 Stapeln von mehrere (Dünnschicht)zellen unterschiedlicher spektraler Bereich als einem Wafer.
-Es kann monolithische (ohne Verbundstoffe (oft TCE) zwischen den Grenzen) oder mechanisch gebündelt.
+Es kann monolithische (ohne Verbundstoffe (oft TCE oder Tunneljunction) zwischen den Grenzen) oder mechanisch gebündelt.
 An der Rückseite befindet sich meistens aktive $\ce{Ge}$, da sie besser Infrarot-Licht aufnehmen kann.
 
-Das Kristallgitter soll ähnlich sein, damit es nicht zur großen Defektdichte kommt (unterschiedliche Gitterkonstante führt zu nicht-linearen Kontakt zw. Atomen -> einige Atomen stehen nicht in Verbindung). Es sollte um direkten Halbleiter gehen. 
+Das Kristallgitter soll ähnlich sein, damit es nicht zur großen Defektdichte kommt (unterschiedliche Gitterkonstante führt zu nicht-linearen Kontakt zw. Atomen -> einige Atomen stehen nicht in Verbindung). Es sollte um direkten Halbleiter gehen.
+
+### Current Matching
+spezifischer Strom einer Zelle muss so angepasst werden damit sie sich auf ähnlicher Stufe befinden, da sie ja meistens in Reihen im Wafer verschaltet sind.
 
 ### Lattice Matching
 Passende Bandlücke wird mittels einem Diagramm aus verschiedenem Zellenmaterial gesucht(Gitterkonstante zu Bandgap). Falls der Defekt viel ausmacht, wird dazwischen eine Schicht für das Korrektur von beiden Schichten aufgebracht.
