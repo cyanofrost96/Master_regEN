@@ -5,7 +5,7 @@
 
 Aufgabe ist es, die 5 PV-Felder in Polysun zu modellieren und simulieren. Erstellen Sie hierzu eine Projektdatei "SonnJA" und für jeden Teilgenerator (WR1-WR5) eine neue Variante. Passen Sie die entsprechenden Wechselrichter und PV-Module an. Verwenden Sie dazu die Datenblätter. 
 
-Dokumentieren Sie alle Einstellungen im [Pad](https://etherpad.wikimedia.org/p/htw-pv3-2021-code)
+!: alle Einstellungen sind im [Pad](https://etherpad.wikimedia.org/p/htw-pv3-2021-code) zu finden.
 
 Simulieren Sie die Varianten und speichern Sie die Jahreswerte ab (Resultate -> System-Resultate -> Exportieren)
 
