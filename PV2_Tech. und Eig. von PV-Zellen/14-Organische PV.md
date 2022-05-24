@@ -9,7 +9,7 @@ Rekorden:
 ## Farbstoff
 Besteht grundsätzlich aus $\ce{TiO_2}$, die mit Farbstoffmolekülen umgehüllt wird. Darin befindet sich Elektrolyt die durch Lichtabsorption angeregt und Elektronen abgibt. Die freigesetzte Elektronen bewegt sich dann zu dem richtigen Elektroden dann entsteht elektrischer Strom. 
 
-Man kann es selber bauen mit 2 mit TCO beschichtete Glasscheiben, Zahnpaste (TiO2), Farbstoff (Tee, Wein, usw.), und Elektrolyt (Jod).
+Man kann es selber bauen mit 2 mit TCO beschichteten Glasscheiben, Zahnpaste (TiO2), Farbstoff (Tee, Wein, usw.), und Elektrolyt (Jod).
 
 ## Plastikzellen
 wird nebenbei auch als OLED bekannt und ähnlich entwickelt.
