@@ -7,6 +7,8 @@
 	- [ ] testen?
 - [ ] BA Präsi
 	- [ ] termin suchen
+	- 15 mins präsentation; 7-10 folien nur
+	- 75% Bachelornoten; 15% schriftliche Arbeit; 10% Kolloquium
 
 ## Master
 ### PV1 - Physik der Solarzelle
