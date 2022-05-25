@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RWT/3-Verbrennung.md",
+            "file": "PV3_Solaranlagen u. Kraftwerke/08-python.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271,
-    "collapsed": true
+    "width": 271
   },
   "right": {
     "id": "1c22e059df46409c",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RWT/3-Verbrennung.md",
+                "file": "PV3_Solaranlagen u. Kraftwerke/08-python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
   },
   "active": "3c8a05136a1432f8",
   "lastOpenFiles": [
-    "RWT/3-Verbrennung.md",
-    "PV4_Gebäudeintegrierte PV/00-Grundlage.md",
-    "PV2_Tech. und Eig. von PV-Zellen/Zusammenfassung/1_Zusammenfassung April.md",
-    "PV2_Tech. und Eig. von PV-Zellen/Zusammenfassung/2_Zusammenfassung Mai.md",
-    "PV2_Tech. und Eig. von PV-Zellen/Präsi mit Sherwan.md",
-    "PV2_Tech. und Eig. von PV-Zellen/13-Multijunction Solarzellen.md",
-    "PV2_Tech. und Eig. von PV-Zellen/09-Laser.md",
-    "PV2_Tech. und Eig. von PV-Zellen/08-Modultechnologien.md",
-    "PV2_Tech. und Eig. von PV-Zellen/07-Hocheffizient und Bifaziale SZ.md",
-    "PV2_Tech. und Eig. von PV-Zellen/05-Transparente Kontakschichten.md"
+    "PV3_Solaranlagen u. Kraftwerke/08-python.md",
+    "Calendar/wichtige sachen!.md",
+    "Calendar/Kolloquium Struktur.md",
+    "Excalidraw/Drawing 2022-05-20 10.59.24.excalidraw.md",
+    "Excalidraw/Millersche Indizes (211).excalidraw.md",
+    "Excalidraw/Bandstruktur im Impulsraum.excalidraw.md",
+    "PV1_Physik der Solarzelle/01-Festkörperphysik.md",
+    "Begriffe/Silizium.md",
+    "Begriffe/amorph.md",
+    "Begriffe/monokristallin.md"
   ]
 }
