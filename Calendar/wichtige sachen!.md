@@ -6,6 +6,7 @@
 	- [ ] Löten u. Schaltung
 	- [ ] testen?
 - [ ] BA Präsi
+	- [ ] termin suchen
 
 ## Master
 ### PV1 - Physik der Solarzelle
