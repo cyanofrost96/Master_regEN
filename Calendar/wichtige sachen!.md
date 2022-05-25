@@ -6,7 +6,7 @@
 	- [ ] Löten u. Schaltung
 	- [ ] testen?
 - [ ] BA Präsi
-	- [ ] termin suchen
+	- [ ] termin suchen (7.6; ab 13)
 	- 15 mins präsentation; 7-10 folien nur
 	- 75% Bachelornoten; 15% schriftliche Arbeit; 10% Kolloquium
 
