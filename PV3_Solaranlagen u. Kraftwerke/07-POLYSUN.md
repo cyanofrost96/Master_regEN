@@ -8,3 +8,7 @@ Es funktioniert grundsätzlich wie PVsol ohne das 3D-Modell.
 - [x] Anlage "sonnja" mit verschiedene WR Kombis 
 
 ## Polysun
+Modulanzahl für die sims:
+wr2:11
+wr3:14
+wr4:13
