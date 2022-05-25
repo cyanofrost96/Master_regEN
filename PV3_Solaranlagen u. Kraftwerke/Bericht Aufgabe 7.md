@@ -20,6 +20,6 @@ Verwenden Sie die Wetterdaten: **Meteonorm6 1min**
 ---|---|---
 WR1|3338|3118
 WR2|3017|2815
-WR3|
+WR3|3245|3033
 WR4|
 WR5|
