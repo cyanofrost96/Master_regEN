@@ -14,7 +14,7 @@ Erstellen Sie eine strukturierte Tabelle aus den CSV-Dateien:
 Verwenden Sie die Wetterdaten: **Meteonorm6 1min**
 
 ## Ergebnis
-Die verschiedene Variante werden in Polysun simuliert und das jeweilige Ergebnis in unterer Tabelle eingetragen. Zu den genaueren Parametern von den Varianten kann man auf dem [Pad](https://etherpad.wikimedia.org/p/htw-pv3-2022-code) finden.
+Die verschiedene Variante werden in Polysun simuliert und das jeweilige Ergebnis in unterer Tabelle eingetragen. Zu den genaueren Parametern von den Varianten kann man auf dem [Pad](https://etherpad.wikimedia.org/p/htw-pv3-2022-code) ab Zeile 57 finden.
 
 *in kWh*|$E_{gesDC}$|$E_{gesAC}$
 ---|---|---
