@@ -16,3 +16,10 @@ Erstellen Sie eine strukturierte Tabelle aus den CSV-Dateien:
 Verwenden Sie die Wetterdaten: **Meteonorm6 1min**
 
 ## Ergebnis
+*in kWh*|$E_{gesDC}$|$E_{gesAC}$
+---|---|---
+WR1|3338|3118
+WR2|3017|2815
+WR3|
+WR4|
+WR5|
