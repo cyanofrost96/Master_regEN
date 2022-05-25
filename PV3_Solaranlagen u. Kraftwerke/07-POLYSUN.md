@@ -9,6 +9,8 @@ Es funktioniert grundsätzlich wie PVsol ohne das 3D-Modell.
 
 ## Polysun
 Modulanzahl für die sims:
-wr2:11
-wr3:14
-wr4:13
+wr1: schott asi 105 30; DLX 2.9
+wr2: s19L285 11; DLX 2.9
+wr3: s18.240 14; ?
+wr4: s19.245 13; SMA
+wr5: schott asi 105 30; SMA

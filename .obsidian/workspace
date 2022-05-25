@@ -79,20 +79,28 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "7baf9ee1e7124b0f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "3c8a05136a1432f8",
   "lastOpenFiles": [
     "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 7.md",
+    "PV3_Solaranlagen u. Kraftwerke/07-POLYSUN.md",
     "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 6.md",
     "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 5.md",
-    "PV3_Solaranlagen u. Kraftwerke/07-POLYSUN.md",
     "PV2_Tech. und Eig. von PV-Zellen/14-Organische PV.md",
     "PV2_Tech. und Eig. von PV-Zellen/Zusammenfassung/2_Zusammenfassung Mai.md",
     "PV2_Tech. und Eig. von PV-Zellen/Zusammenfassung/1_Zusammenfassung April.md",
