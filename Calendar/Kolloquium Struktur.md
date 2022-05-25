@@ -6,7 +6,8 @@ Entwicklung einer Sonnenstrahlungsmessgerät aus Arduino
 ## Problemstellung
 Kosten einer Pyranometer ist ziemlich hoch und lässt sich nicht so einfach auf kleinere bzw. seltener gebieten zu transportieren.
 
-## Problemen beim Entwicklung
+## Problemen bei der Entwicklung
+Konzept entwickeln bis zu fertigen Produkt
 
 ## Ergebnis
 - Diagramme zur Zellentesten
@@ -14,4 +15,5 @@ Kosten einer Pyranometer ist ziemlich hoch und lässt sich nicht so einfach auf 
 	- Bauteilen
 	- Programm
 - Messwerten: fotos und diagramme (unkomplett)
+
 ## Fazit
