@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calendar/wichtige sachen!.md",
+            "file": "RWT/3-Verbrennung.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271
+    "width": 271,
+    "collapsed": true
   },
   "right": {
     "id": "1c22e059df46409c",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/wichtige sachen!.md",
+                "file": "RWT/3-Verbrennung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
   },
   "active": "3c8a05136a1432f8",
   "lastOpenFiles": [
-    "Calendar/wichtige sachen!.md",
-    "Template/Note Template.md",
-    "Calendar/Kolloquium Struktur.md",
-    "README.md",
-    "md_cheatsheet.md",
-    "PV1_Physik der Solarzelle/01-Festkörperphysik.md",
-    "Begriffe/multikritallin.md",
-    "Begriffe/monokristallin.md",
-    "PV2_Tech. und Eig. von PV-Zellen/05-Transparente Kontakschichten.md",
-    "PV2_Tech. und Eig. von PV-Zellen/03-Optik.md"
+    "RWT/3-Verbrennung.md",
+    "PV4_Gebäudeintegrierte PV/00-Grundlage.md",
+    "PV2_Tech. und Eig. von PV-Zellen/Zusammenfassung/1_Zusammenfassung April.md",
+    "PV2_Tech. und Eig. von PV-Zellen/Zusammenfassung/2_Zusammenfassung Mai.md",
+    "PV2_Tech. und Eig. von PV-Zellen/Präsi mit Sherwan.md",
+    "PV2_Tech. und Eig. von PV-Zellen/13-Multijunction Solarzellen.md",
+    "PV2_Tech. und Eig. von PV-Zellen/09-Laser.md",
+    "PV2_Tech. und Eig. von PV-Zellen/08-Modultechnologien.md",
+    "PV2_Tech. und Eig. von PV-Zellen/07-Hocheffizient und Bifaziale SZ.md",
+    "PV2_Tech. und Eig. von PV-Zellen/05-Transparente Kontakschichten.md"
   ]
 }
