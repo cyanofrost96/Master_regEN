@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 7.md",
+            "file": "PV3_Solaranlagen u. Kraftwerke/04-AnacondaENV.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 7.md",
+                "file": "PV3_Solaranlagen u. Kraftwerke/04-AnacondaENV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "3c8a05136a1432f8",
   "lastOpenFiles": [
+    "PV3_Solaranlagen u. Kraftwerke/04-AnacondaENV.md",
+    "PV3_Solaranlagen u. Kraftwerke/03-Datenbank und PostgRes.md",
     "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 7.md",
     "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 6.md",
-    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 4.md",
-    "PV3_Solaranlagen u. Kraftwerke/Bericht  Aufgabe 2.md",
     "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 5.md",
+    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 4.md",
+    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 3.md",
+    "PV3_Solaranlagen u. Kraftwerke/Bericht  Aufgabe 2.md",
     "PV3_Solaranlagen u. Kraftwerke/07-POLYSUN.md",
-    "PV2_Tech. und Eig. von PV-Zellen/14-Organische PV.md",
-    "PV2_Tech. und Eig. von PV-Zellen/Zusammenfassung/2_Zusammenfassung Mai.md",
-    "PV2_Tech. und Eig. von PV-Zellen/Zusammenfassung/1_Zusammenfassung April.md",
-    "PV2_Tech. und Eig. von PV-Zellen/13-Multijunction Solarzellen.md"
+    "PV2_Tech. und Eig. von PV-Zellen/14-Organische PV.md"
   ]
 }
