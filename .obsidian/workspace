@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PV3_Solaranlagen u. Kraftwerke/08-python.md",
+            "file": "PV4_Gebäudeintegrierte PV/02-Modul-Recycling.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PV3_Solaranlagen u. Kraftwerke/08-python.md",
+                "file": "PV4_Gebäudeintegrierte PV/02-Modul-Recycling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "3c8a05136a1432f8",
   "lastOpenFiles": [
+    "PV4_Gebäudeintegrierte PV/02-Modul-Recycling.md",
+    "PV4_Gebäudeintegrierte PV/00-Grundlage.md",
+    "PV4_Gebäudeintegrierte PV/01-Fassadenanlage.md",
+    "PV4_Gebäudeintegrierte PV/zAnlagenplanung.md",
+    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 6.md",
+    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 7.md",
+    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 5.md",
     "PV3_Solaranlagen u. Kraftwerke/08-python.md",
     "Calendar/wichtige sachen!.md",
-    "Calendar/Kolloquium Struktur.md",
-    "Excalidraw/Drawing 2022-05-20 10.59.24.excalidraw.md",
-    "Excalidraw/Millersche Indizes (211).excalidraw.md",
-    "Excalidraw/Bandstruktur im Impulsraum.excalidraw.md",
-    "PV1_Physik der Solarzelle/01-Festkörperphysik.md",
-    "Begriffe/Silizium.md",
-    "Begriffe/amorph.md",
-    "Begriffe/monokristallin.md"
+    "Calendar/Kolloquium Struktur.md"
   ]
 }

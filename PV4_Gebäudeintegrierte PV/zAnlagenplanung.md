@@ -27,3 +27,6 @@ zu tun:
 - [ ] Statikberechnung
 - [ ] Windlast
 - [ ] PVsol, 3D mit freeCAD?
+    - [x] 3D form, beide Gebäude sollen in einem File erstellt werden da sie ähnlich hoch sind (eine Verschattet die andere)
+    - [x] importieren auf PVsol (geht mit .stl Dateiformat, ähnlich wie für 3d-drucken)
+    - [ ] Modulbelegung und Optimierung
