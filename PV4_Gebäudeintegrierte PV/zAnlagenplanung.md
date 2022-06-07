@@ -30,3 +30,9 @@ zu tun:
     - [x] 3D form, beide Gebäude sollen in einem File erstellt werden da sie ähnlich hoch sind (eine Verschattet die andere)
     - [x] importieren auf PVsol (geht mit .stl Dateiformat, ähnlich wie für 3d-drucken)
     - [ ] Modulbelegung und Optimierung
+    - [ ] 3d Modellierung mit GE besser anpassen (Abstände und Fester Positionen)
+
+# Yousef
+Recherchieren von Montagearten Fassadenanlage.
+Wie funktioniert, welche Material, wie lange dauert die Installation.
+Quelle notieren!
