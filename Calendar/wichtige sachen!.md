@@ -1,9 +1,9 @@
 ## Bachelor
-- [ ] Gerät anfertigen
+- [x] Gerät anfertigen
 	- [x] zusammenkleben
 	- [x] Achsen befestigen (bohren ausleihen)
-	- [ ] Löten u. Schaltung
-	- [ ] testen?
+	- [x] Löten u. Schaltung
+	- [ ] testen? = azi_servo bewegt nicht da die verkabelung zu kurz ist (zu höhe spannung)
 - [ ] BA Präsi
 	- [x] termin suchen (7.6; ab 13)
 	- 15 mins präsentation; 7-10 folien nur
@@ -15,9 +15,11 @@ Vorlesung jede Freitag ab 9.45; Klausur ???
 - Aufgaben lösen für Punkte im Klausur
 ### PV2 - Technologie und Charakterisierung von SZ
 - [x] Zusammenfassung April
-- [ ] Zusammenfassung Mai
+- [ ] Zusammenfassung Mai : noch in berarbeitung
 - [ ] Zusammenfassung Juni
 - [ ] Labor Herstellung von Dünnschichtzellen (1.6)
+	- [x] Laborbesuch + Notizen und Dokumentationen bei Sherwan
+	- [ ] Protokoll
 - [ ] Labor Analyse der Zelle (15.6)
 
 ### PV3 - Solaranlagen und Kraftwerke
