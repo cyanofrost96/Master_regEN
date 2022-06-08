@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PV3_Solaranlagen u. Kraftwerke/09-PVSOL.md",
+            "file": "PV2_Tech. und Eig. von PV-Zellen/Labor Zellenherstellung/Notizen.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PV3_Solaranlagen u. Kraftwerke/09-PVSOL.md",
+                "file": "PV2_Tech. und Eig. von PV-Zellen/Labor Zellenherstellung/Notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "3c8a05136a1432f8",
   "lastOpenFiles": [
+    "PV2_Tech. und Eig. von PV-Zellen/Labor Zellenherstellung/Notizen.md",
     "PV3_Solaranlagen u. Kraftwerke/09-PVSOL.md",
     "PV3_Solaranlagen u. Kraftwerke/08-python.md",
     "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 8.md",
@@ -105,7 +106,6 @@
     "PV3_Solaranlagen u. Kraftwerke/Bericht  Aufgabe 2.md",
     "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 4.md",
     "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 5.md",
-    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 6.md",
-    "PV3_Solaranlagen u. Kraftwerke/07-POLYSUN.md"
+    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 6.md"
   ]
 }
