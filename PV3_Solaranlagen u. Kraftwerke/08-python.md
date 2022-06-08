@@ -9,4 +9,4 @@ from pv3_export_polysun import calculate_diffuse_irradiation
 - gibt dhi und dni für htw weatherdata zurück
   `` def calculate_diffuse_irradiation(df, parameter_name, lat,  lon)``
   df_solarpos = pvlib.solarposition.spa_python
-  
+`pip3 install pvlib`
