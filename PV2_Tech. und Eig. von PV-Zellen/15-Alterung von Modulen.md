@@ -15,3 +15,42 @@ wird nach Bruch, Delle, Blasen bei Lamination, Verspröden, alle sichtbare Defek
 
 ### 10.2 Bestimmung maximaler Leistung
 mit Flasher die Leistung und Kennlinien bestimmt. Dauerlicht um schwaches Lichtverhalten und Hot-Spot zu bewerten
+
+geräte werden klassifiziert, je nachdem wie gut die spektrale Zusammensetzung, räumliche Homogenität und die zeitliche Stabilität sind
+
+### 10.4 Temperaturkoeffizient
+Peakleistung wird nach Temperatur gemessen und der Verlust in %/K angegeben. typischerweise linear (organisch nicht).
+
+### 10.5 Isolationstest
+Module wird in einer Laminierfolie (nass und trocken) gelegt und sollte 1kV unter 1 mins bestehen.
+
+### 10.10 UV-Test
+Modul wird mit UV Licht (280 bis 380 nm) bis 15 kWh/m2 bestrahlt. Darin steht das Modul unter 60°C Wärme.
+
+### 10.11 Temperaturwechsel Test
+Zyklenzahl: 200 von -40 bis 85 °C für mind. 10 mins
+
+### 10.12 Feuchte-Frost
+Ähnliche Temperaturbereich mit längerem Zyklendauer (24h) für 10 Mal.
+
+### 10.17 Hageltest
+Modul wird mit verschiedene Hagelgroße und -geschwindigkeit (die sind auch Normiert!) "gehagelt"
+
+typische Hageleigenschaften: 25mm, -6 bis -2°C, 23 m/s, 11 Aufschlagstellen.
+
+### Weitere Prüfungen
+Gemäßigtes Raumluftklima:
+normal: -15°C bis 30°C, Feuchte: 17 g/cm3
+extrem: -30°C bis 45 °C, Feuchte: 25 g/cm3
+Lebensdauer sollte >25 Jahre sein
+
+## Arrhenius Gleichung
+üblich für chemische Reaktionszeit verwendet, aber gilt auch gut für Älterungsprozesse.
+$$\nu = K \cdot \ce{exp}(-\frac{E_A}{R \cdot T})$$
+die gerade Gleichung:
+$$\ce{ln}(\nu) = -\frac{E_A}{R \cdot T} + \ce{ln}(K)$$
+$\nu$ : Älterungsgeschwindigkeit in s
+K : Reaktionsgeschwindigkeitskonstante in s
+${E_A}$ : Aktivierungsenergie in -J/mol
+
+mit geringer Temperatur kriegt man längere Lebensdauer.
