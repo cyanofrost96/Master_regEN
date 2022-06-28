@@ -63,3 +63,16 @@ allg. stehen 3 arten von Degradationsquelle: Alterung, Lichtinduziert, Spannung-
 
 ### Light Induced Degradation (LID)
 Bor ist ist in Wafer eingebunden und verbindet sich noch gerne mit Sauerstoff, sie bilden defekte Stelle.
+
+### Altersbedingte Degradation
+- Kristalline Veränderungen
+- Schädigungen an Verkapselung
+- Verälterung des Laminats
+- Feuchtigkeiteindringen
+- thermische Beanspruchung
+
+### Potential Induced Degradation (PID)
+üblich aufgrund höher Systemspannungen hervorgerufen.
+Effekte lassen sich mit Elektrolumineszenz ablesen.
+
+A
