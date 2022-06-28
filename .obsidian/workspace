@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 8.md",
+            "file": "PV2_Tech. und Eig. von PV-Zellen/15-Alterung von Modulen.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 8.md",
+                "file": "PV2_Tech. und Eig. von PV-Zellen/15-Alterung von Modulen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "3c8a05136a1432f8",
   "lastOpenFiles": [
-    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 8.md",
-    "PV3_Solaranlagen u. Kraftwerke/09-PVSOL.md",
-    "PV3_Solaranlagen u. Kraftwerke/02-Github.md",
+    "PV2_Tech. und Eig. von PV-Zellen/15-Alterung von Modulen.md",
+    "PV2_Tech. und Eig. von PV-Zellen/14-Organische PV.md",
     "PV2_Tech. und Eig. von PV-Zellen/Labor Zellenherstellung/Notizen.md",
-    "PV3_Solaranlagen u. Kraftwerke/08-python.md",
-    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 7.md",
-    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 3.md",
-    "PV3_Solaranlagen u. Kraftwerke/Bericht  Aufgabe 2.md",
-    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 4.md",
-    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 5.md"
+    "RWT/3-Verbrennung.md",
+    "RWT/Exergie und Energie.md",
+    "RWT/Labor Holzpelletkessel.md",
+    "RWT/Wärmeübertragung.md",
+    "PV1_Physik der Solarzelle/05-pn-Übergang.md",
+    "PV1_Physik der Solarzelle/05-pn-Übergang (conflict 2022-06-17-16-36-45).md",
+    "PV3_Solaranlagen u. Kraftwerke/Bericht Aufgabe 3.md"
   ]
 }

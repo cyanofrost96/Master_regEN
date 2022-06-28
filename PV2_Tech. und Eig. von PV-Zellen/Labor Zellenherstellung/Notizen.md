@@ -1,4 +1,5 @@
-# PECVD
+# 1. Labor (Herstellung)
+## PECVD
 Zelle muss aus Oxid gereinigt werden (von HF prozess)
 300W als Plasma Power
 
@@ -29,6 +30,7 @@ Messung wird auf einem 'Herdplatte' gemacht
 3_62: 1649 us
 4_71: 2287 us
 (Anordnung kann falsch sein)
+lebensdauer messung wird nur an bestimmte punkt der zelle gemacht, nicht gesamte zelle
 
 ## Entsorgung von schädliche Gasen
 Fluor nervengas, Silan brennt, NF3
@@ -41,7 +43,7 @@ Abwasser muss auch mit dem Wasseraufbereitungslage abgesprochen (hier ist normal
 ## HF
 3MHz, muss kompensiert werden damit Sachen nicht kaputt gehen (Parasiten Effekt)
 
-# Sputtern
+## Sputtern
 Vertikal gestellt und die Maschine Fahrt quer durch
 10e-7 mbar ab 10e-3 mbar wird abgeschaltet
 Kammer wird mit Argon befüllt (inert)
@@ -49,6 +51,81 @@ Ziel ist es, Front- und Rückkontakt sowie die ITO auftragen
 Material Ausbeute: 35% planar kann gedreht werden um eine Ausbeute von 80% zu erreichen
 Wenn's zu dick aufgetragen kann es reißen. 
 
-# Siebdruck
+## Siebdruck
 Silberpaste wird auf einem Fläche mit Rakel aufgetragen
 Auf Heizplatte (210C)
+
+# 2. Labor (Charakteriesierung)
+in Analytik 2 gemessen (Leistung, Kennlinie, usw.)
+passivieren mit amorphe Si um fehlstellen zu decken, hat aber schlechte leitfahigkeit -> deswegen die ITO.
+
+fehlstellen von reine silizium: nicht verbundene 'Si-händen' verbindet gerne mit andere atomen.
+
+antireflexschicht -> Si nimmt lieber IR licht 1100nm bereich
+
+## TLM
+zur Messung von der diodenverhalten : messen von -200mV bis 900mV in 10mV schritte
+
+zur berechnung: d zu R ist linear, mit regression auf x = 0. Widerstand : $2 \cdot R_c + R_{Si}$
+
+## EQE (und spektrale Empfindlichkeit)
+Zelle wird mit monochromatischem Licht 300nm bis 1200nm bestrahlt 
+wie viele elektron loch paare erzeugt pro photonen mit dem bestimmten Wellenlänge 
+kleinere wellenlänge dringt weniger tief ein
+EQE hat keine einheit und stellt nur die photonenausbeute dar. Spektrale empfindlichkeit zeigt die erzeugte strom. bei höherer quantenenergie fliegt das elektron zu weit vom leitungsband und wird nur besser, näher zu 1100 nm (da es die bandlücke eines Si is6t)
+
+gerät hat 2% messfehler
+
+## IU Kennlinie
+Sonnensimulator! muss STC folgen, zelle ird auf einem gekühlte unterlage gelegt.
+die Bestrahlung wird mittels Referenzzelle angepasst (zertifikat ist auch drauf)
+1. mit 2 strahler blau und halogen
+2. mit verschiedene LEDs
+
+Kontakt: tobias.haenel@helmholtz-berlin.de
+
+Zellentesttyp: SHJ 5inch 12c
+
+gerät hat 1% messfehler
+
+## Reflexion
+Gerätbeschreibung hinzu.
+misst in 5nm schritte, 250 bis 1500 nm
+muss erst mit weißer Probe geeicht werden.
+Licht muss mittig treffen.
+gerät laufen lassen und hat man am ende den Reflexionsverlauf1
+
+## Photoluminesenz
+wird wie LED betrieben, ausgestrahlene Licht wird von IR kamera aufgenommen
+Zelle wird mit LED bestrahlt
+kamera lässt nur >850nm durch
+beleuchtet für 1/8 ms
+am rand gibt's viele fehlstellen und 2. reihe gibt's eine linie an flecken -> konnte wegen mechanischen stress (pinzetten, sputtern gehäuse)
+die flecken an 2. reihe kommt immer wieder vor
+
+Rückseite ist gold da es dünnere ITO aufgetragen ist (Rückseite hat genug kontaktgitter) 
+
+die 'bestrahlung' einer referenzzelle und die base-folie wird noch mitgeteilt, Ränder sind benachteiligt
+
+# Vorbereitungsfragen
+• Was unterscheidet die PECVD von der konventionellen CVD?
+
+• Mit welchen Prozessparametern lässt sich die Deposition von a-Si:H Schichten mittels PECVD steuern?
+
+• Bitte erläutern Sie den Unterschied zwischen Planar- und Rohrkathoden beim Sputtern. Geben Sie bitte für beide Methoden jeweils einen wichtigen Vorteil an.
+
+• Warum ist die Oberfläche des Wafers zwischen den Silberkontakten in Abbildung 6 blau?
+
+• Bitte schätzen Sie die offene Klemmspannung eines SHJ c-Si Modules bestehend aus 60 Solarzellen ab. 
+
+Wie wird der Kurzschlussstrom des gesamten Moduls von der Kurzschlussstromdichte der einzelnen Solarzellen beeinflusst?
+
+• Bitte erläutern Sie die 2- und 4-Spitzen Messmethode. Warum wird die 4-Spitzen Messmethode bevorzugt angewendet?
+
+• Bitte skizzieren Sie den Zusammenhang zwischen Kurzschlussstrom und Leerlaufspannung als Funktion der Bestrahlungsstärke. Erläutern Sie ganz kurz die Form der Kurven.
+
+• Bitte erläutern Sie, mit welchen Methoden die Reflexion an der Solarzellenoberfläche reduziert werden kann.
+
+• Bitte skizzieren Sie die Absorption als Funktion der Eindringtiefe als auch als Funktion der Wellenlänge.
+
+• Bitte erläutern Sie, welche Messmethoden verwendet werden müssen, um die interne Quanteneffizienz zu ermitteln.
