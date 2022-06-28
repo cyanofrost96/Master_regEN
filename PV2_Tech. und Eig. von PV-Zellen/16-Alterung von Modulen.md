@@ -57,3 +57,9 @@ mit geringer Temperatur kriegt man längere Lebensdauer.
 
 ## Monitoring system
 Beim Betrieb sind heutzutage auch Data Logger für jeweilige Komponente verfügbar, damit man jederzeit die Performance bzw. Ertrag der Anlage hinschauen und bewerten kann.
+
+## Degradationseffekte
+allg. stehen 3 arten von Degradationsquelle: Alterung, Lichtinduziert, Spannung- / Potentialinduziert. Die letzte 2 wirken einmalig und setzen sich dauerhaft.
+
+### Light Induced Degradation (LID)
+Bor ist ist in Wafer eingebunden und verbindet sich noch gerne mit Sauerstoff, sie bilden defekte Stelle.
