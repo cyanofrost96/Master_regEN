@@ -54,3 +54,6 @@ K : Reaktionsgeschwindigkeitskonstante in s
 ${E_A}$ : Aktivierungsenergie in -J/mol
 
 mit geringer Temperatur kriegt man längere Lebensdauer.
+
+## Monitoring system
+Beim Betrieb sind heutzutage auch Data Logger für jeweilige Komponente verfügbar, damit man jederzeit die Performance bzw. Ertrag der Anlage hinschauen und bewerten kann.
