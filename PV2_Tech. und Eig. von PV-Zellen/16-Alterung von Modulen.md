@@ -75,4 +75,10 @@ Bor ist ist in Wafer eingebunden und verbindet sich noch gerne mit Sauerstoff, s
 üblich aufgrund höher Systemspannungen hervorgerufen.
 Effekte lassen sich mit Elektrolumineszenz ablesen.
 
-A
+Erhöhte PID-Anfälligkeit:
+- Natriumhaltige Gläser
+- EVA Folien beschleunigt die Leitung der Na-Gläser
+- geerdeter Rahmen verursacht Leckstrom
+- Feuchtigkeit verstärkt die oben genannte Effekt
+
+Dieser Effekt kann regeneriert werden, in dem die Zelle mit sehr höhen Spannung für 2 Wochen verpolt.
