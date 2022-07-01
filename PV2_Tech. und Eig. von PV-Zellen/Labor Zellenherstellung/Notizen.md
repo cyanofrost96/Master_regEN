@@ -116,8 +116,10 @@ die 'bestrahlung' einer referenzzelle und die base-folie wird noch mitgeteilt, R
 • Bitte erläutern Sie den Unterschied zwischen Planar- und Rohrkathoden beim Sputtern. Geben Sie bitte für beide Methoden jeweils einen wichtigen Vorteil an.
 
 • Warum ist die Oberfläche des Wafers zwischen den Silberkontakten in Abbildung 6 blau?
+	Es liegt daran, dass die Zelle mit Anti-reflex Schicht aus TCO beschichtet wird. Die Dicke dieser Schicht wird so ausgewählt, dass sie möglichst mehr von dem langwelligen Spektrum absorbiert wird. Der kurzwellige Spektrum wird die meisten reflektiert und deswegen sieht die Oberfläche blau aus.
 
 • Bitte schätzen Sie die offene Klemmspannung eines SHJ c-Si Modules bestehend aus 60 Solarzellen ab. 
+	eine SHJ Zelle liefert 620 bis 640 mV, 60x sind 37,2 bis 38,4 V.
 
 - Wie wird der Kurzschlussstrom des gesamten Moduls von der Kurzschlussstromdichte der einzelnen Solarzellen beeinflusst?
 
