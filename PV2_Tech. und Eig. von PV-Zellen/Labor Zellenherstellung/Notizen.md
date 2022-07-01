@@ -109,6 +109,7 @@ die 'bestrahlung' einer referenzzelle und die base-folie wird noch mitgeteilt, R
 
 # Vorbereitungsfragen
 • Was unterscheidet die PECVD von der konventionellen CVD?
+	PECVD - plasma enhanced chemical vapour deposition; ist eine chemische Material-auftragen-methode, die durch die Verwendung von Plasma verbessert wird. CVD (chemical vapour deposition) ist eine Ablagerung von soliden Materialien aus gasphasigem Zustand.
 
 • Mit welchen Prozessparametern lässt sich die Deposition von a-Si:H Schichten mittels PECVD steuern?
 
@@ -118,13 +119,14 @@ die 'bestrahlung' einer referenzzelle und die base-folie wird noch mitgeteilt, R
 
 • Bitte schätzen Sie die offene Klemmspannung eines SHJ c-Si Modules bestehend aus 60 Solarzellen ab. 
 
-Wie wird der Kurzschlussstrom des gesamten Moduls von der Kurzschlussstromdichte der einzelnen Solarzellen beeinflusst?
+- Wie wird der Kurzschlussstrom des gesamten Moduls von der Kurzschlussstromdichte der einzelnen Solarzellen beeinflusst?
 
 • Bitte erläutern Sie die 2- und 4-Spitzen Messmethode. Warum wird die 4-Spitzen Messmethode bevorzugt angewendet?
 
 • Bitte skizzieren Sie den Zusammenhang zwischen Kurzschlussstrom und Leerlaufspannung als Funktion der Bestrahlungsstärke. Erläutern Sie ganz kurz die Form der Kurven.
 
 • Bitte erläutern Sie, mit welchen Methoden die Reflexion an der Solarzellenoberfläche reduziert werden kann.
+	durch Ätzen (Strukturieren des Oberfläche) und Sputtern von Antireflexschicht auf der Oberfläche der Zelle werden einkommende Lichtpartikeln weniger reflektiert, da der reflektierte Anteil durch destruktiver Interferenz gelöscht wird. Somit steigt die absorbierte sowie transmittierte Anteile.
 
 • Bitte skizzieren Sie die Absorption als Funktion der Eindringtiefe als auch als Funktion der Wellenlänge.
 
