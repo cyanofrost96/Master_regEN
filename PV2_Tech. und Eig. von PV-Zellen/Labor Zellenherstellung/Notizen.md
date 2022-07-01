@@ -119,7 +119,7 @@ die 'bestrahlung' einer referenzzelle und die base-folie wird noch mitgeteilt, R
 	Es liegt daran, dass die Zelle mit Anti-reflex Schicht aus TCO beschichtet wird. Die Dicke dieser Schicht wird so ausgewählt, dass sie möglichst mehr von dem langwelligen Spektrum absorbiert wird. Der kurzwellige Spektrum wird die meisten reflektiert und deswegen sieht die Oberfläche blau aus.
 
 • Bitte schätzen Sie die offene Klemmspannung eines SHJ c-Si Modules bestehend aus 60 Solarzellen ab. 
-	eine SHJ Zelle liefert 620 bis 640 mV, 60x sind 37,2 bis 38,4 V.
+	eine SHJ Zelle kann bis zu 700 mV an Leerlaufspannung liefern, 60x wäre 42 V.
 
 - Wie wird der Kurzschlussstrom des gesamten Moduls von der Kurzschlussstromdichte der einzelnen Solarzellen beeinflusst?
 
