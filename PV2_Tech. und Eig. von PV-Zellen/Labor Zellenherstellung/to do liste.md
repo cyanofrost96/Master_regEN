@@ -1,2 +1,4 @@
 # to do liste
-- [ ] berechnung der TLM ()
+- [ ] berechnung der TLM (Transferlängen-Messung)
+- [ ] excel schön machen
+- [ ] 
