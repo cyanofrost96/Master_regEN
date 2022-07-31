@@ -28,12 +28,3 @@ Donator haben geringe Ionisationsenergie und Akzeptor mehr. Die Elektronenaffini
 Problem hier ist dass die Diffusionslänge sehr kurz ist (4-8 nm), wobei die gesamte Dicke der Zelle bis ab 100 nm effektiv ist.
 
 Besonders daran ist dass die pn-Übergang chaotisch in der Mischung verteilt ist. (die Übergänge sind zw. der Ball-Fullerene und den kleinen flüssigen Moleküle). Die einfache Herstellungsprozess ist auch von Vorteil da man kein Vakuumkammer mehr braucht (im Vergleich mit Dünnschichtzellen)
-
-## Perowskit
-Der Wirkungsgrad hat sich rasant in der vorherigen 10 Jahren schnell entwickelt. Es ist ein Name für eine bestimmte Gitterstruktur, ursprünglich aus Ca als Kern und Ti drum herum mit Oxid in der bestehenden Lücken gefüllt. Generelle chemische Formel dazu ist $\ce{ABX_3}$ .
-
-Für die Anwendung im Bereich Photovoltaic wird organische Polymer (C-H Verbindungen) wie $\ce{CH_3NH_3PbI_3}$ oder $\ce{CH(NH_3)_2SnBr_3}$ verwendet. Als der B-Teil wird oft Blei oder Sinn verwendet. Durch die anpassbare Gitterbestandteile, kann die Bandlücke wie gewollt eingestellt werden. Ansonsten ermöglicht das Struktur eine höhere Absorption, Ladungsträgerlebensdauer, sowie geringere Rekombination an der Oberfläche.
-
-Das Einstellen der Bandlücke kann wie das Ausdrucken eines farbigen Dokuments vorgestellt werden. Durch die Mischung von verschiedenen $\ce{ABX3}$ chemikalien, können die Bandlücke entweder länger in den röten oder kürzer in den blauen Bereich gezogen werden.
-
-Problem mit dieser Technologie ist die geringe thermische und strukturelle Integrität.
