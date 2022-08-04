@@ -8,7 +8,7 @@ Vakuumkammer mit verschiedene 'Kammerchen' fürs auftragen von Materials
 - Stickstoff : damit die Entspannung und komprimieren kein Wasser bilden
 - 
 
-Drück: 1-10 mba
+Drück: 1-10 mbar
 Temp : 200C
 
 Amorphe Schicht ist besser da Kornbildung Störungen auf der Schichten bildet
