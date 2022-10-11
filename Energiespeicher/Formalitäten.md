@@ -30,3 +30,10 @@ $$C = -I_0 + \frac{R_n}{f_a}$$
 $$I_0 = i_0 \cdot E$$
 Speicherkosten?
 $$K= \frac{k_V}{\rho \cdot c_p \cdot \Delta T}$$
+![[Drawing 2022-10-11 10.52.01.excalidraw|300]]
+a: max. spez. Speicherkosten in €/kWh, b: Zykluszeit in Tagen (alle in lg(a,b) dargestellt)
+
+## 2. Thermischer Energiespeicher
+kommt in thermischen und chemischen Formen vor.
+Sensible Wärme kann sich ausdehnen! Normalformel: $Q = m\cdot c_p\cdot \Delta T$
+es gibt direkte (Speichermedium wird eingegossen) und indirekte Speicherung (mit WÜ)
