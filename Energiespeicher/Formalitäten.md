@@ -12,27 +12,5 @@ Unterschiede bei Strom- und Wärmeversorgung (aktueller Stand)
 Strom: Angebot und Verbrauch müssen immer auf dem gleichen Betrag gebracht werden, starke Schwankungen Tag-Nacht, nicht saisonal
 Wärme: saisonaleschwankungen, 
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Charakterisierung von Speichern
+Kapa $E$, Leistung $P$, Speicherdauer/Speicher-, Stillstandszeit, Zyklus
