@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Energiespeicher/Formalitäten.md",
+            "file": "Elektrizitätswirtschaft/Einführung.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energiespeicher/Formalitäten.md",
+                "file": "Elektrizitätswirtschaft/Einführung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,10 +95,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3c8a05136a1432f8",
+  "active": "8878e8ee5ff565f6",
   "lastOpenFiles": [
-    "PV1_Physik der Solarzelle/01-Festkörperphysik.md",
     "Energiespeicher/Formalitäten.md",
+    "PV1_Physik der Solarzelle/01-Festkörperphysik.md",
     "Excalidraw/Drawing 2022-10-11 10.52.01.excalidraw.md",
     "Calendar/wichtige sachen!.md",
     "RWT/Klausurfragen.md",
