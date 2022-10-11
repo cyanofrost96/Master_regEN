@@ -25,4 +25,6 @@ Kosten für Planung und Bau, Speichermaterial, Kapitalkosten
 ### Variable Kosten
 zeitliche Preis-Diff. (Abzinsung)
 
-Kapitalwer
+Kapitalwertmethode
+$$C = -I_0 + \frac{R_n}{f_a}$$
+$$I_0 = i_0 \cdot E$$
