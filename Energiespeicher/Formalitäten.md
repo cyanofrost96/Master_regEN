@@ -37,4 +37,6 @@ a: max. spez. Speicherkosten in €/kWh, b: Zykluszeit in Tagen (alle in lg(a,b)
 kommt in thermischen und chemischen Formen vor.
 Sensible Wärme kann sich ausdehnen! Normalformel: $Q = m\cdot c_p\cdot \Delta T$
 es gibt direkte (Speichermedium wird eingegossen) und indirekte Speicherung (mit WÜ)
-gespeicherte Wärme kommt im Tank in Schichten vor.
+gespeicherte Wärme kommt im Tank in Schichten vor -> Ein- und Rücklaufröhren kommen in verschiedene Schichten mit Membran für wirbellose/laminare Bewegung. Verwendet für mehrere Quelle- und Verbrauchtemperaturen.
+
+Kombispeichersystem, alles in einem "Tank" verkapselt (Verbrenner auch drin) 
