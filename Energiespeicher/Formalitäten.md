@@ -11,6 +11,7 @@ Unterschiede bei Strom- und Wärmeversorgung (aktueller Stand)
 -lastgang
 Strom: Angebot und Verbrauch müssen immer auf dem gleichen Betrag gebracht werden, starke Schwankungen Tag-Nacht, nicht saisonal
 Wärme: saisonaleschwankungen, 
+
  
 
 
