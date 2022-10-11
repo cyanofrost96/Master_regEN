@@ -28,3 +28,5 @@ zeitliche Preis-Diff. (Abzinsung)
 Kapitalwertmethode
 $$C = -I_0 + \frac{R_n}{f_a}$$
 $$I_0 = i_0 \cdot E$$
+Speicherkosten?
+$$K= \frac{k_V}{\rho \cdot c_p \cdot \Delta T}$$
