@@ -14,3 +14,15 @@ Wärme: saisonaleschwankungen,
 
 Charakterisierung von Speichern
 Kapa $E$, Leistung $P$, Speicherdauer/Speicher-, Stillstandszeit, Zyklus
+
+Wirkungsgrad und Verluste: bereitgestellte Entladeenergie zu aufgenommener Energie
+
+Sicherheit
+
+## Kosten
+### Feste Kosten
+Kosten für Planung und Bau, Speichermaterial, Kapitalkosten
+### Variable Kosten
+zeitliche Preis-Diff. (Abzinsung)
+
+Kapitalwer
