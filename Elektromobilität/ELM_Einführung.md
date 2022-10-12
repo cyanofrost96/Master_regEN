@@ -10,3 +10,4 @@ WLTP : Worldwide Harmonised Light-Duty Vehicles Test Procedure (wie STC für Aut
 
 ## Hybrid Tech
 Autos mit 2 Antrieben und 2 Energiequellen
+hat meistens nur 12kWh Batterie. Hintere Getriebe elektrisch und vordere Verbrenner.
