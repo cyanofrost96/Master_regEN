@@ -1,1 +1,7 @@
-Technologie mit dem Infrastruktur.
+Verbindung zw. Technologie mit dem Infrastruktur zu verstehen.
+
+1L Diesel = 10kWh, hat $\eta$ von ca. 25%
+
+typische Akkugroße eines BEVs; 70kWh mit $\eta$ von 95%
+
+das heißt anstatt 1:10 (in der Sinne von verfügbaren Energie) hat man 1:3 nutzbare Energie
