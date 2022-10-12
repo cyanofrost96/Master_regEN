@@ -11,3 +11,9 @@ WLTP : Worldwide Harmonised Light-Duty Vehicles Test Procedure (wie STC für Aut
 ## Hybrid Tech
 Autos mit 2 Antrieben und 2 Energiequellen
 hat meistens nur 12kWh Batterie. Hintere Getriebe elektrisch und vordere Verbrenner.
+
+Seriell-Hybrid: Verbrennungsmotor hat keine mechanische Verbindung zur Achse.
+Energiewandlungsprozess: chemisch - mech - elektrisch (teilweise zum Batterie aufladen) - mechanisch
+Vorteil: der Motor arbeitet *fast* immer auf dem effizientesten Punkt.
+
+Parallel-Hybrid: Achse kann durch Verbrennungs- und E-Motor angetrieben werden.
