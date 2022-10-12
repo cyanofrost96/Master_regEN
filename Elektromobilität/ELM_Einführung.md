@@ -14,6 +14,8 @@ hat meistens nur 12kWh Batterie. Hintere Getriebe elektrisch und vordere Verbren
 
 Seriell-Hybrid: Verbrennungsmotor hat keine mechanische Verbindung zur Achse.
 Energiewandlungsprozess: chemisch - mech - elektrisch (teilweise zum Batterie aufladen) - mechanisch
-Vorteil: der Motor arbeitet *fast* immer auf dem effizientesten Punkt.
+Vorteil: der Motor arbeitet *fast* immer auf dem effizientesten Punkt. bsp.: i3, Schiffen und Loks
 
-Parallel-Hybrid: Achse kann durch Verbrennungs- und E-Motor angetrieben werden.
+Parallel-Hybrid: Achse kann durch Verbrennungs- und E-Motor angetrieben werden. bsp.: Prius
+
+Misch-Hybrid: Variable Drehzahl für den Verbrennungsmotor ist ermöglicht -> effizient laufen.
