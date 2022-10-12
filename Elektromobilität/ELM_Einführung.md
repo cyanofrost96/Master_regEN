@@ -8,3 +8,5 @@ das heißt anstatt 1:10 (in der Sinne von verfügbaren Energie) hat man 1:3 nutz
 
 WLTP : Worldwide Harmonised Light-Duty Vehicles Test Procedure (wie STC für Autoreichweite und Effizienz)
 
+## Hybrid Tech
+Autos mit 2 Antrieben und 2 Energiequellen
