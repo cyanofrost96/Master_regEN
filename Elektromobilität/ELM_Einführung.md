@@ -1,0 +1,1 @@
+Technologie mit dem Infrastruktur.

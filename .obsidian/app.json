@@ -13,5 +13,6 @@
   },
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "promptDelete": false
 }
