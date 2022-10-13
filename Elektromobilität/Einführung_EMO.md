@@ -1,4 +1,4 @@
-Verbindung zw. Technologie mit dem Infrastruktur zu verstehen.
+Verbindung zw. Technologie elektrischer Automobilindustrie mit dem Infrastruktur zu verstehen.
 
 1L Diesel = 10kWh, hat $\eta$ von ca. 25%
 

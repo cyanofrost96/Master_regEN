@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elektromobilität/Einführung_BM2.md",
+            "file": "Biogene Treibstoffe/Einführung_BM2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektromobilität/Einführung_BM2.md",
+                "file": "Biogene Treibstoffe/Einführung_BM2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,8 @@
   },
   "active": "3c8a05136a1432f8",
   "lastOpenFiles": [
-    "Elektromobilität/ELM_Einführung.md",
+    "Elektromobilität/Einführung_EMO.md",
+    "Biogene Treibstoffe/Einführung_BM2.md",
     "Elektrizitätswirtschaft/Einführung.md",
     "Energiespeicher/Formalitäten.md",
     "PV1_Physik der Solarzelle/01-Festkörperphysik.md",
@@ -105,7 +106,6 @@
     "Calendar/wichtige sachen!.md",
     "RWT/Klausurfragen.md",
     "RWT/3-Verbrennung.md",
-    "Calendar/master_sem2 Plan.md",
-    "Calendar/Kolloquium Struktur.md"
+    "Calendar/master_sem2 Plan.md"
   ]
 }
