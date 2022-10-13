@@ -15,3 +15,5 @@ Um das Öl möglichst viel aus dem Saat zu gewinnen wird nicht nur mechanisch ge
 
 Durch Subventionen können das fertig ausgepresste Presskuchen sehr billig als Futtermittel verkauft werden.
 
+Um Pflanzenöl als Kraftstoff einzusetzen muss entweder die Motoren angepasst werden, oder das p.Öl.
+reine Pflanzöl besteht aus 3 C-Kette (Glycerin), das Mischen mit Dieselkraftstoff ermöglicht das Nutzen von p.Öl als Kraftstoff.
