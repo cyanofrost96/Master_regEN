@@ -12,3 +12,5 @@ PV ist nicht schwarzstartfähig, Netz ist noch nötig.
 ## 31.01.23 Klausur!
 
 Förderungen sind wie Anschub für neue Technologien (Starter), EEG ist dazu um diese "neue" Technologie zu regeln. Förderungen sind auf dazu um massenhafte Veränderungen voranzutreiben. z.B: eAutos, Wohndämmung bei Mehrhäusern.
+
+Planbarkeit bei erneuerbaren ist anders als die konventionelle Kraftwerke und deswegen kommen die erneuerbaren als Vorrang. Wird geregelt durch Einspeisevolumen.
