@@ -8,3 +8,5 @@ Energie und Leistung, Unterschied bitte merken!
 El. macht nur 30% des gesamten Verbrauchs Deutschland mit 550TWh/a
 
 PV ist nicht schwarzstartfähig, Netz ist noch nötig.
+
+## 31.01.23 Klausur!
