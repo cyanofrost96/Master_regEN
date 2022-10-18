@@ -10,3 +10,5 @@ El. macht nur 30% des gesamten Verbrauchs Deutschland mit 550TWh/a
 PV ist nicht schwarzstartfähig, Netz ist noch nötig.
 
 ## 31.01.23 Klausur!
+
+Förderungen sind wie Anschub für neue Technologien (Starter), EEG ist dazu um diese "neue" Technologie zu regeln. Förderungen sind auf dazu um massenhafte Veränderungen voranzutreiben. z.B: eAutos, Wohndämmung bei Mehrhäusern.
