@@ -19,3 +19,5 @@ Deu hat 3GW el. Leistungreserven. Falls der Last noch höher ist, dann muss Last
 
 Speicherkosten by typischen 10kWh Hausspeicher : 33ct/kWh (mit Annahme 3000 Vollzyklen, 10k€).
 d.h, wenn el. gespeichert wird dann: $E_{PV} + E_{batt}$. Speichern von Netzstrom wäre am teuersten.
+
+Wirkleistung stabilisiert den Frequenz, Blindleistung die Spannung
