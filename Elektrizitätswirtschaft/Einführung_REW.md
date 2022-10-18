@@ -21,3 +21,7 @@ Speicherkosten by typischen 10kWh Hausspeicher : 33ct/kWh (mit Annahme 3000 Voll
 d.h, wenn el. gespeichert wird dann: $E_{PV} + E_{batt}$. Speichern von Netzstrom wäre am teuersten.
 
 Wirkleistung stabilisiert den Frequenz, Blindleistung die Spannung
+
+SDL : System Dienst Leistung - Die Maßnahmen: f-haltung, U-haltung, Versorgungswiederaufbau, Betriebsführung (IKT)
+
+
