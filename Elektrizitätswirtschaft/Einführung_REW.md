@@ -16,3 +16,6 @@ Förderungen sind wie Anschub für neue Technologien (Starter), EEG ist dazu um 
 Planbarkeit bei erneuerbaren ist anders als die konventionelle Kraftwerke und deswegen kommen die erneuerbaren als Vorrang. Wird geregelt durch Einspeisevolumen.
 
 Deu hat 3GW el. Leistungreserven. Falls der Last noch höher ist, dann muss Last abgeschaltet werden.
+
+Speicherkosten by typischen 10kWh Hausspeicher : 33ct/kWh (mit Annahme 3000 Vollzyklen, 10k€).
+d.h, wenn el. gespeichert wird dann: $E_{PV} + E_{batt}$. Speichern von Netzstrom wäre am teuersten.
