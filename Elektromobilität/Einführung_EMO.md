@@ -28,3 +28,6 @@ Die Autoindustrie machen folgende Arbeit:
 - Entwicklung und Motorbauen: eine der beste BMW (bayerischer Motor Werke)
 - Einkaufen: Grund fürs Kaufen von Teilen: günstiger (durch Wettbewerb) Teile kaufen.
 - Qualitätsmanagement: Finden von dem Punkt zw. kostengünstiger und höher Qualität des Produkts. Gleichzeitig kontrollieren und die Spezifikation auflisten.
+
+VW ist eine Automobilindustrie und gleichzeitig ein Holding von (Porsche, Audi, Skoda, SEAT, Bentley, Bugatti)
+
