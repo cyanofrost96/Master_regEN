@@ -23,4 +23,8 @@ Misch-Hybrid: Variable Drehzahl für den Verbrennungsmotor ist ermöglicht -> ef
 ## Deutsche Automobilindustrie
 VW alleine produziert 10 Mio. Autos / Jahr
 
-Die Autoindustrie machen nur Schweißen, Zusammenbauen und Pressen. Ansonsten sind die zuständig für die Entwicklung. Grund fürs Kaufen: günstiger (durch Wettbewerb) Teile kaufen.
+Die Autoindustrie machen folgende Arbeit:
+- Blecharbeit: Schweißen, Zusammenbauen und Pressen. 
+- Entwicklung und Motorbauen: eine der beste BMW (bayerischer Motor Werke)
+- Einkaufen: Grund fürs Kaufen von Teilen: günstiger (durch Wettbewerb) Teile kaufen.
+- Qualitätsmanagement: Finden von dem Punkt zw. kostengünstiger und höher Qualität des Produkts. Gleichzeitig kontrollieren und die Spezifikation auflisten.
