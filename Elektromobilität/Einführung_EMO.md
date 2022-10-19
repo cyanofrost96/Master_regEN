@@ -33,4 +33,4 @@ VW ist eine Automobilindustrie und gleichzeitig ein Holding von (Porsche, Audi, 
 
 Renault gehört Dacia als günstigere Marke
 
-Änderungen beim Arbeitsplatz in Automobilindustrie: Motorenbauer (Verbrennungsmotor) wird weniger gebraucht und werden seine Arbeit verloren 
+Änderungen beim Arbeitsplatz in Automobilindustrie: Motorenbauer (Verbrennungsmotor) wird weniger gebraucht und werden seine Arbeit verloren. ca. 500k müssen ihre Arbeit verlassen.
