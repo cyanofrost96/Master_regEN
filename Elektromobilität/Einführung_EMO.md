@@ -31,3 +31,4 @@ Die Autoindustrie machen folgende Arbeit:
 
 VW ist eine Automobilindustrie und gleichzeitig ein Holding von (Porsche, Audi, Skoda, SEAT, Bentley, Bugatti)
 
+Renault gehört Dacia als günstigere Marke
