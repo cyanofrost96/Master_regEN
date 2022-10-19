@@ -24,4 +24,16 @@ Wirkleistung stabilisiert den Frequenz, Blindleistung die Spannung
 
 SDL : System Dienst Leistung - Die Maßnahmen: f-haltung, U-haltung, Versorgungswiederaufbau, Betriebsführung (IKT)
 
+wirtschaftliche Fachbegriffe: CAPEX, OPEX
 
+Produktivität: Effizienz, Verhältnis zw. Output-Menge zu Input-Menge
+Wirtschaftlichkeit: Ertrag eines Unternehmens zum Aufwand
+Rentabilität: Gewinn / eingesetztes Kapital
+Wertschöpfung, -stufe: Veredelung eines Produktes, passiert kontinuierlich wie eine Kette.
+
+Wertschöpfungsstufen Entstehung und Betrieb PV-KW
+Logistik: Die Ware (Modulen, Kabel, Umrichter, Gestell) liefern, dies macht EPC (auch das Bauen)
+Projekt-Entwickler: Simulationen, Lage studieren, Verträge mit anderen Unternehmen vereinbaren.
+die Idee wird dann an Investoren "verkauft"
+Investoren: Bank, Eigenkapital, Fremdkapital.
+SPV beauftragt Berater und EPC.
