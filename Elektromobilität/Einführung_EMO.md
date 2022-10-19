@@ -22,3 +22,5 @@ Misch-Hybrid: Variable Drehzahl für den Verbrennungsmotor ist ermöglicht -> ef
 
 ## Deutsche Automobilindustrie
 VW alleine produziert 10 Mio. Autos / Jahr
+
+Die Autoindustrie machen nur Schweißen, Zusammenbauen und Pressen. Anson
