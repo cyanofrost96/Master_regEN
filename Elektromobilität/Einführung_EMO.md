@@ -23,4 +23,4 @@ Misch-Hybrid: Variable Drehzahl für den Verbrennungsmotor ist ermöglicht -> ef
 ## Deutsche Automobilindustrie
 VW alleine produziert 10 Mio. Autos / Jahr
 
-Die Autoindustrie machen nur Schweißen, Zusammenbauen und Pressen. Anson
+Die Autoindustrie machen nur Schweißen, Zusammenbauen und Pressen. Ansonsten sind die zuständig für die Entwicklung. Grund fürs Kaufen: günstiger (durch Wettbewerb) Teile kaufen.
