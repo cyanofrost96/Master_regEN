@@ -19,3 +19,6 @@ Vorteil: der Motor arbeitet *fast* immer auf dem effizientesten Punkt. bsp.: i3,
 Parallel-Hybrid: Achse kann durch Verbrennungs- und E-Motor angetrieben werden. bsp.: Prius
 
 Misch-Hybrid: Variable Drehzahl für den Verbrennungsmotor ist ermöglicht -> effizient laufen.
+
+## Deutsche Automobilindustrie
+VW alleine produziert 10 Mio. Autos / Jahr
