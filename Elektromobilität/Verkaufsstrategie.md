@@ -1,0 +1,5 @@
+- Kundenklasse kategorisieren; eher für Stadtmenschen, die nur kürze Strecke zurücklegen werden.
+- Zweite Auto aus Umweltgründen, Effizienz (Kleinauto, "Hausfrauenauto")
+- Als Spaßauto verkauft wegen höhe Beschleunigung.
+- Gleiche Komfortlevel wie Verbrenner
+- 
