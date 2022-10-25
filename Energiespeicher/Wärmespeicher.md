@@ -1,4 +1,5 @@
-Sensible WS (entwickelt; Stand 2018. typischer Wert: 10MWh; 0,6kWh/m2.K; Medium: Thermoöl)
+## Sensible WS
+bsp: siehe Folie (entwickelt; Stand 2018. typischer Wert: 10MWh; 0,6kWh/m2.K; Medium: Thermoöl)
 
 ### Zusammenhang zw. Kosten, Kapa., und Schüttdichte
 Wegen der höhen Kosten des Thermoöls werden in dem Speicher auch günstige Feststoffe als Kostenminderung reingeschüttet. Das Verhältnis zwischen den beiden Stoffen verändert die Gesamtkosten und die Speicherdichte.
@@ -12,3 +13,11 @@ tonreichhaltige Boden kann mit U-formiges Rohr senkrecht eingesteckt (erstmal ge
 
 ### weitere sensible WS in Entwicklung
 eutektische Salzmischungen als Speichermedium
+
+## PCM Speicher
+*eng.: Phase Changing Material*
+Diese Speicherart nutzt die Phasenübergangsenthalpie eines Materials als Speicher aus.
+
+bsp.: Heißwasser- und Dampfspeicher (mit Gleichdruckspeicher); für die kurzfristige Erhöhung des Dampfmassenstromes eines Kreislaufes verwendet
+
+Eisspeicher bzw. Slurries als Kältespeicher.
