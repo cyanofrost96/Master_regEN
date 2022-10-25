@@ -42,3 +42,4 @@ EPC muss USP (Unique Selling Point / Alleinstellungsmerkmal) erstellen. Manche h
 Bank gibt üblicherweise die meiste Geld für das Projekt ab und dafür soll das Projekt von einem Extern überprüft werden, ob es physikalisch sinnvoll.
 Versicherung versichert das Projekt, solange die noch im Rahmen von White List ist.
 Investor trägt die Versicherungsprämie. 
+OPM (Operation and Management, *eng. Customer Service*) überwacht den Betrieb. Als CS wird viele Kenntnisse über die gesamte Anlage benötigt.
