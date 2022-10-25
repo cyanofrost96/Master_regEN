@@ -38,8 +38,9 @@ Verträge sind dafür da um eine Sicherheit des Projektlauf zu gewährleisten.
 die Idee wird dann an Investoren "verkauft"
 Investoren: die bekommen Geld vom Bank (Fremdkapital), wird teilweise auch mit Eigenkapital finanziert werden
 SPV (Special Purpose Vehicle, wie GmbH) beauftragt EPC; (Engineering Procurement Construction) / Generalunternehmen um die beste Komponente zu realisieren.
-EPC muss USP (Unique Selling Point / Alleinstellungsmerkmal) erstellen. Manche haben eigene Lager, damit man der Kaufprozess verkürzt.
+EPC muss USP (Unique Selling Point / Alleinstellungsmerkmal) erstellen. Manche haben eigene Lager, damit man der Kaufprozess verkürzt. Manche bieten SCADA an, oder oder oder..
 Bank gibt üblicherweise die meiste Geld für das Projekt ab und dafür soll das Projekt von einem Extern überprüft werden, ob es physikalisch sinnvoll.
 Versicherung versichert das Projekt, solange die noch im Rahmen von White List ist.
 Investor trägt die Versicherungsprämie. 
 OPM (Operation and Management, *eng. Customer Service*) überwacht den Betrieb. Als CS wird viele Kenntnisse über die gesamte Anlage benötigt.
+Zuletzt muss die Anlage ans Netz und dazu wird ein Arbeiter von der Netzbetreiber zum Ort fahren und prüfen ob alles nach den bestimmten Vorgaben eingehalten wird. Dann wird es angeschaltet.
