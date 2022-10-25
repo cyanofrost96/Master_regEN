@@ -40,3 +40,4 @@ Investoren: die bekommen Geld vom Bank (Fremdkapital), wird teilweise auch mit E
 SPV (Special Purpose Vehicle, wie GmbH) beauftragt Berater und EPC.
 Bank gibt üblicherweise die meiste Geld für das Projekt ab und dafür soll das Projekt von einem Extern überprüft werden, ob es physikalisch sinnvoll.
 Versicherung versichert das Projekt, solange die noch im Rahmen von White List ist.
+Investor trägt die Versicherungsprämie.
