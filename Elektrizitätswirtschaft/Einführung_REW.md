@@ -38,6 +38,7 @@ Verträge sind dafür da um eine Sicherheit des Projektlauf zu gewährleisten.
 die Idee wird dann an Investoren "verkauft"
 Investoren: die bekommen Geld vom Bank (Fremdkapital), wird teilweise auch mit Eigenkapital finanziert werden
 SPV (Special Purpose Vehicle, wie GmbH) beauftragt EPC; (Engineering Procurement Construction) / Generalunternehmen um die beste Komponente zu realisieren.
+EPC muss USP (Unique Selling Point / Alleinstellungsmerkmal) erstellen. Manche haben eigene Lager, damit man der Kaufprozess verkürzt.
 Bank gibt üblicherweise die meiste Geld für das Projekt ab und dafür soll das Projekt von einem Extern überprüft werden, ob es physikalisch sinnvoll.
 Versicherung versichert das Projekt, solange die noch im Rahmen von White List ist.
 Investor trägt die Versicherungsprämie. 
