@@ -34,7 +34,7 @@ Wertschöpfung, -stufe: Veredelung eines Produktes, passiert kontinuierlich wie 
 ### Wertschöpfungsstufen Entstehung und Betrieb PV-KW
 Logistik: Die Ware (Modulen, Kabel, Umrichter, Gestell) liefern, dies macht EPC (auch das Bauen)
 Projekt-Entwickler: Simulationen, Lage studieren, Verträge mit anderen Unternehmen vereinbaren. Endprodukt: Baugenehmigung.
-Verträge sind dafür da um eine Sicherheit des Projektlauf zu gewährleisten
+Verträge sind dafür da um eine Sicherheit des Projektlauf zu gewährleisten.
 die Idee wird dann an Investoren "verkauft"
-Investoren: Bank, Eigenkapital, Fremdkapital.
-SPV beauftragt Berater und EPC.
+Investoren: die bekommen Geld vom Bank (Fremdkapital), wird teilweise auch mit Eigenkapital finanziert werden
+SPV (Special Purpose Vehicle, wie GmbH) beauftragt Berater und EPC.
