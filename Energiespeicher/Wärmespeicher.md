@@ -1,0 +1,8 @@
+Sensible WS (entwickelt; Stand 2018. typischer Wert: 10MWh; 0,6kWh/m2.K; Medium: Thermoöl)
+
+### Zusammenhang zw. Kosten, Kapa., und Schüttdichte
+Wegen der höhen Kosten des Thermoöls werden in dem Speicher auch günstige Feststoffe als Kostenminderung reingeschüttet. Das Verhältnis zwischen den beiden Stoffen verändert die Gesamtkosten und die Speicherdichte.
+
+Spezifische Kosten: $$K_{kosten} = \psi \cdot K_{V,s} + (1-\psi_s) \cdot K_{V,Öl}$$
+Speicherkapazität: $$K_Q = c_{p,s} \cdot \rho_s \cdot \psi_s + c_{p,Öl} \cdot \rho_{Öl} \cdot (1-\psi_s)$$
+*ist einfach eine lineare Gleichung von 0 bis 100% mit die jeweilige Vergleichspreis sowie -kapa berechnet*
