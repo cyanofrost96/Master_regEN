@@ -12,3 +12,8 @@ heutzutage werden folgende Punkte zu beachten:
 - reduzierte Spaßauto
 - Alltagsauto
 
+Lithium kommen großenteils aus Australien und Chile.
+Wasserstoff als Energieträger für die Verkehrswende wird schwierig wegen den mehrmals gestapelte Umwandlungsverluste (von Kraftwerke zu kinetische Energie nur 23%). Währenddessen für BEV geht es bis zu 75%
+
+Vorteile von FCEV: schnellere Ladung
+
