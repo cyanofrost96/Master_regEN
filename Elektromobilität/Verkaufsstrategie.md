@@ -11,4 +11,4 @@ heutzutage werden folgende Punkte zu beachten:
 - Reichweite
 - reduzierte Spaßauto
 - Alltagsauto
-- 
+
