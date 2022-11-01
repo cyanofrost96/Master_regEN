@@ -9,3 +9,6 @@ Solarpark 800€/kW
 ## Speicherbedarf
 ### Herausforderungen
 Pariser Klimaschutzabkommen: (stand 2022) 1,2K schon gestiegen
+$\ce{CO_2}$ ab 1.1.2020 500-700 Gtonne
+$\ce{CO_2}$ ab 1.1.2023 380-580 Gtonne
+in 6 bis 9 Jahren wird der CO2-Budget in Deutschland ausgeschöpft.
