@@ -15,6 +15,8 @@ in 6 bis 9 Jahren wird der CO2-Budget in Deutschland ausgeschöpft.
 geplante Klimaneutralität liegt am 2045
 
 ### Szenarien
-für Deutschland mit SRU-Szene (2010)
-diese Szenarien betrachtet nur Strom, keine Sektorkopplung und nur Kostenbasiert. Fehleinschätzung bei PV
-
+- für Deutschland mit SRU-Szene (2010):
+	diese Szenarien betrachtet nur Strom, keine Sektorkopplung und nur Kostenbasiert. Fehleinschätzung bei PV
+	Schwerpunkt: Offshore Wind - Speicher in Norwegen (Pumpen) nötig wäre 50TWh
+	Kritik: Enormer Leistungsbedarf >40GW und Akzeptanz.
+- UBA-Szene (2010)
