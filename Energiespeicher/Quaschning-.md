@@ -6,3 +6,5 @@ Hickley Point C in England 2,4GW kostet 1,1-1,8 Billion € = 9k€/kW (7000h Vo
 Wind onshore 1300€/kW (2500h Volllast)
 Solarpark 800€/kW
 
+## Speicherbedarf
+
