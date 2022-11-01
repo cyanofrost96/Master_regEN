@@ -7,4 +7,5 @@ Wind onshore 1300€/kW (2500h Volllast)
 Solarpark 800€/kW
 
 ## Speicherbedarf
-
+### Herausforderungen
+Pariser Klimaschutzabkommen: (stand 2022) 1,2K schon gestiegen
