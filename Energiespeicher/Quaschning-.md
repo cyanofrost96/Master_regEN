@@ -16,4 +16,5 @@ geplante Klimaneutralität liegt am 2045
 
 ### Szenarien
 für Deutschland mit SRU-Szene (2010)
+diese Szenarien betrachtet nur Strom, keine Sektorkopplung und nur Kostenbasiert. Fehleinschätzung bei PV
 
