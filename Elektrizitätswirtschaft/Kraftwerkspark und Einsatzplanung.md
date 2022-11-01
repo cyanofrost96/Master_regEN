@@ -23,6 +23,8 @@ LCOE und Grenzkosten
 	- Normaler Zinssatz: $i_n$ = Inflation + Rendite + Risikozuschlag
 	- Realer Zinssatz: $$i_r = \frac{1+i_n}{1+\ce{inflationsrate}} - 1$$
 	- Mittelwerte Renditen wird je nach Regionen abgeschätzt (Tabelle siehe Folien)
-	WACC (Weighted )
+	WACC (Weighted Average Cost of Capital)
+	$$\ce{WACC}=\frac{E}{G} \cdot i_{EK} + \frac{F}{G} \cdot i_{FK} \cdot (1-s)$$
+	
 
 
