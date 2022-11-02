@@ -17,3 +17,5 @@ Wasserstoff als Energieträger für die Verkehrswende wird schwierig wegen den m
 
 Vorteile von FCEV: schnellere Ladung
 
+Lebensdauer der Batterie
+Welche Teile altern sich bei eAutos?
