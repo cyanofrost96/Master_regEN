@@ -31,6 +31,6 @@ in nutzbare Biodiesel verwandeln
 Deutschland verbraucht 60 mio. Tonnen Kraftstoff, dementsprechend wird 40 mio. ha benötigt (allein dafür!) Während dessen sind in 2021 nur 16,6 mio. ha für Landwirt verfügbar :(
 
 ## Herstellung - Veresterung
-Pflanzenöl wird mit Ethanol oder Methanol und Katalysator (Lauge) gemischt und ergibt sich Bioethanol + Glycerin. Der Katalysator und Glycerin müssen vor dem Verkauf wegfiltriert werden, ansonsten können die zur Verschmutzung des Motors/Einspritzdüsen führen.
+Pflanzenöl wird mit Ethanol oder Methanol und Katalysator (Lauge) gemischt und ergibt sich Monocarbonsäureester + Glycerin. Die Katalysatorreste und Glycerin müssen vor dem Verkauf wegfiltriert werden, ansonsten können die zur Verschmutzung des Motors/Einspritzdüsen führen.
 
 
