@@ -2,7 +2,7 @@
 mechanisches und chem. Verfahren. mittels Schneckenpresse und Hexan
 
 	fakten: 
-	- für 1t Rapssaat wird 62kWh elektrische Energie (und dazu 400kg Dampf) gebraucht; 
+	- für 1t Rapssaat wird 62kWh elektrische Energie (und dazu 400kg Dampf) gebraucht;  
 	- 15% des Endenergiegehaltes eines Pflanzenöl wird für die Produktion gebraucht, während dessen bei Biodiesel 32% (zentrale Ölmühlen)
 
 ### Kaltpresse
