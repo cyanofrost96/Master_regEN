@@ -6,5 +6,6 @@ mechanisches und chem. Verfahren
 ### Raffination
 bis zu 80°C erwärmt und mit Lösemittel gemischt, um mehr Ertrag zu bekommen. Lösemittel wird durch Verdampfen vom Öl abgetrennt.
 
+Ölgewinnungsschema kann in die Klausur kommen!
 
 Veredlung: in nutzbare Biodiesel verwandeln
