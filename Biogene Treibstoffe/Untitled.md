@@ -32,3 +32,4 @@ Deutschland verbraucht 60 mio. Tonnen Kraftstoff, dementsprechend wird 40 mio. h
 
 ## Herstellung - Umesterung
 Pflanzenöl wird mit Ethanol oder Methanol umestert.
+
