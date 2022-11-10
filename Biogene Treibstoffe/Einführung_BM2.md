@@ -17,3 +17,6 @@ Durch Subventionen können das fertig ausgepresste Presskuchen sehr billig als F
 
 Um Pflanzenöl als Kraftstoff einzusetzen muss entweder die Motoren angepasst werden, oder das p.Öl.
 reine Pflanzöl besteht aus 3 C-Kette (Glycerin), das Mischen mit Dieselkraftstoff ermöglicht das Nutzen von p.Öl als Kraftstoff.
+
+Kaltpresse bringt weniger Öl aber dadurch wird die Aroma noch enthalten
+
