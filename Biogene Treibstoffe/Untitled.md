@@ -1,4 +1,5 @@
-# Herstellung
+# Pflanzenöl
+## Herstellung
 mechanisches und chem. Verfahren. mittels Schneckenpresse und Hexan
 
 	fakten: 
@@ -23,5 +24,11 @@ Als Produkt von der Presse bekommt man Truböl, eine Mischung aus flüssige Öl 
 ### Filtration
 - typisches Filtrieren (kuchenbildende Filtration): mit Vlies/Filtertuch als "Anfangsfiltration" in einem Öltank das Ölsuspension filtrieren. Die Feststoffe versammelt sich oberhalb des Filters und bildet sich sog. "Kuchenfilter". Filtrationsergebnis kann nochmal in den Filter mehrmals reingekippt bis die gewünschte Reinigkeitsgrad erreicht
 - Tiefenfilterschicht: wie Wasser mit Sand filtrieren. "Filtersand wird langsam dreckig und muss regelmäßig getauscht werden"
-# Veredlung
+## Veredlung
 in nutzbare Biodiesel verwandeln
+
+# Biokraftstoff
+Deutschland verbraucht 60 mio. Tonnen Kraftstoff, dementsprechend wird 40 mio. ha benötigt (allein dafür!) Während dessen sind in 2021 nur 16,6 mio. ha für Landwirt verfügbar :(
+
+## Herstellung - Umesterung
+Pflanzenöl wird mit Ethanol oder Methanol umestert.
