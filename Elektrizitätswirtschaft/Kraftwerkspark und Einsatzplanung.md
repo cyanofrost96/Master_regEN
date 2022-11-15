@@ -25,6 +25,7 @@ LCOE und Grenzkosten
 	- Mittelwerte Renditen wird je nach Regionen abgeschätzt (Tabelle siehe Folien)
 	WACC (Weighted Average Cost of Capital)
 	$$\ce{WACC}=\frac{E}{G} \cdot i_{EK} + \frac{F}{G} \cdot i_{FK} \cdot (1-s)$$
-	
 
+## Komplexität
+Geld und Energiefluss in einem Bilanzkreis
 
