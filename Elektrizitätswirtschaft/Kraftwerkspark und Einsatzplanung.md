@@ -30,5 +30,5 @@ LCOE und Grenzkosten
 Geld und Energiefluss in einem Bilanzkreis
 
 BKV: Bilanzkreisverantwortlicher: müssen Leistung liefern, Last prognosieren, Energie kaufen und verkaufen
-zuständig für ausgeglichene Bilanz zw. Einspeisung und Entnahme, verglichen jede 15 mins.
+Zuständig für ausgeglichene Bilanz zw. Einspeisung und Entnahme, verglichen jede 15 mins. Das Ausgleichen bezieht sich den Strom aus Regelkraftwerken
 
