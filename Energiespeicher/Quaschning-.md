@@ -21,13 +21,16 @@ geplante Klimaneutralität liegt am 2045
 	Kritik: Enormer Leistungsbedarf >40GW und Akzeptanz.
 - UBA-Szene (2010)
 
-Agora Studie (2022): 
+### Agora Studie (2022): 
 Fintech Firma im Bereich Energiewende; Klimaneutralität 2045, 100% EE in 2035
 374 GW in 2030 und 535 GW in 2035 (PV 309 GW und Wind 215 GW)
 Flexibilisierung: V2G, Batteriespeicher, P2H, P2G
 Regelbare KW bleibt bei 80-60 GW bis Energiewende
 Speicher steigt deutlich, annahme: dominantiert von V2G und Heimspeicher.
 WKA braucht 6-7 Jahre zum bauen, viel Zeit beim Verträge und Genehmigung sammeln
+
+### SuperGrids vs. Speicher
+großräumig vernetzten Region.
 
 Ideen:
 Biomasse vs. Wasserstoff mit PV vergleichen (Landnutzungsgrad, Preis)
