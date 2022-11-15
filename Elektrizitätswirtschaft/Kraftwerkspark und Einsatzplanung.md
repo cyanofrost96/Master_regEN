@@ -42,3 +42,6 @@ Stromteilen sollen für die Energy-shifting und Regelleistung besser ausgestatte
 
 ## Regelstatik
 $K$: Leistungskennzahl beschreibt wie viele Leistung muss "getätigt" werden von einem KW bei einer Frequenzänderung. Die Steigung dieser Kennlinie hängt von der Große des KWs und die vereinbarten Steueranteil des KWs (sog. $S$ Droop) Dieser Vorgang heißt auch Primärregelung.
+
+Parallelbetrieb:
+Wenn mehrere KWs in einem Strang betrieben werden, dann soll verschiedene Kraftlinie je nach KW-Leistung angepasst gefahren werden.
