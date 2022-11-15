@@ -36,4 +36,9 @@ Zuständig für ausgeglichene Bilanz zw. Einspeisung und Entnahme, verglichen je
 Überwacher eines Übertragungnetzes
 
 ## Diskussion
-Anforderungen für SDL bis 2030: EE sollen spannungseinprägend anstatt stromeinprägend arbeiten.
+Anforderungen für SDL bis 2030: EE sollen spannungseinprägend anstatt stromeinprägend arbeiten. Dadurch kann EE auch schwarzstartfähig sein.
+
+Stromteilen sollen für die Energy-shifting und Regelleistung besser ausgestattet werden.
+
+## Regelstatik
+
