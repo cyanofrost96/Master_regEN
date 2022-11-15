@@ -35,3 +35,5 @@ Zuständig für ausgeglichene Bilanz zw. Einspeisung und Entnahme, verglichen je
 ## Netzbetriebmodi
 Überwacher eines Übertragungnetzes
 
+## Diskussion
+Anforderungen für SDL bis 2030: EE sollen spannungseinprägend anstatt stromeinprägend arbeiten.
