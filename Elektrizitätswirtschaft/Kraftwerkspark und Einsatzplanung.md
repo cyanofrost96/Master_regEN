@@ -41,4 +41,4 @@ Anforderungen für SDL bis 2030: EE sollen spannungseinprägend anstatt stromein
 Stromteilen sollen für die Energy-shifting und Regelleistung besser ausgestattet werden.
 
 ## Regelstatik
-
+$K$: Leistungskennzahl beschreibt wie viele Leistung muss "getätigt" werden von einem KW bei einer Frequenzänderung. Die Steigung dieser Kennlinie hängt von der Große des KWs und die vereinbarten Steueranteil des KWs (sog. $S$ Droop) Dieser Vorgang heißt auch Primärregelung.
