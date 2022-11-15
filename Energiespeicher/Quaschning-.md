@@ -22,4 +22,4 @@ geplante Klimaneutralität liegt am 2045
 - UBA-Szene (2010)
 
 Agora Studie (2022): 
-Fintech Firma im Bereich Energiewende
+Fintech Firma im Bereich Energiewende; 374 GW in 2030 und 535 in 2035
