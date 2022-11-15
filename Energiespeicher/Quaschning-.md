@@ -30,7 +30,8 @@ Speicher steigt deutlich, annahme: dominantiert von V2G und Heimspeicher.
 WKA braucht 6-7 Jahre zum bauen, viel Zeit beim Verträge und Genehmigung sammeln
 
 ### SuperGrids vs. Speicher
-großräumig vernetzten Region.
+großräumig vernetzten Region. aber nicht rund um die Erde
+kostengünstiger Strom aus Regionen mit höher Flächenverfügbarkeit aber mit enormer Leitungsausbau. -> nicht realistisch.
 
 Ideen:
 Biomasse vs. Wasserstoff mit PV vergleichen (Landnutzungsgrad, Preis)
