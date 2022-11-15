@@ -21,4 +21,5 @@ geplante Klimaneutralität liegt am 2045
 	Kritik: Enormer Leistungsbedarf >40GW und Akzeptanz.
 - UBA-Szene (2010)
 
-
+Agora Studie (2022): 
+Fintech Firma im Bereich Energiewende
