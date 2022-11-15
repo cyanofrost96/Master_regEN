@@ -20,3 +20,5 @@ geplante Klimaneutralität liegt am 2045
 	Schwerpunkt: Offshore Wind - Speicher in Norwegen (Pumpen) nötig wäre 50TWh
 	Kritik: Enormer Leistungsbedarf >40GW und Akzeptanz.
 - UBA-Szene (2010)
+
+
