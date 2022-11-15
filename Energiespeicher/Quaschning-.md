@@ -23,3 +23,4 @@ geplante Klimaneutralität liegt am 2045
 
 Agora Studie (2022): 
 Fintech Firma im Bereich Energiewende; 374 GW in 2030 und 535 in 2035
+WKA braucht 6-7 Jahre zum bauen, viel Zeit beim Verträge und Genehmigung sammeln
