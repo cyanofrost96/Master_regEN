@@ -51,3 +51,4 @@ Wenn mehrere KWs in einem Strang betrieben werden, dann soll verschiedene Kraftl
 
 Flachere $K$ trägt mehr Leistung zur Freq.stabilität bei (Spitzenlast).
 
+totale Leistungszahl $K_E = 1/K$, in Sommer beträgt diese 16 GW/Hz und Winter 18 GW/Hz
