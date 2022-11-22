@@ -62,3 +62,5 @@ Kosten: 0,183 €/kWh (ohne Selbstälterung mitberechnet) vergl. 3-6ct/kW/h
 Einteilung $\ce{P_{Regel}}$ und Bereitstellung: neg. (-) : mehr Last, geringer Erzeugung; pos.(+): andersrum.
 
 Last wird unter 47,5 Hz von KWs getrennt, damit es nicht zum Schwarzstart gegangen ist.
+
+Residuallast: min. Leistungsbedarf - EE
