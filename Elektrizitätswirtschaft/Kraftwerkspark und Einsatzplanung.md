@@ -69,3 +69,5 @@ Versorgungsqualität
 SAIDI - Nichtverfügbarkeit / min
 SAIFI - Häufigkeit der Unterbrechungen / min
 CAIDI - 
+
+Anreizregulierung: Maß für das Geld was der Erzeuger bekommt
