@@ -59,3 +59,5 @@ mit Ladezyklen von 3k VLZ = 30 GWh Energie sind bereitgestellt.
 
 Kosten: 0,183 €/kWh (ohne Selbstälterung mitberechnet) vergl. 3-6ct/kW/h
 
+Einteilung $\ce{P_{Regel}}$ und Bereitstellung: neg. (-) : mehr Last, geringer Erzeugung; pos.(+): andersrum.
+
