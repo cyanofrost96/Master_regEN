@@ -53,3 +53,9 @@ Flachere $K$ trägt mehr Leistung zur Freq.stabilität bei (Spitzenlast).
 
 totale Leistungszahl $K_E = 1/K$, in Sommer beträgt diese 16 GW/Hz und Winter 18 GW/Hz
 
+Kosteneinschätzung eines Akku-betriebene RegelKW:
+10MW; 10MWh (5 mio. + 500k€  Umrichter) = 5,5 mio€
+mit Ladezyklen von 3k VLZ = 30 GWh Energie sind bereitgestellt.
+
+Kosten: 0,183 €/kWh (ohne Selbstälterung mitberechnet) vergl. 3-6ct/kW/h
+
