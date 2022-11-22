@@ -64,3 +64,8 @@ Einteilung $\ce{P_{Regel}}$ und Bereitstellung: neg. (-) : mehr Last, geringer E
 Last wird unter 47,5 Hz von KWs getrennt, damit es nicht zum Schwarzstart gegangen ist.
 
 Residuallast: min. Leistungsbedarf - EE
+
+Versorgungsqualität
+SAIDI - Nichtverfügbarkeit / min
+SAIFI - Häufigkeit der Unterbrechungen / min
+CAIDI - 
