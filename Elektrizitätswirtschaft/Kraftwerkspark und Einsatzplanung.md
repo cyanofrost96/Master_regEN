@@ -41,7 +41,13 @@ Anforderungen für SDL bis 2030: EE sollen spannungseinprägend anstatt stromein
 Stromteilen sollen für die Energy-shifting und Regelleistung besser ausgestattet werden.
 
 ## Regelstatik
-$K$: Leistungskennzahl beschreibt wie viele Leistung muss "getätigt" werden von einem KW bei einer Frequenzänderung. Die Steigung dieser Kennlinie hängt von der Große des KWs und die vereinbarten Steueranteil des KWs (sog. $S$ Droop) Dieser Vorgang heißt auch Primärregelung.
+$K$: Leistungskennzahl beschreibt wie viele Leistung muss "getätigt" werden von einem KW bei einer Frequenzänderung. Die Steigung $K$ dieser Kennlinie hängt von der Große des KWs und die vereinbarten Steueranteil des KWs (sog. $S$ Droop) Dieser Vorgang heißt auch Primärregelung.
+
+$$K = \frac{\Delta P}{\Delta f} = \frac{P_N}{\Delta f_N}$$
+$$S = \frac{\Delta f_N}{f_N}$$
 
 Parallelbetrieb:
-Wenn mehrere KWs in einem Strang betrieben werden, dann soll verschiedene Kraftlinie je nach KW-Leistung angepasst gefahren werden.
+Wenn mehrere KWs in einem Strang betrieben werden, dann soll verschiedene Kraftlinie je nach KW-Leistung angepasst gefahren werden ([[Primärregelung]]). Nach bestimmter Zeit wird die Kennlinie des kräftigen KWs nach oben verschoben und die schwächere entlastet ([[Sekundärregelung]]).
+
+Flachere $K$ trägt mehr Leistung zur Freq.stabilität bei (Spitzenlast).
+
