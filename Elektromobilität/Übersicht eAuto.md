@@ -5,4 +5,3 @@ Synchronmaschine sind effizienter als Asynch. ?
 Soll Aerodynamisch sein damit bei höhen Geschwindigkeit wenig Strom verbraucht.
 Batterie mit Kühlung verlängert die Lebensdauer. Optimale Temp. : 25°C - Raumtemperatur
 
-
