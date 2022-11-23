@@ -6,3 +6,5 @@ Soll Aerodynamisch sein damit bei höhen Geschwindigkeit wenig Strom verbraucht.
 Batterie mit Kühlung verlängert die Lebensdauer. Optimale Temp. : 25°C - Raumtemperatur
 
 Batteriemodulformen: zylindrisch (18650 und 21700), prismatisch (kistenform, dreieck), Pouch
+Zylindrische Zellen sind einfacher zum Kühlen weil sie von selbst Löcher in einem Modulpaket bereitstellt.
+Pouch ist dünn und deswegen entweicht die Wärme leichter vom Körper.
