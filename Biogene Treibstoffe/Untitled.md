@@ -35,3 +35,6 @@ Pflanzenöl (Triglycerid) wird mit Ethanol oder Methanol und Katalysator (Alkali
 
 Wegen chemischer Gleichgewicht kann nur 66% der Ausgangsstoffe in Methylsäureester umgewandelt. Von daher wird mehr Methanol in der Reaktion gebracht.
 
+## Bioethanol
+7,44 kWh/kg, 789 kg/L
+ist teurer als Methanol (vergl. Erdöl)
