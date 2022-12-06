@@ -7,4 +7,8 @@ Vertragsformen:
 
 Strommarktliberalisierung: Entflechtung der Energiewertschöpfungskette - Trennung von Erzeugung, Üertragung und Vertrieb
 
-Day-Ahead Handel : Spotmarkt und Auktionsmarkt. Strom wird für den folgenden Tag stündlich gehandelt
+OTC (Over the Counter); Handel ohne Börse - Direkt zw. 2 Parteien
+
+Day-Ahead Handel : Spotmarkt und Auktionsmarkt. Strom wird für den folgenden Tag stündlich gehandelt. Wird bis zum 12 Uhr gehandelt.
+
+Intraday Handel : öffnet ab 15 Uhr einem Tag davor und wird in 15-min und 1h Paketblöcke gehandelt. Vorlaufszeit bis Fälligkeit heute liegt bei 5 mins.
