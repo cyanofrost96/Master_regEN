@@ -17,3 +17,7 @@ Intraday Handel : öffnet ab 15 Uhr einem Tag davor und wird in 15-min und 1h Pa
 
 ## Regelleistungsmarkt
 Ziel ist Aufrechthaltung der Stabilität
+
+Sie kriegen Geld in 2 Formen (Leistungs- und Arbeitspreis)
+- Leistungspreis : allein durch Bereitstellung der Leistung (€/MW)
+- Arbeitspreis : durch das Aufnehmen überschüssiger Energie / Abgeben der übrige Energie (Regelenergie in €/MWh)
