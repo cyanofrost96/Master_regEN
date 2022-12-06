@@ -22,3 +22,6 @@ Sie kriegen Geld in 2 Formen (Leistungs- und Arbeitspreis)
 - Leistungspreis : allein durch Bereitstellung der Leistung (€/MW)
 - Arbeitspreis : durch das Aufnehmen überschüssiger Energie / Abgeben der übrige Energie (Regelenergie in €/MWh)
 Es funktioniert nach dem Prinzip von Pay as Bid
+
+## Mikroökonomie
+Konzept der Nachfrage : abnehmenden Grenznutzen, sinkender Wert einer Ware
