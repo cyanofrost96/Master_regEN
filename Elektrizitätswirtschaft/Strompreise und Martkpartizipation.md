@@ -25,3 +25,10 @@ Es funktioniert nach dem Prinzip von Pay as Bid
 
 ## Mikroökonomie
 Konzept der Nachfrage : abnehmenden Grenznutzen, sinkender Wert einer Ware
+
+"Perfekter" Wettbewerb: Viele Produzenten, sie sind Preisnehmer. Es gibt immer irgendandere der unterbietet.
+
+Soziale / ökonomische Wohlfahrt: Pareto-Effizienz
+
+"imperfekter" Wettbewerb : monopol
+Ursachen: staatliche Lizenz, eigene Besitz von einer Ware, Kartell
