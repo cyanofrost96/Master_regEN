@@ -1,0 +1,1 @@
+Kurve Geschwindigkeit zum Verbrauch hat einen exponentiellen Anstieg
