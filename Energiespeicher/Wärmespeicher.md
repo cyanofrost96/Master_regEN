@@ -38,4 +38,5 @@ Stillstand / Stagnation: wenn der Speicher voll ist; Folge: Wasser im Tank kann 
 ST-Regler soll so ausgelegt werden: 
 - Temperatur von dem Kollektor und Speicher messen
 - Nur einschalten wenn $\ce{T_K > T_S}$ , sonst ausschalten (auch bei zu höhen Speichertemp.)
-- 
+
+Low-Flow: <25 m³/h für geringe Verwirbelung. Schichtenspeicher möglich! Dadurch kann der beste Rücklauf für den besten Wirkungsgrad ausgesucht.
