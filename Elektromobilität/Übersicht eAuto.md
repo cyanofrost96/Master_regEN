@@ -14,3 +14,5 @@ Pouch ist dünn und deswegen entweicht die Wärme leichter vom Körper.
 mindest Reichweite von Hybriden nach BAFA: ?, am Ende (aktuell) bekommt Hybride keine Prämien mehr weil sie nicht "umweltfreundlich" genug.
 
 Üblicherweise kein platz mehr übrig für 2 Maschine und -Speicher
+
+## Antrieb
