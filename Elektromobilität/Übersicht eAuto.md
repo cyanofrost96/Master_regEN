@@ -8,3 +8,9 @@ Batterie mit Kühlung verlängert die Lebensdauer. Optimale Temp. : 25°C - Raum
 Batteriemodulformen: zylindrisch (18650 und 21700), prismatisch (kistenform, dreieck), Pouch
 Zylindrische Zellen sind einfacher zum Kühlen weil sie von selbst Löcher in einem Modulpaket bereitstellt.
 Pouch ist dünn und deswegen entweicht die Wärme leichter vom Körper.
+
+## Hybrid Autos
+
+mindest Reichweite von Hybriden nach BAFA: ?, am Ende (aktuell) bekommt Hybride keine Prämien mehr weil sie nicht "umweltfreundlich" genug.
+
+Üblicherweise kein platz mehr übrig für 2 Maschine und -Speicher
