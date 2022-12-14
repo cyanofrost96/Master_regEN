@@ -32,4 +32,10 @@ Eisspeicher bzw. Slurries als Kältespeicher.
 - Vakuumrohren: verhält wie Flachkollektor aber hat flacheres Absinken wegen geringer Verlust höhere Temperaturdifferenz durch Vakuumdämmung
 	- kann auch für Heizung verwendet werden
 
-Ziel von dem Simulationslabor : Wärmeverbrauch in Sommermonaten nur mit EE bereitstellen
+Ziel von dem Simulationslabor : Wärmeverbrauch in Sommermonaten nur mit EE bereitstellen.
+Stillstand / Stagnation: wenn der Speicher voll ist; Folge: Wasser im Tank kann verdampfen und Überdruck wird dann entstehen.
+
+ST-Regler soll so ausgelegt werden: 
+- Temperatur von dem Kollektor und Speicher messen
+- Nur einschalten wenn $\ce{T_K > T_S}$ , sonst ausschalten (auch bei zu höhen Speichertemp.)
+- 
