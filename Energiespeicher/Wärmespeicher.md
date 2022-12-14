@@ -1,6 +1,9 @@
 ## Sensible WS
 bsp: siehe Folie (entwickelt; Stand 2018. typischer Wert: 10MWh; 0,6kWh/m2.K; Medium: Thermoöl)
 
+### Fluidenspeicher
+Es gibt außer Wasserkollektoren auch Luftkollektoren in der Form von funktionierender Halle
+
 ### Zusammenhang zw. Kosten, Kapa., und Schüttdichte
 Wegen der höhen Kosten des Thermoöls werden in dem Speicher auch günstige Feststoffe als Kostenminderung reingeschüttet. Das Verhältnis zwischen den beiden Stoffen verändert die Gesamtkosten und die Speicherdichte.
 
@@ -21,3 +24,12 @@ Diese Speicherart nutzt die Phasenübergangsenthalpie eines Materials als Speich
 bsp.: Heißwasser- und Dampfspeicher (mit Gleichdruckspeicher); für die kurzfristige Erhöhung des Dampfmassenstromes eines Kreislaufes verwendet
 
 Eisspeicher bzw. Slurries als Kältespeicher.
+
+## Warmwasserkollektor
+- Schwimmbadkollektor : hat anfänglich kein Verlust (da die Strahlung direkt in das Medium gelangen)
+- Flachkollektor: fängt mit 80% Effizienz wegen optische Verlust (Glas) und sinkt quadratisch je nach Wärmedämmung des Kollektors. 
+	- Eher für Trinkwasser
+- Vakuumrohren: verhält wie Flachkollektor aber hat flacheres Absinken wegen geringer Verlust höhere Temperaturdifferenz durch Vakuumdämmung
+	- kann auch für Heizung verwendet werden
+
+Ziel von dem Simulationslabor : Wärmeverbrauch in Sommermonaten nur mit EE bereitstellen
