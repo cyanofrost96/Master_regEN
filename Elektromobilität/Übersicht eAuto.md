@@ -16,3 +16,5 @@ mindest Reichweite von Hybriden nach BAFA: ?, am Ende (aktuell) bekommt Hybride 
 Üblicherweise kein platz mehr übrig für 2 Maschine und -Speicher
 
 ## Antrieb
+Drehstrom: summe aller ströme in einer beliebigen Zeit = 0, deswegen wird weniger Material verwendet.
+
