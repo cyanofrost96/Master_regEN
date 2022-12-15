@@ -19,4 +19,4 @@ mindest Reichweite von Hybriden nach BAFA: ?, am Ende (aktuell) bekommt Hybride 
 Drehstrom: summe aller ströme in einer beliebigen Zeit = 0, deswegen wird weniger Material verwendet.
 dafür sind Umrichter notwendig: 
 
-Spannungsverlauf folgt jetzt 
+Kondensatoren glattet die Spannung und Spüle den Strom (durch?
