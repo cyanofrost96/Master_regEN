@@ -32,3 +32,6 @@ Soziale / ökonomische Wohlfahrt: Pareto-Effizienz
 
 "imperfekter" Wettbewerb : monopol
 Ursachen: staatliche Lizenz, eigene Besitz von einer Ware, Kartell
+
+### Technisch-ökonomische Merkmale von Wind und PV
+- sind zeitlich und räumlich dargebotsabhängig; die meiste Erzeuger befinden sich weit entfernt von den Verbraucher
