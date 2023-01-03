@@ -48,3 +48,6 @@ Contract for Difference: Vertrag, den besagt dass der Preis auf einen Sollwert g
 Quoten und handelbare Zertifikate: Balancierung vom erzeugten Produkt
 
 Ausschreibung: Produktspezifikationen bzw. Menge wird von der Inv./Staat gefördert bevor das Unternehmen Geld bekommt
+
+### Risiken
+Geld zurücklegen / Versicherung gegen zeitliche und objektive Schaden; dagegen : Vertragstrafen
