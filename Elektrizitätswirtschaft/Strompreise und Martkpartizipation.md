@@ -36,3 +36,13 @@ Ursachen: staatliche Lizenz, eigene Besitz von einer Ware, Kartell
 ### Technisch-ökonomische Merkmale von Wind und PV
 - sind zeitlich und räumlich dargebotsabhängig; die meiste Erzeuger befinden sich weit entfernt von den Verbraucher.
 - haben quasi keine variablen Kosten
+
+## Förderung reg. Stromerzeugung
+fEE: Schätzungen von OPEX und CAPEX eines EE-KW, LCOE Berechnung
+Durch mehr Installation von EE wird der Merit-Order für konventionelle KWs weiter nach rechts verschoben und von daher die Kosten sinken.
+Investitionszuschuss: Geld vom Investoren um eigene Sachen zu erledigen
+Darlehen: Kredit mit Zins
+
+Contract for Difference: Vertrag, den besagt dass der Preis auf einen Sollwert gehalten wird, obwohl es mal weniger oder mehr angefragt würde.
+
+Quoten und handelbare Zertifikate: Balancierung vom erzeugten Produkt
