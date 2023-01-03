@@ -51,3 +51,9 @@ bsp. Goldisthal:
 	301,65 m ; 4 x 103,3 m³/s ; 12e6 m³
 	9,87 GWh ; 1,22 GW
 	tatsächliche Werte: 8,486 GWh ; 87% * 1,06 GW
+
+## neue Schwerkraftspeicherkonzepte
+- Ringwallspeicher: Boden graben und ein Berg daraus schütteln
+- Untertagespeicher: aus vorhandene unterirdische Stollen Speicher bauen
+- Tagebauspeicher: Aus verlassenen Tagebau Wasser speichern; th. Speicherpotential Hambach Garzweiler und Inden 400GWh
+- Betonkugelspeicher: 
