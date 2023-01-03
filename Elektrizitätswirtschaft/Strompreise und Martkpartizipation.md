@@ -59,5 +59,16 @@ Upside Risk:
 
 Die Höhe der Versicherungsprämien wird nach Älter, Zustand und Umgebung von dem Objekt bestimmt.
 
-FIT Einspeisetarif
-liegt fest oberhalb dem schwankende Marktpreis, dadurch sinkt die Preisrisiko und wird für kleinere Investoren attraktiv.
+**FIT Einspeisetarif**
+liegt fest statisch oberhalb dem schwankende Marktpreis, dadurch sinkt die Preisrisiko und wird für kleinere Investoren attraktiv (sehr geringe Risiko). Der Unterschied wird von EEG Umlage bedeckt. 
+
+**Gleitende Marktprämie**
+erhält Marktpreis + variable Prämie, auch eine relativ stabile Zahlungslinie (geringer als FIT), wird nur steigen wenn der Marktpreis oberhalb liegt
+
+**Marktprämie**
+fEE Betreiber bekommt eine Marktpreis + feste Prämie. Risiko wie bei Aktien
+
+**Auktionen**
+geringere Förderkosten, Mengensteuerung ist möglich
+
+PPA (Power Purchase Agreement); Ein standardisierte Verkauf/Ankaufspreis von Leistungen.
