@@ -74,3 +74,4 @@ geringere Förderkosten, Mengensteuerung ist möglich
 PPA (Power Purchase Agreement); Ein standardisierte Verkauf/Ankaufspreis von Leistungen.
 
 # EEG
+Direktvermarktung und gleitende Marktprämie seit 2012
