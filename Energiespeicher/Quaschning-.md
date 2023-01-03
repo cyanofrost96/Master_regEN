@@ -57,3 +57,4 @@ bsp. Goldisthal:
 - Untertagespeicher: aus vorhandene unterirdische Stollen Speicher bauen
 - Tagebauspeicher: Aus verlassenen Tagebau Wasser speichern; th. Speicherpotential Hambach Garzweiler und Inden 400GWh
 - Betonkugelspeicher: 
+- Kranspeicher: 
