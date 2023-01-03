@@ -72,3 +72,5 @@ fEE Betreiber bekommt eine Marktpreis + feste Prämie. Risiko wie bei Aktien
 geringere Förderkosten, Mengensteuerung ist möglich
 
 PPA (Power Purchase Agreement); Ein standardisierte Verkauf/Ankaufspreis von Leistungen.
+
+# EEG
