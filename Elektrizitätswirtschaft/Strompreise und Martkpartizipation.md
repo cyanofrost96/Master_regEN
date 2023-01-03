@@ -46,3 +46,5 @@ Darlehen: Kredit mit Zins
 Contract for Difference: Vertrag, den besagt dass der Preis auf einen Sollwert gehalten wird, obwohl es mal weniger oder mehr angefragt würde.
 
 Quoten und handelbare Zertifikate: Balancierung vom erzeugten Produkt
+
+Ausschreibung: Produktspezifikationen bzw. Menge wird von der Inv./Staat gefördert bevor das Unternehmen Geld bekommt
