@@ -59,3 +59,5 @@ Upside Risk:
 
 Die Höhe der Versicherungsprämien wird nach Älter, Zustand und Umgebung von dem Objekt bestimmt.
 
+FIT Einspeisetarif
+liegt fest oberhalb dem schwankende Marktpreis, dadurch sinkt die Preisrisiko und wird für kleinere Investoren attraktiv.
