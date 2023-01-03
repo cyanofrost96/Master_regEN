@@ -56,3 +56,5 @@ Um Risiken zu minimieren sind Portfolien des Unternehmens wichtig
 
 Downside Risk: zeitliche Risiko (Wenn der Preis sich doch sinkt nachdem Ankauf)
 Upside Risk: 
+
+Die Höhe der Versicherungsprämien wird nach Älter, Zustand und Umgebung von dem Objekt bestimmt.
