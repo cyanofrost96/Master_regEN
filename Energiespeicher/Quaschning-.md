@@ -36,3 +36,18 @@ kostengünstiger Strom aus Regionen mit höher Flächenverfügbarkeit aber mit e
 Ideen:
 Biomasse vs. Wasserstoff mit PV vergleichen (Landnutzungsgrad, Preis)
 Mietautos / e-OPNV als Gridspeicher, wann löhnt sich (Vergleich aktiven zu reserven Autos? 
+
+## CAES (compressed air)
+Speicherbare Energiemenge : $E = V \cdot \Delta p$ 
+durch adiabate Vorgänge kann mehr Energie gespeichert werden, leider ist diese Technik zu teuer und wird deswegen nicht angewendet
+
+## Pumpspeicherkraftwerke
+th. Arbeitsvermögen ist der pot. Energie des Wassers bezüglich der Fallhöhe zu Turbinen $E_{ideal} = V \cdot \rho \cdot g \cdot h_p$ 
+Leistungsvermögen: $P_{ideal} = Q \cdot \rho \cdot g \cdot h$
+typischer Wirkungsgrad: 70 .. 80%
+Akzeptabilität der Massen wegen große Flächenverbrauch ist ziemlich schlecht
+
+bsp. Goldisthal: 
+	301,65 m ; 4 x 103,3 m³/s ; 12e6 m³
+	9,87 GWh ; 1,22 GW
+	tatsächliche Werte: 8,486 GWh ; 87% * 1,06 GW
