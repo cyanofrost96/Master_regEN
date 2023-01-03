@@ -58,3 +58,4 @@ bsp. Goldisthal:
 - Tagebauspeicher: Aus verlassenen Tagebau Wasser speichern; th. Speicherpotential Hambach Garzweiler und Inden 400GWh
 - Betonkugelspeicher: 
 - Kranspeicher: 
+- Zugspeicher: 
