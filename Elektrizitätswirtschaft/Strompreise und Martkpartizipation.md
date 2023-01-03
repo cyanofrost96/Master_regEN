@@ -51,3 +51,8 @@ Ausschreibung: Produktspezifikationen bzw. Menge wird von der Inv./Staat geförd
 
 ### Risiken
 Geld zurücklegen / Versicherung gegen zeitliche und objektive Schaden; dagegen : Vertragstrafen
+Unsicherheiten sind wie unbekannter zukünftiger Wert
+Um Risiken zu minimieren sind Portfolien des Unternehmens wichtig
+
+Downside Risk: zeitliche Risiko (Wenn der Preis sich doch sinkt nachdem Ankauf)
+Upside Risk: 
