@@ -8,7 +8,7 @@ Kippmoment; Maximaler Drehmoment eines Synchronmaschine
 Arbeitsbereich ist zwischen -90° bis 90°
 Formel für den Drehmoment
 $$M=\frac{m \cdot U_1 \cdot U_P}{2 \pi \cdot n_1 \cdot X_d} \cdot sin(\theta)$$
-typischer SM hat steigende Effizient mit höherer Leistung
+typischer SM hat steigende Effizient mit höherer Leistung und geht ab dem Kipppunkt direkt runter
 
 ## PMSM
 *permanent Magnet Synchronmaschine*
@@ -25,3 +25,5 @@ Nachteile ist dass es größer und schwerer
 ## BLDC
 *Brushless DC*
 durch Rechtecksignalen gesteuert, eher für kleinere Motoren mit höhe Drehzahl verwendet (geringer Reibungsverlust bei höher Drehzahl)
+
+### *Exkurs*: Statorwicklung effizienter machen
