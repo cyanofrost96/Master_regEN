@@ -1,0 +1,1 @@
+fast alle E-Autos haben Hinterradantrieb, sogar allrad antrieb weil die Motoren im Vergleich zum Verbrenner deutlich kleiner sind. Zum Energiesparen wird ein Motor ausgeschaltet falls es nicht schnell beschleunigt werden muss.
