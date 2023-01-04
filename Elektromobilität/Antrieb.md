@@ -27,3 +27,4 @@ Nachteile ist dass es größer und schwerer
 durch Rechtecksignalen gesteuert, eher für kleinere Motoren mit höhe Drehzahl verwendet (geringer Reibungsverlust bei höher Drehzahl)
 
 ### *Exkurs*: Statorwicklung effizienter machen
+Nutfüllfaktor erhöhen; Nut im Stator sind die Lücken für die Kupferwicklung. Sie müssen vor dem Eisenstück elektrisch isoliert werden
