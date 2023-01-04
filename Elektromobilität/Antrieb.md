@@ -35,3 +35,5 @@ Nutfüllfaktor erhöhen; Nut im Stator sind die Lücken für die Kupferwicklung.
 *Skineffekt*: bei Wechselstrom mit höherer Freq. werden die Elektronen wegen Eigeninduktion nach außen gedrängt.
 
 *Schleppverluste*: Verlust beim nur drehenden Motor (Ohne Last oder Leistung). Bei PMS muss Kupplung eingebaut werden (mechanische Trennung). ASM hat kein Schleppverlust weil die ohne Versorgungsspannung stromlos dreht.
+
+Getriebe sind unwichtig bei E-Autos weil mechanische Teilen gehen kaputt (nicht der Sinn von Langlebigkeit einer elektrischen Maschine)
