@@ -23,6 +23,7 @@ Nachteile ist dass es größer und schwerer
 
 ## ASM
 Effizient aber nur bei höhere Leistung.
+Der Umrichter soll dann auch der Blindleistung abliefern damit der gewünschte Arbeitspunkt erreicht wird.
 
 ## BLDC
 *Brushless DC*
