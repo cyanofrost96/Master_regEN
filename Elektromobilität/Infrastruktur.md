@@ -11,3 +11,7 @@ wird mit Mode-x bezeichnet, Mode-1 ist dünn, wird dicker bis Mode-4.
 - Mode 2: Kabel ist genau so groß dimensioniert wie die Ladeleistung (3,7kW) und hat ein mittlere Kabel-steuerbox
 - Mode 3: für 43kW ausgelegt, aber wird ja nur für Hausladen verwendet (11..22 kW), kostet 200€ und wird als Standard gesetzt
 - Mode 4: für Schnellladestationen, mit Flüssigkühlung ausgestattet
+## Austauschakkus
+funktioniert wie bei alten Laptops
+eine Firma heißt Better Place hat es mal entwickelt; Auto ohne Batterie kaufen, Batterie wird vermietet von der Firma. Akku wird vom Firma geladen, d.h bessere Kontrolle über Alterung
+Problem: Lagerung, Akkutypen
