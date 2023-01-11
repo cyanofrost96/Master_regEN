@@ -18,3 +18,4 @@ funktioniert wie bei alten Laptops
 - Tesla ist auch mal zu dieser Idee gekommen
 ## Stromtankstelle
 besitzt mehrere Zapfsäulen. Gezielt sollen 1 mio Ladepunkten ab 2030 in Deutschland geben.
+Im Vergleich zu typischer Tankstelle (540 Wagen pro Zapfsäule) hat eine Ladepunkt mehr Verfügbarkeit (15 Wagen / Säule (2020))
