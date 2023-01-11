@@ -16,3 +16,5 @@ funktioniert wie bei alten Laptops
 - eine Firma heißt Better Place hat es mal entwickelt; Auto ohne Batterie kaufen, Batterie wird vermietet von der Firma. Akku wird vom Firma geladen, d.h bessere Kontrolle über Alterung
   Problem: Lagerung, Akkutypen, fehlende Investoren
 - Tesla ist auch mal zu dieser Idee gekommen
+## Stromtankstelle
+besitzt mehrere Zapfsäulen. Gezielt sollen 1 mio Ladepunkten ab 2030 in Deutschland geben.
