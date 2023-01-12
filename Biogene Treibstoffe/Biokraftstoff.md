@@ -28,3 +28,6 @@ Life Cycle Assessment wird nach ISO 14040/-44 standarisiert
 1. Ziel und Rahmenbedingungen: Anwendung und Funktion, Zielgruppe, Systemgrenze
 2. Sachbilanz: (quantitativ); Datensammeln und Validieren
 3. Wirkungsbilanz: Berücksichtigung auf Wirkungskategorien
+
+Eutrophierung: Abwasser wird nicht gereinigt, daraus kommt dann viele Nährstoffe für wilde Pflanzen -- nicht nutzbar für Menschen
+
