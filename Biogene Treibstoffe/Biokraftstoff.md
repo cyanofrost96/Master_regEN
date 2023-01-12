@@ -6,3 +6,4 @@ nach der Fermentation und Destillation kommt "Schlempe" als Rest, welche eine 1:
 Stroh kann auch zum Ethanol verwandelt werden, aber dafür wird Enzyme benötigt.
 
 # Nachhaltigkeit
+eine Entwicklung, die die heutigen Bedürfnissen deckt, ohne die zukünftige zu gefährden
