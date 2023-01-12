@@ -8,4 +8,6 @@ Stroh kann auch zum Ethanol verwandelt werden, aber dafür wird Enzyme benötigt
 # Nachhaltigkeit
 eine Entwicklung, die die heutigen Bedürfnissen deckt, ohne die zukünftige zu gefährden
 Lebenszyklusbetrachtung - Ökobilanz
-Nachhaltigkeit
+Nachhaltige gesetzliche Vorgaben für Biokraftstoffe
+- darf nicht auf Flächen mit höhem Naturschutzwert und C-Bestand angebaut werden.
+- Schutz von Torfmoor
