@@ -22,4 +22,8 @@ Nachhaltige Lieferkette Handelsoptionen:
 - Segregation (aus verschiedene nachhaltige Anbau beziehen), 
 - Identity Preserved (100% zertifiziert)
 
-Ökobilanz; relative Umwelterheblichkeit bestimmen(nicht die absolute), nicht unbedingt eine reale Wirkungen auf die Umwelt zu haben. Wirkungskategorie muss wirklich genau spezifisch beschrieben+.
+Ökobilanz; relative Umwelterheblichkeit bestimmen(nicht die absolute), nicht unbedingt eine reale Wirkungen auf die Umwelt zu haben. Wirkungskategorie muss wirklich genau spezifisch beschrieben.
+
+Life Cycle Assessment wird nach ISO 14040/-44 standarisiert
+1. Ziel und Rahmenbedingungen: Anwendung und Funktion, Zielgruppe, Systemgrenze
+2. 
