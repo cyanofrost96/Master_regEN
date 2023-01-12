@@ -15,3 +15,11 @@ Nachhaltige gesetzliche Vorgaben für Biokraftstoffe
 THG_Quote: Anteil an CO2 Ausstoß, die von der Verwendung bessere Kraftstoffe / nachhaltigere Verkehr gespart wurden. Ein Sollwert
 
 Berechnung der THG-Emissionen setzt sich aus Anbai, Verarbeitung, Transport und Nutzen. Detaillierte Formel steht in der Folie / Exceltool
+
+Nachhaltige Lieferkette Handelsoptionen: 
+- Book & Claim (Anbau ist zertifiziert aber die Lieferkette erfolgt nach typischer globaler Lieferkette),
+- Mass Balance (Mischung von nachhaltige und nicht-na. Anbau), 
+- Segregation (aus verschiedene nachhaltige Anbau beziehen), 
+- Identity Preserved (100% zertifiziert)
+
+Ökobilanz; relative Umwelterheblichkeit bestimmen(nicht die absolute), nicht unbedingt eine reale Wirkungen auf die Umwelt zu haben. Wirkungskategorie muss wirklich genau spezifisch beschrieben+.
