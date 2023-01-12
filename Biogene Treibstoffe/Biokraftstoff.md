@@ -11,3 +11,7 @@ Lebenszyklusbetrachtung - Ökobilanz
 Nachhaltige gesetzliche Vorgaben für Biokraftstoffe
 - darf nicht auf Flächen mit höhem Naturschutzwert und C-Bestand angebaut werden.
 - Schutz von Torfmoor
+
+THG_Quote: Anteil an CO2 Ausstoß, die von der Verwendung bessere Kraftstoffe / nachhaltigere Verkehr gespart wurden. Ein Sollwert
+
+Berechnung der THG-Emissionen setzt sich aus Anbai, Verarbeitung, Transport und Nutzen. Detaillierte Formel steht in der Folie / Exceltool
