@@ -8,3 +8,4 @@ Stroh kann auch zum Ethanol verwandelt werden, aber dafür wird Enzyme benötigt
 # Nachhaltigkeit
 eine Entwicklung, die die heutigen Bedürfnissen deckt, ohne die zukünftige zu gefährden
 Lebenszyklusbetrachtung - Ökobilanz
+Nachhaltigkeit
