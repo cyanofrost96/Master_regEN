@@ -34,3 +34,10 @@ Tesla hat mit solche Tankstellen-konzept (exklusiv für Tesla autos) in Deu real
 - DIN ISO 15118: Kommunikation zw. Fahrzeug und Ladestation durch PLC
 
 ## Netzinfra
+- Netzanschlusskapa und den Bedarf prüfen.
+- Konzipieren von der Ladestation nach Scheinleistung
+- Gleichzeitigskeitsprinzip bei der Nutzen des Netzes in mehrere ladepunkten
+- Messung nach genormtem Verfahren
+**Fehlerstromschutzschalter**
+Typ A: billig aber kann DC nicht erkennen. Typ B: kann alles erkennen. Typ A EV: wie Typ A aber eher für eAutos.
+
