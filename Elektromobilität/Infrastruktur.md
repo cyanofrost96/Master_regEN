@@ -22,3 +22,4 @@ funktioniert wie bei alten Laptops
 besitzt mehrere Zapfsäulen. Gezielt sollen 1 mio Ladepunkten ab 2030 in Deutschland geben.
 Im Vergleich zu typischer Tankstelle (540 Wagen pro Zapfsäule) hat eine Ladepunkt mehr Verfügbarkeit (15 Wagen / Säule (2020))
 Tesla hat mit solche Tankstellen-konzept (exklusiv für Tesla autos) in Deu real gemacht, danach kommt Ionity für alle eAutos und gerade sind echt viel ausgebaut. Bei Ionity bezahlt man 25ct/kWh für alle Auto (mit Vertrag), bei Tesla dagegen müssen andere Auto mehr bezahlen.
+### Ladesäulen-Ausführen
