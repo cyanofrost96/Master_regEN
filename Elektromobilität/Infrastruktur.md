@@ -41,3 +41,5 @@ Tesla hat mit solche Tankstellen-konzept (exklusiv für Tesla autos) in Deu real
 **Fehlerstromschutzschalter**
 Typ A: billig aber kann DC nicht erkennen. Typ B: kann alles erkennen. Typ A EV: wie Typ A aber eher für eAutos.
 
+## Netzintegration
+
