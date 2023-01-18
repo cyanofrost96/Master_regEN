@@ -27,3 +27,6 @@ Tesla hat mit solche Tankstellen-konzept (exklusiv für Tesla autos) in Deu real
 - CCS kann max. 500A übertragen.
 - Semikron, selbstbaubare Ladestation.
 - Ladestationen mit Akkus als Pufferspeicher, zum Unterstutzen schwache Netzen. passend ganz gut für Orten mit noch nicht vorhandenem starkem Netz.
+- WLTP berechnet auch die Verlustleistung beim Laden
+### Ladesäulen-Kommunikation
+- 
