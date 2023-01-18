@@ -29,4 +29,8 @@ Tesla hat mit solche Tankstellen-konzept (exklusiv für Tesla autos) in Deu real
 - Ladestationen mit Akkus als Pufferspeicher, zum Unterstutzen schwache Netzen. passend ganz gut für Orten mit noch nicht vorhandenem starkem Netz.
 - WLTP berechnet auch die Verlustleistung beim Laden
 ### Ladesäulen-Kommunikation
-- OCPP: open charge point protocol; Protokoll nach IEC 61851-1 zum nachfragen nach Fahrzeugsidentität im Server (wird nach Verträge gecheckt)
+- OCPP: open charge point protocol; universelles Protokoll nach IEC 61851-1 zum nachfragen nach Fahrzeugsidentität im Server (wird nach Verträge gecheckt). 
+- OCHP: open clearing house protocol; Roaming Platform für Datenaustausch mit Server und Zahlung
+- DIN ISO 15118: Kommunikation zw. Fahrzeug und Ladestation durch PLC
+
+## Netzinfra
