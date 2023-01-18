@@ -25,3 +25,4 @@ Tesla hat mit solche Tankstellen-konzept (exklusiv für Tesla autos) in Deu real
 ### Ladesäulen-Ausführen
 besteht aus Ladesäulen und Umrichter, stehen üblicherweise nebeneinander.
 CCS kann max. 500A übertragen.
+Semikron, selbstbaubare Ladestation
