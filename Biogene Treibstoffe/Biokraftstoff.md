@@ -31,7 +31,6 @@ Life Cycle Assessment wird nach ISO 14040/-44 standarisiert
 
 Eutrophierung: Abwasser wird nicht gereinigt, daraus kommt dann viele Nährstoffe für wilde Pflanzen -- nicht nutzbar für Menschen
 
-N2O wird vom Pflanzen (durch chemische Reaktionen auf dem Boden) emittiert.
+N2O - Stickoxid wird vom Pflanzen (durch chemische Reaktionen auf dem Boden) emittiert.
 
-## Grenzen der Ökobilanzierung
-keine binären Ergebnissea
+THG-Quote; Die prozentuale Verringerung von CO2-Emission für bestimmte Sektor, vergl. mit 100% konventionellem Energieträger.
