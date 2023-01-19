@@ -20,9 +20,9 @@ Nachhaltige Lieferkette Handelsoptionen:
 - Book & Claim (Anbau ist zertifiziert aber die Lieferkette erfolgt nach typischer globaler Lieferkette),
 - Mass Balance (Mischung von nachhaltige und nicht-na. Anbau), 
 - Segregation (aus verschiedene nachhaltige Anbau beziehen), 
-- Identity Preserved (100% zertifiziert)
+- Identity Preserved (100% zertifiziert); Nachteil ist, viele Sachen müssen neu gebaut werden
 
-Ökobilanz; relative Umwelterheblichkeit bestimmen(nicht die absolute), nicht unbedingt eine reale Wirkungen auf die Umwelt zu haben. Wirkungskategorie muss wirklich genau spezifisch beschrieben.
+Ökobilanz / LCA ; relative Umwelterheblichkeit bestimmen(nicht die absolute), nicht unbedingt eine reale Wirkungen auf die Umwelt zu haben. Wirkungskategorie muss wirklich genau spezifisch beschrieben.
 
 Life Cycle Assessment wird nach ISO 14040/-44 standarisiert
 1. Ziel und Rahmenbedingungen: Anwendung und Funktion, Zielgruppe, Systemgrenze
@@ -30,8 +30,6 @@ Life Cycle Assessment wird nach ISO 14040/-44 standarisiert
 3. Wirkungsbilanz: Berücksichtigung auf Wirkungskategorien
 
 Eutrophierung: Abwasser wird nicht gereinigt, daraus kommt dann viele Nährstoffe für wilde Pflanzen -- nicht nutzbar für Menschen
-
-LCA /
 
 N2O wird vom Pflanzen (durch chemische Reaktionen auf dem Boden) emittiert.
 
