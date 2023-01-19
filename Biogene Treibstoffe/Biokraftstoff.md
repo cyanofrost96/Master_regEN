@@ -36,4 +36,4 @@ LCA /
 N2O wird vom Pflanzen (durch chemische Reaktionen auf dem Boden) emittiert.
 
 ## Grenzen der Ökobilanzierung
-keine binären Ergebnisse
+keine binären Ergebnissea
