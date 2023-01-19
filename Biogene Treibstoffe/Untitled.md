@@ -38,5 +38,3 @@ Wegen chemischer Gleichgewicht kann nur 66% der Ausgangsstoffe in Methylsäurees
 ## Bioethanol
 7,44 kWh/kg, 789 kg/L
 ist teurer als Methanol (vergl. Erdöl)
-
-N2O wird vom Pflanzen (durch chemische Reaktionen auf dem Boden) emittiert.

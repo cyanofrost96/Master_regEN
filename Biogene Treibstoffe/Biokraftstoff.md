@@ -32,3 +32,8 @@ Life Cycle Assessment wird nach ISO 14040/-44 standarisiert
 Eutrophierung: Abwasser wird nicht gereinigt, daraus kommt dann viele Nährstoffe für wilde Pflanzen -- nicht nutzbar für Menschen
 
 LCA /
+
+N2O wird vom Pflanzen (durch chemische Reaktionen auf dem Boden) emittiert.
+
+## Grenzen der Ökobilanzierung
+keine binären Ergebnisse
