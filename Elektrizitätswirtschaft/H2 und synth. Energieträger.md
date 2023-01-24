@@ -24,3 +24,7 @@ Vorschläge von dena:
 - Planungs- und Genehmigungsverfahren beschleunigen
 - nationaler sogar europäischer H2-Infrastrukturen umsetzen
 - Konsistenz sicherstellen; integrieren auf den alltäglichen
+
+# Sicherheit und Infrastruktur
+Entwicklungsstrategie ausdenken, für eine klare technische und ökonomische Verbindung
+System Entwicklungs Strategie, beinhaltet: Infraplanungen, Sektoren
