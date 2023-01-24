@@ -13,3 +13,14 @@ H2 Prozesse:
 - Ammoniak Synth.
 
 H2-Strategie: f
+National H2 Council, eigene Ministerium für H2
+H2-Rat sind da als unabhängiger und überparteilicher Berater
+
+es gibt bereits 120 Projekte mit 70 MW Elektrolyseurkapa (tatsächlich sind 30GW geplant) und 55TWh/a durch Dampfreformierung. Es fehlt wirklich noch viele Infrastruktur. Tankstelle befinden sich nur nähe Chemieindustrie.
+
+Vorschläge von dena:
+- Investitionsstau verhindern
+- Elektrolyseur hoch skalieren
+- Planungs- und Genehmigungsverfahren beschleunigen
+- nationaler sogar europäischer H2-Infrastrukturen umsetzen
+- Konsistenz sicherstellen; integrieren auf den alltäglichen
