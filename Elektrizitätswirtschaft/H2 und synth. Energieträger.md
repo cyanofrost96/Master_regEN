@@ -28,3 +28,8 @@ Vorschläge von dena:
 # Sicherheit und Infrastruktur
 Entwicklungsstrategie ausdenken, für eine klare technische und ökonomische Verbindung
 System Entwicklungs Strategie, beinhaltet: Infraplanungen, Sektor-Strategien/Prozess, Energieträger, andere sektorübergreifende Prozesse.
+
+wird in Phasen geteilt; 
+- Phase A: Grundlage und Entwicklung von ersten Leitbild
+- Phase B: Strategieren und Weiterentwicklung
+- Phase C: Finalisierung
