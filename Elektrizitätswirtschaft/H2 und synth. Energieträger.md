@@ -12,7 +12,7 @@ H2 Prozesse:
 - Methanol Synth.
 - Ammoniak Synth.
 
-H2-Strategie: f
+H2-Strategie:
 National H2 Council, eigene Ministerium für H2
 H2-Rat sind da als unabhängiger und überparteilicher Berater
 
