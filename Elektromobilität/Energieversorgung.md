@@ -1,0 +1,1 @@
+gerade verbraucht der Verkehrssektor ca. 600 TWh/a. Durch bessere "electricity to wheel" Wirkungsgrad (73%, im Vergl. zu ICE mit 13% durch P2G)
