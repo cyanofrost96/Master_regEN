@@ -27,9 +27,9 @@ SDL : System Dienst Leistung - Die Maßnahmen: f-haltung, U-haltung, Versorgungs
 wirtschaftliche Fachbegriffe: CAPEX, OPEX
 
 Produktivität: Effizienz, Verhältnis zw. Output-Menge zu Input-Menge
-Wirtschaftlichkeit: Ertrag eines Unternehmens zum Aufwand
-Rentabilität: Gewinn / eingesetztes Kapital
-Wertschöpfung, -stufe: Veredelung eines Produktes, passiert kontinuierlich wie eine Kette.
+Wirtschaftlichkeit: Ertrag eines Unternehmens zum kostlichen Aufwand
+Rentabilität: wirtschaftlichen Erfolg-Verhältnis vom eingesetzten kapital in einer Rechnungsperiode (Gewinn / eingesetztes Kapital)
+Wertschöpfung, -stufe: Veredelung eines Produktes, ein Prozess in der Kette. Produktion bis zum Ausliefern
 
 ### Wertschöpfungsstufen Entstehung und Betrieb PV-KW
 Logistik: Die Ware (Modulen, Kabel, Umrichter, Gestell) liefern, dies macht EPC (auch das Bauen)
