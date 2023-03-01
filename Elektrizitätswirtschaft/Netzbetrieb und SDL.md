@@ -5,3 +5,8 @@ In Deu selbst sind 4 Regelzonen (Tennet, elia/50 Hertz, Amprion, EnBW).
 Planung, Betrieb, Nutzung, Instandhaltung, und Regulierungsmanagement.
 
 ## Komplexität
+- Entkopplung von Geld und Energieflüssen
+	- Handelsgeschäfte können in liberalisierten Strommarkt in dem ganzen Netz stattfinden
+	- Zw. Vertragspartner muss kein physikalischer Energieaustausch stattfinden (Hauptsache A hat die Energiemenge erzeugt und diese an B ankommt.)
+- Smart Market: ermöglicht neue Marktteilnehmer, Märkte, und Technologien
+	- 
