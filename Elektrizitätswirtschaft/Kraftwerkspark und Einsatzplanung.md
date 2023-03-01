@@ -15,7 +15,18 @@ Gas und Steinkohle sind gut regelbar und arbeitet immer ab 10% bis zu 80% des ma
 
 Leistungsgradient: Wie schnell ein KW die Leistung geregelt werden kann. Gas: 12%/min, Atom: 3-5%/min, Kohle: 4%/min
 
+## Verfügbarkeit von Kraftwerken
+- Arbeitsverfügbarkeit: Bezieht sich auf dessen technischen Gründen und der betrieblichen Zustand (reduziert durch Wartung, u.a)
+- Zeitverfügbarkeit: Maß für die zeitliche Einsatzfähigkeit (reduziert durch Regelung und Bereitschaft)
+
+## Einsatzbereiche von KW
+- Grundlast: mehr als 4000 h/a
+- Mittellast: zw. 1500 bis 4000 h/a
+- Spitzenlast: unter 1500 h/a
+Sie werden von der; Alter der Anlage, Wärmeauskopplung, Preise, Wartungsarbeit und -aufwand und Folgekosten beeinflusst.
+
 ## Kraftwerkskosten
+
 LCOE und Grenzkosten
 
 ### Investitionsberechnung
