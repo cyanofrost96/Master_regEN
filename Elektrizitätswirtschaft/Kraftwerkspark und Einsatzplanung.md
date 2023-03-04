@@ -52,6 +52,8 @@ Startup Investments + jährliche laufende kosten durch die jährliche erzeugte E
 - Dispatch: Planung des KWeinsatzes, sowie des kostenoptimierten Fahrplans (zeitlich und regional, welche ein- bzw. ausgefahren müssen)
 - Redispatch: Engpassmanagement, kurzfristige Fahrplananpassung von mehreren KWen. Hier müssen die Übertragungskapa., An- und Ausfahrtrampen, Stillstandzeiten, Mindestleistungsgrenzen, Teillastverhalten, Wartungszeiten u. a. betriebliche Einschränkungen
 
+### Lagrange-Verfahren
+
 ## Komplexität
 Geld und Energiefluss in einem Bilanzkreis
 
