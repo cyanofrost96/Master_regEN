@@ -37,7 +37,9 @@ Startup Investments + jährliche laufende kosten durch die jährliche erzeugte E
 - **Grenzkosten** : Vergleich aufm kurzfristigen Einsatz des Kraftwerkes
 
 ## Investitionsberechnung
-- Kapitalwertmethode : Gesamteinnahmen und -ausgaben eines Zeitraumes; Auf- und Abzinsung mtieinkalkuliert.
+- Kapitalwertmethode : Gesamteinnahmen und -ausgaben eines Zeitraumes; Auf- und Abzinsung miteinkalkuliert.
+  $$I_x=I_0 \cdot (1+i)^{-1}$$
+  wobei $I_x$ : der tatsächliche Geldwert im x-te Folgejahr.
 - Annuitätsmethode : Die Folge variabler Ausgaben wird jährlich umgerechnet innerhalb eines Betrachtungszeitraumes
 - Zinssatz :
 	Preis für geliehenes oder investiertes Kapital
@@ -46,6 +48,9 @@ Startup Investments + jährliche laufende kosten durch die jährliche erzeugte E
 	- Mittelwerte Renditen wird je nach Regionen abgeschätzt (Tabelle siehe Folien)
 	WACC (Weighted Average Cost of Capital) : Mischzins aus Eigen- und Fremdkapital
 	$$\ce{WACC}=\frac{E}{G} \cdot i_{EK} + \frac{F}{G} \cdot i_{FK} \cdot (1-s)$$
+## Kraftwerkeinsatz
+- Dispatch: Planung des KWeinsatzes, sowie des kostenoptimierten Fahrplans (zeitlich und regional, welche ein- bzw. ausgefahren müssen)
+- Redispatch: Engpassmanagement, kurzfristige Fahrplananpassung von mehreren KWen. Hier müssen die Übertragungskapa., An- und Ausfahrtrampen, Stillstandzeiten, Mindestleistungsgrenzen, Teillastverhalten, Wartungszeiten u. a. betriebliche Einschränkungen
 
 ## Komplexität
 Geld und Energiefluss in einem Bilanzkreis
