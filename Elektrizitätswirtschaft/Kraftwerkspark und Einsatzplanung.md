@@ -26,18 +26,25 @@ Leistungsgradient: Wie schnell ein KW die Leistung geregelt werden kann. Gas: 12
 Sie werden von der; Alter der Anlage, Wärmeauskopplung, Preise, Wartungsarbeit und -aufwand und Folgekosten beeinflusst.
 
 ## Kraftwerkskosten
+- Gestehung: abhängig von der Anlagentyp
+- Investor und Betreiber: Qualität, Wartung und Finanzierung
+- Äußere Bedingungen: Liberalisierung, Geopolitik, Umwelt und Steuerliche Gesetz, Akzeptanz, Wettbewerb, Standort und Bedarf
 
-LCOE und Grenzkosten
+**LCOE** und Grenzkosten
+$$LCOE=\frac{I_0+\Sigma^n_{t=1}\frac{A_t}{(1+i)^t}}{\Sigma^n_{t=1}\frac{M_t}{(1+i)^t}}$$
+Startup Investments + jährliche laufende kosten durch die jährliche erzeugte Energiemenge (alles bezüglich der Verzinsung / Inflation)
+- **LCOE** : dient als einen Vergleich von Erzeugertechologien ohne Berücksichtigung auf der Verbrauchszeitpunkt / Bereitstellung
+- **Grenzkosten** : Vergleich aufm kurzfristigen Einsatz des Kraftwerkes
 
-### Investitionsberechnung
-- Kapitalwertmethode: Gesamteinnahmen und -ausgaben eines Zeitraumes; Auf- und Abzinsung mtieinkalkuliert.
-- Annuitätsmethode:
-- Zinssatz:
+## Investitionsberechnung
+- Kapitalwertmethode : Gesamteinnahmen und -ausgaben eines Zeitraumes; Auf- und Abzinsung mtieinkalkuliert.
+- Annuitätsmethode : Die Folge variabler Ausgaben wird jährlich umgerechnet innerhalb eines Betrachtungszeitraumes
+- Zinssatz :
 	Preis für geliehenes oder investiertes Kapital
 	- Normaler Zinssatz: $i_n$ = Inflation + Rendite + Risikozuschlag
 	- Realer Zinssatz: $$i_r = \frac{1+i_n}{1+\ce{inflationsrate}} - 1$$
 	- Mittelwerte Renditen wird je nach Regionen abgeschätzt (Tabelle siehe Folien)
-	WACC (Weighted Average Cost of Capital)
+	WACC (Weighted Average Cost of Capital) : Mischzins aus Eigen- und Fremdkapital
 	$$\ce{WACC}=\frac{E}{G} \cdot i_{EK} + \frac{F}{G} \cdot i_{FK} \cdot (1-s)$$
 
 ## Komplexität
