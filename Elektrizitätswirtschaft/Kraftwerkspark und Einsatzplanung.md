@@ -54,6 +54,7 @@ Startup Investments + jährliche laufende kosten durch die jährliche erzeugte E
 
 ### Lagrange-Verfahren
 Kostenfkt. P(g,i) wird differenziert und daraus ergibt sich Lagrange-Multiplikatoren $\lambda_i$. Die $\lambda$ sind gleichsetztbar und daraus kann die jeweilige P(g,i) eingesetzt werden.
+*gelöste Aufgabe in Onenote*
 
 ## Komplexität
 Geld und Energiefluss in einem Bilanzkreis
