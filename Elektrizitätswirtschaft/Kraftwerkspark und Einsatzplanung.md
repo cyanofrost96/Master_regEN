@@ -97,7 +97,7 @@ Residuallast: min. Leistungsbedarf - EE
 
 Versorgungsqualität
 SAIDI - Nichtverfügbarkeit / min
-SAIFI - Häufigkeit der Unterbrechungen / min
-CAIDI - 
+SAIFI - Häufigkeit der Unterbrechungen / p.u
+CAIDI - mittlerer Dauer der Unterbrechungen / min
 
 Anreizregulierung: Maß für das Geld was der Erzeuger bekommt
