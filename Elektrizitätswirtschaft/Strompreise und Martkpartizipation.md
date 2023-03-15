@@ -78,3 +78,5 @@ Direktvermarktung und gleitende Marktprämie seit 2012
 Finanzielle Teilhabe für die Bewohnern in der Gemeinde; 0,2 ct/kWh
 
 ### Preisdauerkurve
+Stellt die Preis und die Nachfrage eines Gutes über bestimmte Zeitraum (jährlich). Kurzfristig ist teuer und langfristig ist günstiger.
+Die eingeschlossene Fläche zw. Preis und Stunden heißt Produzentrente : Umsatz über den Produktionskosten.
