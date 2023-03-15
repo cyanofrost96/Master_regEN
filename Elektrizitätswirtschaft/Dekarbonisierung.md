@@ -1,0 +1,1 @@
+Vermeidung von kohlenstoffbasierten Chemikalien für bestimmte Verfahrenstechnik. Kann durch Wasserstoff ersetzt werden, Abscheidung und Wiederverwendung des $\ce{CO_2}$, Einsatz effizienter Maschine wie z.B. [Lichtbogenofen](https://de.wikipedia.org/wiki/Lichtbogenofen) und Wechseln auf erneuerbaren Energiequellen.
