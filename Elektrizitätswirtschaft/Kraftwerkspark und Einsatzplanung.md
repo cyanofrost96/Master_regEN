@@ -101,3 +101,7 @@ SAIFI - Häufigkeit der Unterbrechungen / p.u
 CAIDI - mittlerer Dauer der Unterbrechungen / min
 
 Anreizregulierung: Maß für das Geld was der Erzeuger bekommt
+
+### [Leistungsdauerlinie](https://www.enargus.de/pub/bscw.cgi/d6731-2/*/*/Leistungsdauerlinie.html?op=Wiki.getwiki)
+Beschreibt wie viele Stunden im betrachteten Zeitraum eine bestimmte Leistung über- oder unterschritten wurde.
+**Residualstromnachfrage** sind die übrige Nachfrage an konventionellen Kraftwerken in einem Stromnetz mit hohem EE-Anteil.
