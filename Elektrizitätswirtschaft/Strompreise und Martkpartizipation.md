@@ -76,3 +76,5 @@ PPA (Power Purchase Agreement); Ein standardisierte Verkauf/Ankaufspreis von Lei
 # EEG
 Direktvermarktung und gleitende Marktprämie seit 2012
 Finanzielle Teilhabe für die Bewohnern in der Gemeinde; 0,2 ct/kWh
+
+### Preisdauerkurve
