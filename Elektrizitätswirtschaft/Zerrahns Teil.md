@@ -7,3 +7,6 @@ Externe Kosten: sind die anfallende "Kosten", die durch externe Effekte verursac
 
 Energiepolitisches Zieldreieck
 umfasst; Umweltverträglichkeit, Wirtschaftlichkeit, Versorgungssicherheit
+
+für die Energiewende werden Ziele, Maßnahmen und Monitoring nötig
+
