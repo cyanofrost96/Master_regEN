@@ -5,4 +5,7 @@ Power to Gas, Liquid, Chemikalien
 
 Energiesektoren: Strom 20%, Verkehr 30%, Wärme 50%; EE-Anteil = 17-20%
 
-
+Etabilierte SKpl:
+- BHKW
+- Elektrofahrzeuge
+- 
