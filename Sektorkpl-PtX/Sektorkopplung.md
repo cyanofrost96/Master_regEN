@@ -8,4 +8,11 @@ Energiesektoren: Strom 20%, Verkehr 30%, Wärme 50%; EE-Anteil = 17-20%
 Etabilierte SKpl:
 - BHKW
 - Elektrofahrzeuge
-- 
+
+Sektorkopplung ermöglicht folgende Bedeutungen für die reg. Energiewirtschaft:
+- Ausgleich der Stromfluktuation
+- Treibhausgasminderung
+- Höhere Effizienz
+- Teilnahme in Regelenergiemarkt (Elektrolyseanlage und Brennstoff)
+
+Bivalente Wärmepumpe
