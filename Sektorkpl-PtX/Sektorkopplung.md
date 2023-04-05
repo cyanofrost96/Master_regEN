@@ -15,4 +15,6 @@ Sektorkopplung ermöglicht folgende Bedeutungen für die reg. Energiewirtschaft:
 - Höhere Effizienz
 - Teilnahme in Regelenergiemarkt (Elektrolyseanlage und Brennstoff)
 
-Bivalente Wärmepumpe
+[Bivalente Wärmepumpe](https://www.heizungsfinder.de/waermepumpe/heizen-kuehlen/monovalent-bivalent) sind WP, die nicht nur allein betrieben werden kann, sondern auch mit andere Heizquelle an der Spitzzeiten angetrieben werden kann.
+
+Zielstellung
