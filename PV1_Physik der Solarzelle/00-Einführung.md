@@ -2,5 +2,5 @@
 Hilfsmittel: Taschenrechner und A4 Notizen
 
 ## 
-[[photoelektrischer Effekt]] 
-bei Halbleitern treten außer äußeren ph.elektrischen Effekt auch den inneren
+bei Halbleitern treten außer äußeren [[photoelektrischer Effekt]] auch den inneren
+Bestrahlungsstärke beeinflusst die Anzahl an Photoelektronen.

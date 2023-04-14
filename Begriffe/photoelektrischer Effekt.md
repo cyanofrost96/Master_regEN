@@ -7,6 +7,6 @@ Es gibt 3 Fällen zu dem effekt:
 ## äußerer Photoeffekt
 1. Emission von Elektronen aus einer Metall / Oberfläche; $$h_v = W_A + \frac{m \cdot v^2}{2}$$
 2. Passiert durch elektromagnetische Strahlung
-
+je großer die Photonenenergie desto schneller wird die Elektronen rausgeschleudert
 ## photovoltaischer Effekt
 basiert auf innerer Photoeffekt und übergeht Ladungstrennung durch die pn-Übergang
