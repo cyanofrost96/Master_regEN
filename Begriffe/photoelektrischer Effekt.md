@@ -1,4 +1,3 @@
-# Photoelektrischer Effekt
 ## innerer Photoeffekt
 Es gibt 3 Fällen zu dem effekt:
 	1. $E_{Licht}$ kleiner als  $E_g$ : nichts passieren
@@ -8,5 +7,6 @@ Es gibt 3 Fällen zu dem effekt:
 ## äußerer Photoeffekt
 1. Emission von Elektronen aus einer Metall / Oberfläche; $$h_v = W_A + \frac{m \cdot v^2}{2}$$
 2. Passiert durch elektromagnetische Strahlung
+
 ## photovoltaischer Effekt
 basiert auf innerer Photoeffekt und übergeht Ladungstrennung durch die pn-Übergang
