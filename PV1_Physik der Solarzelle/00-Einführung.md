@@ -6,5 +6,6 @@ Hilfsmittel: Taschenrechner und A4 Notizen
 $$E[eV]=\frac{h \cdot c}{\lambda}=\frac{1240}{\lambda[nm]}$$
 - [[Intrinsische Ladungsträger]] ist undotierter Halbleiter.
 - Erwärmung eines Halbleiters führt zu mehr Besetzung von Elektronen auf den Leitungsband. -> Höhere Leitfähigkeit für Halbleiter aber geringer für Metalle (da die Elektronwolke durch die Schwingungen gestört werden)
-- spektrale Empfindlichkeit
+- spektrale Empfindlichkeit besagt wie viel Strom pro bestrahlte Licht (Photonenenergie) erzeugt wurde. Quantenausbeute = Anzahl erregte Elektronen pro geschickte Photonen.
+- 
 
