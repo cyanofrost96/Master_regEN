@@ -10,3 +10,4 @@ $$E[eV]=\frac{h \cdot c}{\lambda}=\frac{1240}{\lambda[nm]}$$
 - [[Sättigungsstrom]] nimmt bei steigender Sonneneinstrahlung zu
 - Serienwiderstand soll klein sein damit die Elektronen schneller/flüssiger läuft, aber die Parallelwiderstand soll hoch sein, damit die Elektronen nicht irgendwohin durchlecken.
 - idealer/optimaler Bandabstand eines Absorbermaterials liegt bei 1,5 eV. Je kleiner der Abstand desto höher ist der thermischer Verlust aber die $U_L$ ist dann kleiner.
+- Brechungsindex bestimmt wie viel eine Oberfläche Licht reflektiert.
