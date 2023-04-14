@@ -14,5 +14,6 @@
   "newFileLocation": "current",
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

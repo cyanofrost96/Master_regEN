@@ -11,7 +11,7 @@ $$U_d = U_T \cdot ln(\frac{N_A \cdot N_D}{n_i^2})$$
 $$U_T = \frac{k}{e} \cdot T$$
 im nichtentarteten Halbleiter: $eU_d$ < $E_g$ (Bandverbiegung soll kleiner als Bandlücke)
 mit steigendem Temperatur sollte die Diffusionsspannung steigen, aber da die intrinsische Ladungsträger auch steigt (sogar quadratisch), sinkt doch die $U_d$
-[[Intrinsische Ladungsträger]] :
+[[../Begriffe/Intrinsische Ladungsträger]] :
 $$n_i = \sqrt{N_c \cdot N_v \cdot \ce{exp}(-\frac{E_g}{k \cdot T})}$$
 Breite der RLZ:
 $$w = \sqrt{\frac{2 \cdot E_c \cdot E_v}{e}\cdot U_D(\frac{1}{N_A}+\frac{1}{N_D})}$$
