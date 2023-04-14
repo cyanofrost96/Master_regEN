@@ -4,4 +4,5 @@ Hilfsmittel: Taschenrechner und A4 Notizen
 ## 
 bei Halbleitern treten außer äußeren [[photoelektrischer Effekt]] auch den inneren
 Bestrahlungsstärke beeinflusst die Anzahl an Photoelektronen.
-$$E=\frac{}{}$$
+$$E[eV]=\frac{h \cdot c}{\lambda}=\frac{1240}{\lambda[nm]}$$
+
