@@ -7,3 +7,6 @@ Themen:
 - Integration
 - lin. und nichtlin. Ausgleichsprobleme
 
+## Matlab
+- Debuggen: Zeile markieren (wird rot gefärbt), auf Editor>Step in/out (teilweise den Programmstück laufen lassen)
+- 
