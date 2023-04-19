@@ -21,5 +21,4 @@ Zielstellung
 
 3 Säulen Strategie: Energiesparen, höherer Anteil der erneuerbaren Energie, Energieeffizient
 
-Kopplungselemente:
-
+Kopplungselemente: 
