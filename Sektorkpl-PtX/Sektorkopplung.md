@@ -51,4 +51,4 @@ Ammoniaksynthese
 			Carbonsäure, Gase, Alkohole
 Hydrolyse > Acidogenese > Acetogenese > Methanogene
 
-$\ce[\Delta ]
+$\ce{\Delta G}$ = Abweichung der Reaktionsenthalpie von der Gleichgewicht
