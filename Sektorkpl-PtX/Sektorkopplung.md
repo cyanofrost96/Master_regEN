@@ -41,3 +41,6 @@ Es gibt 32 PtG Anlagen in Deutschland und 15 Weltweit (2020), Leistungsgroße ca
 
 ### Power to Liquid
 Hergestellt durch Methanol- und Fischer-Tropsch-Synthese
+
+### Power to Chemikalien
+Ammoniaksynthese
