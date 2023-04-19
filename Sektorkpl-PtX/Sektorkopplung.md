@@ -40,3 +40,4 @@ Den aus Elektrolyse gewonnene $\ce{H_2}$ kann mit $\ce{CO_2}$ kombiniert werden 
 Es gibt 32 PtG Anlagen in Deutschland und 15 Weltweit (2020), Leistungsgroße ca 60MW...
 
 ### Power to Liquid
+Hergestellt durch Methanol- und Fischer-Tropsch-Synthese
