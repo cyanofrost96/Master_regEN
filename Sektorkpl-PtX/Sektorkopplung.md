@@ -48,4 +48,5 @@ Ammoniaksynthese
 - Konversionspfad: PtCH4 - Technologie
 	- CO - Methanisierung : durch Vergasen und katalytische SNG-Methanisierung
 	- CO2 - Methanisierung : biologisch oder chemisch mit Katalysator (Sabatier Prozess)
- 
+			Carbonsäure, Gase, Alkohole
+Hydrolyse > Acidogenese > Acetogenese > Methanogene
