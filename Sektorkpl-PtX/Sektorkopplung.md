@@ -7,7 +7,7 @@ Energiesektoren: Strom 20%, Verkehr 30%, Wärme 50%; EE-Anteil = 17-20%
 
 Etabilierte SKpl:
 - BHKW
-- Elektrofahrzeuge
+- Elektrofahrzeuge: Hybrid, vollelektrisch (die genauere Klassifizierung findet unter der Vorlesung BM1-Elektromobilität) und BrennstoffzellenFZ
 
 Sektorkopplung ermöglicht folgende Bedeutungen für die reg. Energiewirtschaft:
 - Ausgleich der Stromfluktuation
@@ -19,6 +19,7 @@ Sektorkopplung ermöglicht folgende Bedeutungen für die reg. Energiewirtschaft:
 
 Zielstellung
 
-3 Säulen Strategie: Energiesparen, höhere Anteil der Erneuerbareenergie, Energieeffizient
+3 Säulen Strategie: Energiesparen, höherer Anteil der erneuerbaren Energie, Energieeffizient
 
 Kopplungselemente:
+
