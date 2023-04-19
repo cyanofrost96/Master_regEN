@@ -22,3 +22,21 @@ Zielstellung
 3 Säulen Strategie: Energiesparen, höherer Anteil der erneuerbaren Energie, Energieeffizient
 
 Kopplungselemente: 
+
+### Wasserelektrolyse
+kann aus verschiedenen Wegen hergestellt werden (grau/Dampfreformierung, blau/Kohlespaltung, grün/Elektrolyse aus EE)
+Niedertemp. EL: Proton Exchange Membrane und alkalische EL
+Hochtemp. EL: Festoxid und Schmelzkarbon
+
+### Methanisierung
+Den aus Elektrolyse gewonnene $\ce{H_2}$ kann mit $\ce{CO_2}$ kombiniert werden (endothermisch) und ergibt sich stabileres Gas $\ce{CH_4}$ (Kat.: Nickel, Ruthenium). $\Delta H_R = -165 kJ/mol$  
+**Die Quelle für Kohlendioxid sind:** 
+- Abscheidung von KW-Prozessen (CCS) -> kann verbessert werden indem die Reaktion mit überschüssigen $\ce{O_2}$ betrieben (die extra $\ce{O_2}$ kommt aus der Wasserspaltung)
+- Biogasanlagen -> Produziert grundsätzlich ca. 60% $\ce{CH_4}$ und 40% $\ce{CO_2}$, gesammelt mit Adsorptionsfilter
+- Direct Air Capture -> aber aus sehr geringe Konzentration angesaugt (~440 ppm = ,04%)
+**Speicher für $\ce{CO_2}$:**
+- Mit Wasser versetzen in Kohlensäure $\ce{H_2CO_3}$ 
+- Im Tank
+Es gibt 32 PtG Anlagen in Deutschland und 15 Weltweit (2020), Leistungsgroße ca 60MW...
+
+### Power to Liquid
