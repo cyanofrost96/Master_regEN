@@ -52,3 +52,5 @@ Ammoniaksynthese
 Hydrolyse > Acidogenese > Acetogenese > Methanogene
 
 $\ce{\Delta G}$ = Abweichung der Reaktionsenthalpie von der Gleichgewicht
+
+### In Situ und Ex Situ Verfahren
