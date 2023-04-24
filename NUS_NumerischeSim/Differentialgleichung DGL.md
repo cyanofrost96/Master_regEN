@@ -39,3 +39,5 @@ $$\frac{c^2}{h^2} \begin{bmatrix}
 \begin{bmatrix}
 	f_1\cr f_2\cr ...\cr f_{n-2}\cr f_{n-1}\cr 
 \end{bmatrix}$$
+Es gibt leider Speicherprobleme wenn man so speichert (überall 0-Werten außer die mittlere Diagonale)
+tipp: nur die Hauptdiagonale mit der obere- sowie die untere- speichern (Tridiagonalmatrix)
