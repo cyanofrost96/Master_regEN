@@ -12,3 +12,10 @@ es gibt von daher 7 unbekannte (insg. 9 plus die Bekannte y_0 und y_8)
 wird dann in Matrizen umgewandelt
 
 ### Lineare Gleichungssystem
+$$\begin{pmatrix}
+	\frac{-2c^2}{h^2}&\frac{c^2}{h^2}&0&0&0\cr
+	\frac{c^2}{h^2}&\frac{-2c^2}{h^2}&\frac{c^2}{h^2}&0&0\cr
+	0&\frac{c^2}{h^2}&\frac{-2c^2}{h^2}&\frac{c^2}{h^2}&0\cr
+	0&0&\frac{c^2}{h^2}&\frac{-2c^2}{h^2}&\frac{c^2}{h^2}\cr
+	0&0&0&\frac{c^2}{h^2}&\frac{-2c^2}{h^2}
+\end{pmatrix}$$
