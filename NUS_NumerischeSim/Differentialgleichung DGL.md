@@ -12,10 +12,30 @@ es gibt von daher 7 unbekannte (insg. 9 plus die Bekannte y_0 und y_8)
 wird dann in Matrizen umgewandelt
 
 ### Lineare Gleichungssystem
-$$\begin{pmatrix}
-	\frac{-2c^2}{h^2}&\frac{c^2}{h^2}&0&0&0\cr
-	\frac{c^2}{h^2}&\frac{-2c^2}{h^2}&\frac{c^2}{h^2}&0&0\cr
-	0&\frac{c^2}{h^2}&\frac{-2c^2}{h^2}&\frac{c^2}{h^2}&0\cr
-	0&0&\frac{c^2}{h^2}&\frac{-2c^2}{h^2}&\frac{c^2}{h^2}\cr
-	0&0&0&\frac{c^2}{h^2}&\frac{-2c^2}{h^2}
-\end{pmatrix}$$
+$$\begin{bmatrix}
+	\frac{-2c^2}{h^2}&\frac{c^2}{h^2}&0&...&0\cr
+	\frac{c^2}{h^2}&\frac{-2c^2}{h^2}&\frac{c^2}{h^2}&...&0\cr
+	&&...\cr
+	0&...&\frac{c^2}{h^2}&\frac{-2c^2}{h^2}&\frac{c^2}{h^2}\cr
+	0&...&0&\frac{c^2}{h^2}&\frac{-2c^2}{h^2}
+\end{bmatrix} \cdot
+\begin{bmatrix}
+	y_1\cr y_2\cr y_3\cr ...\cr y_7
+\end{bmatrix} =
+\begin{bmatrix}
+	\frac{-f_1}{\mu}\cr \frac{-f_2}{\mu}\cr \frac{-f_3}{\mu}\cr ...\cr \frac{-f_7}{\mu}\cr 
+\end{bmatrix}$$
+in der Gleichung einsetzen und n bis i nachrechnen:
+$$\frac{c^2}{h^2} \begin{bmatrix}
+	-2&1&0&...&0\cr
+	1&-2&1&...&0\cr
+	&&...\cr
+	0&...&1&-2&1\cr
+	0&...&0&1&-2
+\end{bmatrix} \cdot
+\begin{bmatrix}
+	y_1\cr y_2\cr ...\cr y_{n-2}\cr y_{n-1}
+\end{bmatrix} = -\frac{1}{\mu}
+\begin{bmatrix}
+	f_1\cr f_2\cr ...\cr f_{n-2}\cr f_{n-1}\cr 
+\end{bmatrix}$$
