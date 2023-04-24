@@ -9,3 +9,6 @@ $$c^2 \cdot y'' = -\frac{1}{\mu}f(x_i)$$
 $$y''(x_i) = \frac{p(x_{i-1})-2p(x_i)+p(x_{i+1})}{h^2}=\frac{y_{i-1}-2y_i-y_{i+1}}{h^2}$$
 
 es gibt von daher 7 unbekannte (insg. 9 plus die Bekannte y_0 und y_8)
+wird dann in Matrizen umgewandelt
+
+### Lineare Gleichungssystem
