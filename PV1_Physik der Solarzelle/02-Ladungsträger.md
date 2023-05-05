@@ -44,7 +44,13 @@ Es gibt dazu zwei Akteuren:
 	  Bringt der Energieniveau des Bandstrukturs höher $\rightarrow$ freies Elektron
 - **Akzeptor** : "Nimmt" Elektronen an; Erzeugt p-Typ
 	  Bringt der Energieniveau des Bandstrukturs runter $\rightarrow$ freies Loch
-Zusätzliche Energieniveaus in der Bandlücke (nahe des Band)
+Zusätzliche Energieniveaus in der Bandlücke (nahe der Bandhauten) durch Dotieratome
+
+Erzeugung freier Ladungsträger durch Ionisation der Donator-/Akzeptoratome, wenn 
+1. ausreichend thermische Energie vorhanden (bei Raumtemp.)
+2. unbesetzter Zustand (freier Platz) im VB bzw. CB vorhanden
+$$n \approx N_D \quad ; \quad p \approx N_A$$
+
 ### Ionisationswahrsch.
 ### Entartung
 
