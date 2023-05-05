@@ -8,6 +8,16 @@ $$g_{c/v}(E) = \frac{4 \pi (2m_{n/p}^*)^{3/2}}{h^3} \cdot \sqrt{|E-E_{c/v}|}$$
 Verteilungsfunktion nach Fermi. 
 Elektronen befinden sich unter (0K / niedrigerem Temperatur) auf den untersten Band, und die Besetzungsmöglichkeit von den höheren Energiebänder sind 0% / geringer Wahrscheinlichkeit. Mit steigendem Temperatur steigt die Besetzungswahr. der oberen Energiebänder und somit sinkt die Wahr. der unteren.
 
+![](Besetzungswahrsch.excalidraw|350)
+
+$$f(E) = \frac{1}{1+\ce{exp}(\frac{E-E_F}{kT})}$$
+`kT bei T=300K = 26 meV
+Die Formel gibt die Wahrscheinlichkeit an, mit der eine Energie Zustand E besetzt ist
+Grenzfälle:
+- $E < E_F$ : $f(E) &rarr; 1$ 
+- $E = E_F$ :
+- $E>E_F$ :
+
 ### LT-Konzentration
 
 ## Dotierung
