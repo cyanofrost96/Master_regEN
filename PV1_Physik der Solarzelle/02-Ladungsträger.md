@@ -35,9 +35,16 @@ $$n_i = \sqrt{N_C\cdot N_V \cdot \ce{exp} \left(-\frac{E_g}{kT}\right)}$$
 Bsp.: Si, 300K, $E_g = 1,12 eV \rightarrow n_i = 1e10 \: \ce{cm^{-3}}$ 
 
 Bei kleinerer Bandlücke ist das Material leitfähiger (haben mehr Ladungsträgerkonz.)
+Temperaturzunahme führt zur kleinerer Bandlücke
 Der intrinsische Ladungsträger nimmt mit steigendem Temperatur exponentiell zu.
 
 ## Dotierung
+Es gibt dazu zwei Akteuren:
+- **Donator** : "Spenden" Elektronen; Erzeugt n-Typ
+	  Bringt der Energieniveau des Bandstrukturs höher $\rightarrow$ freies Elektron
+- **Akzeptor** : "Nimmt" Elektronen an; Erzeugt p-Typ
+	  Bringt der Energieniveau des Bandstrukturs runter $\rightarrow$ freies Loch
+Zusätzliche Energieniveaus in der Bandlücke (nahe des Band)
 ### Ionisationswahrsch.
 ### Entartung
 
