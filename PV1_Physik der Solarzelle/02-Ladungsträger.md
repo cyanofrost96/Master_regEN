@@ -12,11 +12,11 @@ Elektronen befinden sich unter (0K / niedrigerem Temperatur) auf den untersten B
 
 $$f(E) = \frac{1}{1+\ce{exp}(\frac{E-E_F}{kT})}$$
 `kT bei T=300K = 26 meV
-Die Formel gibt die Wahrscheinlichkeit an, mit der eine Energie Zustand E besetzt ist
-Grenzfälle:
-- $E < E_F$ : $f(E) &rarr; 1$ 
-- $E = E_F$ :
-- $E>E_F$ :
+Die Formel gibt die Wahrscheinlichkeit an, mit der eine Energie Zustand E besetzt ist.
+**Grenzfälle :**
+- $E < E_F$ : $f(E) \rightarrow 1$ 
+- $E = E_F$ : $f(E) = 0,5$
+- $E>E_F$ : $f(E) \rightarrow 0$ 
 
 ### LT-Konzentration
 
