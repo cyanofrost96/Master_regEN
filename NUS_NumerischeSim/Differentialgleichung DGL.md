@@ -43,4 +43,4 @@ Es gibt leider Speicherprobleme wenn man so speichert (überall 0-Werten außer 
 tipp: nur die Hauptdiagonale mit der obere- sowie die untere- speichern (Tridiagonalmatrix)
 
 ## LR - Zerlegung
-Umformatierung bzw. Spalten einer Matrix A in L (links-dreieck) und R (rechts-dreieck)
+Umformatierung bzw. Spalten einer Matrix A in L (links-dreieck) und R (rechts-dreieck) mittels Gaußmatrix P (?).
