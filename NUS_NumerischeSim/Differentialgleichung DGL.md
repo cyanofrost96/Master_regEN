@@ -41,3 +41,6 @@ $$\frac{c^2}{h^2} \begin{bmatrix}
 \end{bmatrix}$$
 Es gibt leider Speicherprobleme wenn man so speichert (überall 0-Werten außer die mittlere Diagonale)
 tipp: nur die Hauptdiagonale mit der obere- sowie die untere- speichern (Tridiagonalmatrix)
+
+## LR - Zerlegung
+Umformatierung bzw. Spalten einer Matrix A in L (links-dreieck) und R (rechts-dreieck)
