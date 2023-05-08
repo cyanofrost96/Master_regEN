@@ -47,4 +47,5 @@ Umformatierung bzw. Spalten einer Matrix A in L (links-dreieck) und R (rechts-dr
 Bsp.:
 $$A \cdot x = b; \quad A = \begin{bmatrix} 0&-2&1\cr 0,5&3&-0,5\cr 1&4&2 \end{bmatrix}; \quad b = \begin{bmatrix} 0\cr 1,5\cr 7 \end{bmatrix}$$
 LR-Zerlegung mit Spaltenpivotisierung $P \cdot A = L \cdot R$
-$$P= \begin{bmatrix} 0&0&1\cr 1&0&0\cr 0&1&0\end{bmatrix}; L=\begin{bmatrix} \end{bmatrix} \begin{bmatrix} \end{bmatrix}$$
+$$P= \begin{bmatrix} 0&0&1\cr 1&0&0\cr 0&1&0\end{bmatrix};\quad L=\begin{bmatrix} 1&0&0\cr 0&1&0\cr 0,5&-0,5&1\end{bmatrix};\quad R=\begin{bmatrix} 1&4&2\cr 0&-2&1\cr 0&0&-1\end{bmatrix}$$
+- Die R-Matrix 
