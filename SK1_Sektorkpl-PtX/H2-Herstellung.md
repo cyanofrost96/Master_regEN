@@ -23,3 +23,5 @@ Plasmalyse wird innoviert von der Firma Graforce. Das Verfahren benötigt 1,6k �
 Der feste Kohlenstoff kann für Batterieelektroden (Lithium Batterien), Stahlherstellung verwendet werden.
 
 ## Elektrolyse
+Elektrische Energie : $Q = U \cdot I \cdot t$
+
