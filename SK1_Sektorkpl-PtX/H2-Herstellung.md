@@ -31,11 +31,14 @@ Der feste Kohlenstoff kann für Batterieelektroden (Lithium Batterien), Stahlher
 2. Elektrolyt: lässt Ionen fließen.
 3. Separator: trennt die positive geladenen Volume von der negativen.
 Beim H2-Herstellung bildet sich bei der Kathode = Wasserstoff, bzw. Anode = Sauerstoff.
+>[!theoretische Zersetzungsspannung U_z]
+>aus flüssigem Stand: 1,48 V
+>aus gasformigem $\ce{H_2O}$: 1,23 V
 ### Elektrolyseur
 1. Alkalische EL
 	   TRL 9, 25 .. 40% $\ce{KOH}$, poröses Diaphragma als Separator, 60 .. 80 °C.
-1. Proton exchange membrane EL: 
+2. Proton exchange membrane EL: 
 	   Membran besteht aus Polymer wie Teflon
-1. Hochtemperatur EL
+3. Hochtemperatur EL
 Elektrische Energie : $Q = U \cdot I \cdot t$
 
