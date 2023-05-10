@@ -38,7 +38,7 @@ Beim H2-Herstellung bildet sich bei der Kathode = Wasserstoff, bzw. Anode = Saue
 1. Alkalische EL
 	   TRL 9, 25 .. 40% $\ce{KOH}$, poröses Diaphragma als Separator, 60 .. 80 °C.
 2. Proton exchange membrane EL: 
-	   Membran besteht aus Polymer wie Teflon
+	   Membran besteht aus Polymer wie Teflon, feste Elektrolyt aus Nafion mit Dicke von 0,25 mm.
 3. Hochtemperatur EL
 Elektrische Energie : $Q = U \cdot I \cdot t$
 
