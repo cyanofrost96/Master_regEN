@@ -22,6 +22,9 @@ $$\ce{C_mH_n \rightarrow mC + \frac{n}{2}H_2 \quad \quad Plasmalyse}$$
 Plasmalyse wird innoviert von der Firma Graforce. Das Verfahren benötigt 1,6k °C.
 Der feste Kohlenstoff kann für Batterieelektroden (Lithium Batterien), Stahlherstellung verwendet werden.
 
+>[! Klausurrelevante Fragen]
+>Wie viel $\ce{CH_4}$ nötig für 1L $\ce{H_2}$? (siehe die Vorzahlen)
+
 ## Elektrolyse
 Elektrische Energie : $Q = U \cdot I \cdot t$
 
