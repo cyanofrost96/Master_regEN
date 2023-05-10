@@ -20,5 +20,6 @@ Das Erdgas / Biomethan wird CO2-frei hergestellt.
 $$\ce{CH_4 \rightarrow C_{(s)} + 2H_{2(g)}\quad\quad \ce{Kvaerner Verfahren}}$$
 $$\ce{C_mH_n \rightarrow mC + \frac{n}{2}H_2 \quad \quad Plasmalyse}$$
 Plasmalyse wird innoviert von der Firma Graforce. Das Verfahren benötigt 1,6k °C.
+Der feste Kohlenstoff kann für Batterieelektroden (Lithium Batterien), Stahlherstellung verwendet werden.
 
-Fragen Nm^3 CH4 um 
+## Elektrolyse
