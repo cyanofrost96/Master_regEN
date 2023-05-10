@@ -26,5 +26,16 @@ Der feste Kohlenstoff kann für Batterieelektroden (Lithium Batterien), Stahlher
 >Wie viel $\ce{CH_4}$ nötig für 1L $\ce{H_2}$? (siehe die Vorzahlen)
 
 ## Elektrolyse
+**3 Hauptkomponenten :**
+1. Elektroden: lässt Elektronen in bzw. aus die Batterie/Akku fließen.
+2. Elektrolyt: lässt Ionen fließen.
+3. Separator: trennt die positive geladenen Volume von der negativen.
+Beim H2-Herstellung bildet sich bei der Kathode = Wasserstoff, bzw. Anode = Sauerstoff.
+### Elektrolyseur
+1. Alkalische EL
+	   TRL 9, 25 .. 40% $\ce{KOH}$, poröses Diaphragma als Separator, 60 .. 80 °C.
+1. Proton exchange membrane EL: 
+	   Membran besteht aus Polymer wie Teflon
+1. Hochtemperatur EL
 Elektrische Energie : $Q = U \cdot I \cdot t$
 
