@@ -49,3 +49,4 @@ Beim H2-Herstellung bildet sich bei der Kathode = Wasserstoff, bzw. Anode = Saue
 Elektrische Energie : $Q = U \cdot I \cdot t$
 
 Fragen: 
+
