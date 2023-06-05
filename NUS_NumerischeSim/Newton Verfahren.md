@@ -16,5 +16,10 @@ Probleme :
 
 ## Mehrdimensionale DGL
 *partielle Ableitungen, Jacobi-Matrix, Linearisierung*
+reellwertige mehrvariablen Funktion
+$$ f(x_1,x_2,..,x_n) = \begin{bmatrix} x_1 \cr x_2 \cr .. \cr x_n\end{bmatrix}$$
+### Partielle Ableitung
+
+
 
 ## Newton Verfahren für GLS
