@@ -8,7 +8,11 @@ Eine Iteration um eine Nullstelle einer Funktion zu "schätzen"
 Die Iterationsfunktion :
 $$x = x_0 - \frac{f(x_0)}{f'(x_0)}$$
 ### Konvergenz Newton Verfahren
-
+Probleme :
+- x_Schätz muss ziemlich nah genug an der Nullstelle.
+- wenn der Anstieg an irgendeinem untersuchtem Bereich = 0 ist, dann funktioniert das Verfahren nicht mehr.
+- kann dummerweise in eine Schleife geraten.
+- kann stattdessen in die andere Richtung gehen.
 
 ## Mehrdimensionale DGL
 ## Newton Verfahren für GLS
