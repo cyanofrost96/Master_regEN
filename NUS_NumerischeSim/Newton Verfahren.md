@@ -15,4 +15,6 @@ Probleme :
 - kann stattdessen in die andere Richtung gehen.
 
 ## Mehrdimensionale DGL
+*partielle Ableitungen, Jacobi-Matrix, Linearisierung*
+
 ## Newton Verfahren für GLS
