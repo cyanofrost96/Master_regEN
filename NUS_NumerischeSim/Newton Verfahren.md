@@ -19,7 +19,9 @@ Probleme :
 reellwertige mehrvariablen Funktion
 $$ f(x_1,x_2,..,x_n) = \begin{bmatrix} x_1 \cr x_2 \cr .. \cr x_n\end{bmatrix}$$
 ### Partielle Ableitung
+Anstieg einer mehrdimensionalen Funktion bezüglich der Achse mit dem es abgeleitet wird. D.h.: wenn nach x abgeleitet wird, zeigt die Ableitungsfunktion die Steigung basiert auf einem Schnitt entlang der x-Achse.
 
-
+### Jacobi-Matrix
+$$Df|x = \begin{bmatrix} \end{bmatrix}, \quad \delta f = \begin{bmatrix} \end{bmatrix}$$
 
 ## Newton Verfahren für GLS
