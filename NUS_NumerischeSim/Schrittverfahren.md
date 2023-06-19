@@ -12,3 +12,8 @@ $t_1 : y_1 = y_0 + m \cdot \Delta t$
 $\quad \; \; y_1 = y_0 + f(t_0, y_0) \cdot h$ 
 die Iteration führt zu einer Funktion :
 $$y_{i+1} = y_i + h \cdot f(t_i,y_i)$$
+### Mittelpunktregel
+$$k_1 = \ce{f}(t_i, y_i)$$
+$$k_2 = \ce{f}(t_i + h/2, \: y_i+h/2\cdot k_1)$$
+Somit wird die Lösung um Ordnung 2 genauer gelöst.
+
