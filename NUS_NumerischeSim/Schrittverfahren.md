@@ -5,5 +5,5 @@ $$\begin{bmatrix}
 \end{bmatrix}$$
 $$\ddot{\ce{y}} = c^2 D \:\ce{y} + \frac{1}{µ}\:\ce{f}$$
 Richtungsfeld
-Algol: Für bestimmte Rahmen (x / t) in bestimmte Schrittlänge die Richtungsfeldfunktion berechnen und die Funktion "folgen".
+Algol: Für bestimmte Rahmen (x / t) in bestimmte Schrittlänge die Richtungsfeldfunktion berechnen und die Funktion "folgen". Wenn die Zeitschritte zu groß ist, dann könnte die Funktion zwischen der Konvergenzlinie pendeln.
 
