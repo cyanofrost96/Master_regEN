@@ -16,4 +16,4 @@ $$y_{i+1} = y_i + h \cdot f(t_i,y_i)$$
 $$k_1 = \ce{f}(t_i, y_i)$$
 $$k_2 = \ce{f}(t_i + h/2, \: y_i+h/2\cdot k_1)$$
 Somit wird die Lösung um Ordnung 2 genauer gelöst.
-
+Ordnung 3, 4, usw. sind die Weiterberechnung von $k_i$
