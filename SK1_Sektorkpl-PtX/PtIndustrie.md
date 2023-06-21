@@ -8,4 +8,4 @@ Wichtige Merkmale von Ammoniak ($\ce{NH_3}$) :
 - $H_b =$ 1368,1 kJ/kg
 - Grundstoff für Industrie, Produktion: 140e6 T/a
 - Produkte: Düngemittel, Kunststoffe, Kältemittel, Arzneimittel, Sprengstoff
-- 
+- Stickstoff ($\ce{N_2}$)an sich verflüssigt bei -196°C
