@@ -16,3 +16,18 @@ Haber-Bosch-Verfahren :
 
 ### Pt-Metall
 Konventionell werden Metalle aus Metall-Oxid mittels Koks (reichhaltige C) durch Reduktion hergestellt. Wasserstoff kann den Reduktionsvorgang ersetzen.
+
+### Stahlproduktion
+Eisentypen:
+  - Magnetit $\ce{Fe_3O_4}$ (45 .. 70% Eisen)
+  - Hämatit $\ce{Fe_2O_3}$ (40 .. 65% Eisen)
+  - Eisenspat $\ce{FeCO_3}$ (40 .. 65% Eisen)
+
+thermischer Verlauf im Hochofen :
+	- 200 .. 500 °C : Vorwärmen
+	- > 700 °C : Reduktionszone
+	- > 1100 °C : Kohlungszone
+
+Wasserstoff als Reduktionsmittel für Stahl
+$$\ce{Fe_2O_3 + 3 H_2} \rightarrow \ce{2 Fe + 3 H_2O}$$
+Warum ist es energetisch günstiger, mit H2 zu reduzieren? weil H2 kleiner sind und kann direkt mit dem Eisenerz reagieren ohne erst mit irgendeinem kombinieren muss. (Wie bei Koks, C muss erstmal mit O verbinden damit die erstmal reaktionsfähig ist)
