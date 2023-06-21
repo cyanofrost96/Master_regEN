@@ -9,3 +9,10 @@ Wichtige Merkmale von Ammoniak ($\ce{NH_3}$) :
 - Grundstoff für Industrie, Produktion: 140e6 T/a
 - Produkte: Düngemittel, Kunststoffe, Kältemittel, Arzneimittel, Sprengstoff
 - Stickstoff ($\ce{N_2}$)an sich verflüssigt bei -196°C
+
+Haber-Bosch-Verfahren :
+- benötigen 500°C und 450 bar wegen der starke 3fach kovalente Verbindung (950 kJ/mol)
+- ist eine exotherme Reaktion mit $\Delta H = -46 \; \ce{kJ/mol}$ 
+
+### Pt-Metall
+Konventionell werden Metalle aus Metall-Oxid mittels Koks (reichhaltige C) durch Reduktion hergestellt. Wasserstoff kann den Reduktionsvorgang ersetzen.
