@@ -32,69 +32,14 @@ $j_0$ ist von der Materialeigenschaften ($L_n, L_p$), Dotierkonzentration($N_A, 
 ### Abweichung von idealen Verhalten
 höhere Sperrspannung verbreitet die RLZ, Generation von Elektron-Loch-Paare wird nicht vernachlässigbar 
 
-**Stromdichte im Echten**
+#### Stromdichte im Echten
 $$j = j_0 \cdot (\ce{exp}(\frac{U}{m \cdot U_T})-1)$$
-m ist das Idealitätsfaktor; 1 = ideal, 1..2 = real
+m ist das Idealitätsfaktor; 1 = ideal, 1 .. 2 = real
 
-**Temperaturabhägigkeit**
-
-## Solarzelle
-Ist ein pn-Übergang mit Kontakten (d.h. die Elektronen wird nicht gesättigt)
-Kennlinie einer SZ:
-$$j = j_k-j_0(\ce{exp}(\frac{u}{u_T}-1))$$
-**Kurzschlussstrom**: 
-$j_k$ : Kurzschlussstromdichte, ist proportional zur Bestrahlungsstärke
-Strom ist von folgenden Parametern abhängig:
-- Temperatur
-- Absorptionskoeffizient
-- Bandlücke
-- Rekombinationsrate
-- Spektraleempfindlichkeit
-
-**Leerlaufsspannung**: $j=0$
-$$U_{(j=0)} = V_{oc} = U_T \cdot \ce{ln}(\frac{j_k}{j_0})$$
-Bei reale Solarzelle noch mit $m$ (Idealitätsfaktor) multiplizieren 
-
-$V_{oc}$ ist von folgenden Parametern abhängig: 
-- $I_{sc}$ : proportional
-- $E$ ; proportional
-- Bandlücke ; größere Lücke -> höhere Spannung 
-- Dotierung ; verändert die Fermi-Energie, höhere Dotierung -> größere Bandverbiegung
-- Temperatur
-
-Höhe Leerlaufsspannung erfördert kleines $j_0$
-
-### Leistung
-
-### Fullfaktor
-
-$$FF = \frac{j_{mpp} \cdot U_{mpp}}{j_{sc} \cdot U{oc}}$$
-### Wirkungsgrad
-Stellt dar, wie viel Sonnenlicht in elektrische Energie umgewandelt wird.
-$$\eta = \frac{P_mpp}{E \cdot A}$$
-Der ist von spektrale Empfindlichkeit des Materials abhängig
-
-### Externe Quantenausbeute
-Zeigt, wie viel (prozentual) Elektron mit dem bestimmten spektral eines Lichtes angeregt werden.
-Licht mit höher und niedriger Frequenz werden rausgefiltert, da sie entweder nur an der Oberfläche anregt (und dann schnell wieder rekombinieren), oder geht zu tief rein (rotes Licht), und werden nicht mehr absorbiert.
-
-Verbesserungen an Rekombination an der Oberfläche kann man mit a-si passivierung machen.
-
-### Einfluss der Grenzflächen
-**Sammelwahrscheinlichkeit**: 
-Mit welchem Wahrscheinlichkeit werden Ladungsträger an den Kontakten eingesammelt?
-Transport zum pn-übergang, Trennung an pn-übergang, Transport zum Kontakten
-Diffusionslänge bzw. Lebensdauer, Geschwindigkeit der Rekombination an der Grenzfläche.
-
-Bei kürzerer Diffusionslänge bringen die Grenzfläche kein Einfluss, nur bei längeren. Der Einfluss ist -> höherer Rekombinationsgeschwindigkeit an der Oberfläche.
-
-Passivierung, chemisch: mit $\ce{SiO_2}$, $\ce{Si_2N_4}$, oder a-Si
-Feldpassivierung: Back Surface Field
-
-Solarzelle mit Al-BSF: 
-Al schicht an der Rückseite + Kontaktfeuern : Al atomen diffundieren in die Solarzelle rein, erzeugt ein hochdotiertes p-Schicht. Dieser Schicht verhindert dass Elektronen an p-Seite zurück fließen.
-
-An der Vorderseite diffundieren die Ag-Kontaktfingern durch ARC und die n-Schicht, welche einen hochdotierten n-''Punkten'' in der n-Schicht bilden.
-
-PERC (passivated emitter and rear contact)
-Anstatt ein Al-blech, hat man hier punktformig die Al in die p-Schicht angebracht, welche auch punktformige p+-Dotierung erzeugt.
+#### Temperaturabhängigkeit der IU-Kennlinie
+in Sperrrichtung: $j_0 \equiv n_i^2$, wobei $n_i \equiv T^{3/2} \cdot \ce{exp}(-\frac{E_g}{2kT})$
+Anstieg von 6K führt zu Verdopplung von $j_0$
+$$j = j_0 \cdot (\ce{exp}(\frac{U}{U_T})-1)-j_L$$
+#### Photospannung
+- ohne Beleuchtung: 
+	
