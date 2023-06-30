@@ -35,13 +35,16 @@ Der ist von spektrale Empfindlichkeit des Materials abhängig
 
 ### Externe Quantenausbeute
 Zeigt, wie viel (prozentual) Elektron mit dem bestimmten spektral eines Lichtes angeregt werden.
-Licht mit höher und niedriger Frequenz werden rausgefiltert, da sie entweder nur an der Oberfläche anregt (und dann schnell wieder rekombinieren), oder geht zu tief rein (rotes Licht), und werden nicht mehr absorbiert.
+Licht mit höher und niedriger Frequenz werden rausgefiltert, da sie entweder nur an der Oberfläche anregt / das blaue Licht (und dann schnell wieder rekombinieren), oder geht zu tief rein (rotes Licht), und werden nicht mehr absorbiert.
 
 Verbesserungen an Rekombination an der Oberfläche kann man mit a-si passivierung machen.
 
+### Interne Quantenausbeute
+Beziehen nur die Photonen, die nicht reflektiert werden.
+
 ### Einfluss der Grenzflächen
 **Sammelwahrscheinlichkeit**: 
-Mit welchem Wahrscheinlichkeit werden Ladungsträger an den Kontakten eingesammelt?
+*Mit welchem Wahrscheinlichkeit werden Ladungsträger an den Kontakten eingesammelt?*
 Transport zum pn-übergang, Trennung an pn-übergang, Transport zum Kontakten
 Diffusionslänge bzw. Lebensdauer, Geschwindigkeit der Rekombination an der Grenzfläche.
 
