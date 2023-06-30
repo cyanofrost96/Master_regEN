@@ -10,6 +10,7 @@
 Berechnung nach Fresnel'sche Formel: $$R_{1/2} = (\frac{n_1-n_2}{n_1+n_2})^2$$
 n: Brechungsindex; $n_{Si} = 4$. Ohne Antireflexionsschicht wird nur 66% der Licht von der Silizium absorbiert werden. Die 34% wird reflektiert. Mit ARC (aus $\ce{Si_3N_4}$) von $n=2$ wird 11% an der Oberfläche der ARC reflektiert und am Ende 79% vollständig von der Silizium absorbiert. Die restliche 10% prallt hin und her in der ARC-Schicht.
 
+Optimale Brechungsindex für die Antireflex-Schicht liegt bei $n_{ARC,opt.} = \sqrt{n_{Si} \cdot n_{Luft}}$ = 2
 ### Interferenz
 Überlagerung von Wellen. Kann konstruktiv (Verstärkungseffekt) oder destruktiv (180° versetzt mit gleichem Amplitude und beide löschen sich aus) sein. Die Dicke der ARC ist dann mit der Hälfte der Länge des meist-geschickten Spektrums der Sonne anzupassen. Üblicherweise ist es die 600nm (Gelb-Grün) ausgewählt, zum löschen
 Die Dicke unterscheidet dann die Farbe des Endprodukts (Also abhängig von der Reflektierte Wellenlänge)
