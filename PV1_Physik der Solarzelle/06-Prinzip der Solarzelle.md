@@ -1,4 +1,4 @@
-[Folie](file:\\\D:\Docs\UNI_Master\PV1_PhysikderSolarzellen\WPV1-SS20-Folien-06.pdf#page=10)
+[Folie](https://mega.nz/file/LRdTmLJA#owOFieou1VwLjt5d5dA4uGXCTljcjnDXHHX1U19fIJQ#page=10)
 Ist ein pn-Übergang mit Kontakten (d.h. die Elektronen wird nicht gesättigt)
 Kennlinie einer SZ:
 $$j = j_k-j_0(\ce{exp}(\frac{u}{u_T}-1))$$
