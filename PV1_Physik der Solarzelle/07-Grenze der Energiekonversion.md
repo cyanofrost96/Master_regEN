@@ -11,5 +11,5 @@
 - Rekombinationsverluste: Strahlreko. (Emission), Grenzflächenreko., SRH-Reko.
 - elektrische Verluste: Serien- und Parallelwiderstand
 - optische Verluste: 
-	  Reflexion (Brechungsindex), Kontaktfinger/Verschattung, Transmissionverlust, parasitäre Absorption (Licht wird da Absorbiert an Teilen die nicht gewollt sind)
+	  Reflexion ([Brechungsindex](03-Optik)), Kontaktfinger/Verschattung, Transmissionverlust, parasitäre Absorption (Licht wird da Absorbiert an Teilen die nicht gewollt sind)
 Warum Halbleiter für SZ geeignet sind? Lebensdauer ist da länger / Rekombination ist langsamer.
