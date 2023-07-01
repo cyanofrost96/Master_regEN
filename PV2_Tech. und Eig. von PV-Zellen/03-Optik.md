@@ -16,7 +16,7 @@ Optimale Brechungsindex für die Antireflex-Schicht liegt bei $n_{ARC,opt.} = \s
 Überlagerung von Wellen. Kann konstruktiv (Verstärkungseffekt) oder destruktiv (180° versetzt mit gleichem Amplitude und beide löschen sich aus) sein. Die Dicke der ARC ist dann mit der Hälfte der Länge des meist-geschickten Spektrums der Sonne anzupassen. Üblicherweise ist es die 600nm (Gelb-Grün) ausgewählt, zum löschen
 
 Die Dicke unterscheidet dann die Farbe des Endprodukts (Also abhängig von der Reflektierte Wellenlänge)
-$$d = \lambda/4$$
+$$d = \lambda/(4\cdot n)$$
 
 ### Texturierung
 Auf [[monokristallin]]e Silizium ist es auch möglich, Pyramidenstruktur aus der Kristalloberfläche zu schaffen, wobei das Licht nicht nur einmal auf die Oberfläche treffen wird. Durch das Texturieren + ARC-Schicht wird das einkommende Licht mehrmals in der ARC-Schicht prallen, bevor es entweder aus der Zelle raus oder (positiverweise) in die Kristalle eintritt. Dadurch steigt die Lichtausbeute.
