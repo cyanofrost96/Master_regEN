@@ -31,3 +31,4 @@ thermischer Verlauf im Hochofen :
 Wasserstoff als Reduktionsmittel für Stahl
 $$\ce{Fe_2O_3 + 3 H_2} \rightarrow \ce{2 Fe + 3 H_2O}$$
 Warum ist es energetisch günstiger, mit H2 zu reduzieren? weil H2 kleiner sind und kann direkt mit dem Eisenerz reagieren ohne erst mit irgendeinem kombinieren muss. (Wie bei Koks, C muss erstmal mit O verbinden damit die erstmal reaktionsfähig ist)
+
