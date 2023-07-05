@@ -27,7 +27,7 @@ Gerade liegt der Wirkungsgrad der Umwandlungsprozess bei 16%
 Power to Heat: 
 
 ## 2 H2 - Herstellungstech.
-Status quo der globalen H2-Produktion: hauptsächlich aus [Dampfreformierung](https://de.wikipedia.org/wiki/Dampfreformierung) (grau) hergestellt.
+Status quo der globalen H2-Produktion: hauptsächlich aus [Dampfreformierung](https://de.wikipedia.org/wiki/Dampfreformierung) (grau) hergestellt. 10-11 tonne CO2 wird ausgestoßt / tonne H2
 $$\ce{CH4 + 2H2O \rightarrow CO2 + 4H2 ; \Delta H_R = 165 kJ/mol}$$
 Dazu gibts noch SMR
 $$\ce{CH4 + H2O \rightarrow 3H2 + CO; \Delta H_R = 230 kJ/mol}$$
@@ -52,4 +52,39 @@ Diese höhere Temp kann auch von konzentrierte Solarwärme erreicht werden.
 
 ## 3 Wasserstoffaufbereitung
 Reinheit Anforderung von Wasserstoff: nach ISO 14687-2019 Grade A: >98% mol-%; Grade D = 99,97% mol-%
-Die Verunreinigungen sind z.B : 
+Die Verunreinigungen sind z.B : N2, Feuchtigkeit, O2
+
+Etabilierte Verfahren
+1. Sorptionsverfahren:
+	1. Adsorption: PSA (Druckwechsel) und TSA (Temperaturwechsel)
+	2. Absorption
+2. ..verfahren
+
+#### PSA Verfahren
+...
+
+#### Technische Arbeitsmittel
+
+#### Absorptionsverfahren
+
+#### Membranverfahren
+Hergestellt aus Polymere, Metalle, Keramische Metallen, flüssige Membranen
+##### Palladiummembran
+
+## 4 Wirkungsgrade der PtGtP-Prozesskette
+
+Entwicklungspotenziale der Methanisierung: Katalysatormaterial
+Sabatier-Prozess ist exothermisch
+
+## 5 H2 für CO2-Neutrale Industrie
+
+Stahlindustrie: Reduktionsmittel aus H2 anstatt mit C
+
+## 6 H2 Transport und Verteilung
+mittels diskrete Tanken LKW oder leitungsgebunden
+
+technische. Mögli. H2 in größere Menge zu transportieren?
+- vorhandene Infra. umrusten / optimieren.
+- H2 zuerst methanisieren und dann in Pipelines wieder.
+- LOHC mit Tanks
+- Vermischung von Erdgas und Synthgas
