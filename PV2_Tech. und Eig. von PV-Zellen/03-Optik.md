@@ -12,6 +12,7 @@ n: Brechungsindex; $n_{Si} = 4$. Ohne Antireflexionsschicht wird nur 66% der Lic
 
 Optimale Brechungsindex für die Antireflex-Schicht liegt bei $n_{ARC,opt.} = \sqrt{n_{Si} \cdot n_{Luft}}$ = 2
 
+$$1-R_{1/2} = \frac{4\cdot n_1 \cdot n_2}{(n_1+n_2)^2}$$
 ### Interferenz
 Überlagerung von Wellen. Kann konstruktiv (Verstärkungseffekt) oder destruktiv (180° versetzt mit gleichem Amplitude und beide löschen sich aus) sein. Die Dicke der ARC ist dann mit der Hälfte der Länge des meist-geschickten Spektrums der Sonne anzupassen. Üblicherweise ist es die 600nm (Gelb-Grün) ausgewählt, zum löschen
 
