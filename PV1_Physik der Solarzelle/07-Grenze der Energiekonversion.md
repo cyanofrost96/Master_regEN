@@ -10,10 +10,17 @@
 ## Verlustmechanismen
 - Rekombinationsverluste: Strahlreko. (Emission), Grenzflächenreko., SRH-Reko.
 - elektrische Verluste: Serien- und Parallelwiderstand
-- optische Verluste: Reflexion ([Brechungsindex](03-Optik)), Kontaktfinger/Verschattung, Transmissionverlust, parasitäre Absorption (Licht wird da Absorbiert an Teilen die nicht gewollt sind)
+  **Lösungen :**
+	  - Serienwiderstand: Transportverluste im Halbleiter (Basis, gering Dotiert und dick; Emitter, hoch dotiert aber dünn), Kontaktwiderstand, Kontaktgitterwiderstand. Diese müssen optimiert werden.
+	  - Parallelwiderstand: Leckströme an der Kanten des Wafers isolieren / abmachen, Leckströme durch die pn-Übergang führt zu einer lokalen Kurzschluss.
+- optische Verluste: Reflexion ([Brechungsindex](03-Optik)), Kontaktfinger/Verschattung, Transmissionsverlust, parasitäre Absorption (Licht wird da Absorbiert an Teilen die nicht gewollt sind)
   **Lösungen :**
 	- Dicke der ARC anpassen : Dicke $d$ der ARC für destruktive Interferenz der Reflexion + konstruktive Int. des eindringenden Lichts $$d = \frac{k \cdot \lambda}{4n}; \quad k = 1, 3, 5, ..$$
 	- Texturierung : Funktioniert nur mit mono-Si (1 0 0). Nach Ätzen erhält man wegen [[../Begriffe/Anisotropie|Anisotropie]] ein Textur von (1 1 1). Somit hat ein Licht die Chance (nachdem ersten Treffen mit der Oberfläche) nochmal in dem benachbarten Pyramide ins Material einzudringen. Andere Methode ist der Rückkontakt auch zu texturieren damit das im Wafer eingefangene Licht noch mehrmals innendrin reflektiert wird. Der gewinkelte Lichteinfall führt auch zur [Totalreflexion](https://www.pveducation.org/pvcdrom/design-of-silicon-cells/light-trapping).
-	- Kontaktgitter irgendwo anders legen.
+	- Kontaktgitter irgendwo anders legen. (Rückseite)
+	- KG hochkant legen, damit die abschattete Fläche kleiner ist aber die die Leitfähigkeit gleich bleibt, dafür größere Kontaktwiderstand. 
+	- KG abrunden, damit das einfallende Licht gegen der abgerundete Fläche in Wafer reflektiert.
+	- [Burried Contacts](https://www.pveducation.org/pvcdrom/manufacturing-si-cells/buried-contact-solar-cells), KG wird teilweise in Wafer gegraben (mittels Laser/Ätzen) - geringere Kontaktwiderstand und Abschattung.
+	- Feinere KG aber mit mehrere Anzahl.
 
 Warum Halbleiter für SZ geeignet sind? Lebensdauer ist da länger / Rekombination ist langsamer.
