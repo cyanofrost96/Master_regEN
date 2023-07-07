@@ -13,7 +13,7 @@
   **Lösungen :**
 	  - Serienwiderstand: Transportverluste im Halbleiter (Basis, gering Dotiert und dick; Emitter, hoch dotiert aber dünn), Kontaktwiderstand, Kontaktgitterwiderstand. Diese müssen optimiert werden.
 	  - Parallelwiderstand: Leckströme an der Kanten des Wafers isolieren / abmachen, Leckströme durch die pn-Übergang führt zu einer lokalen Kurzschluss.
-	  - Geringe Schichtdicke der Emitter führt zu höhere Widerstand, dafür legt man noch eine hochdotierte (n+) Emitter drauf damit die Leitfähigkeit sich bessert. Oder mehrere Kontaktfinger, damit die e- nicht so weit weg fahren muss.
+	  - [Optimierung der Kontaktfingerbreite und -abstand](https://www.pveducation.org/pvcdrom/design-of-silicon-cells/optimization-of-finger-spacing): Geringe Schichtdicke der Emitter führt zu höhere Widerstand, dafür legt man noch eine hochdotierte (n+) Emitter drauf damit die Leitfähigkeit sich bessert. Oder mehrere Kontaktfinger, damit die e- nicht so weit weg fahren muss.
 - optische Verluste: Reflexion ([Brechungsindex](03-Optik)), Kontaktfinger/Verschattung, Transmissionsverlust, parasitäre Absorption (Licht wird da Absorbiert an Teilen die nicht gewollt sind)
   **Lösungen :**
 	- Dicke der ARC anpassen : Dicke $d$ der ARC für destruktive Interferenz der Reflexion + konstruktive Int. des eindringenden Lichts $$d = \frac{k \cdot \lambda}{4n}; \quad k = 1, 3, 5, ..$$
