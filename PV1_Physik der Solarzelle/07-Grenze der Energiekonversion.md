@@ -25,3 +25,5 @@
 	- Feinere KG aber mit mehrere Anzahl.
 
 Warum Halbleiter für SZ geeignet sind? Lebensdauer ist da länger / Rekombination ist langsamer.
+
+Optimierung von elektrischen und optischen Verlusten
