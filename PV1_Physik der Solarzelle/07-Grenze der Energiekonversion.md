@@ -10,8 +10,9 @@
 ## Verlustmechanismen
 - Rekombinationsverluste: Strahlreko. (Emission), Grenzflächenreko., SRH-Reko.
 - elektrische Verluste: Serien- und Parallelwiderstand
-- optische Verluste: 
-	  Reflexion ([Brechungsindex](03-Optik)), Kontaktfinger/Verschattung, Transmissionverlust, parasitäre Absorption (Licht wird da Absorbiert an Teilen die nicht gewollt sind)
-	  Dicke $d$ der ARC für destruktive Interferenz der Reflexion + konstruktive Int. des eindringenden Lichts$$d = \frac{k \cdot \lambda}{4n}; \quad k = 1, 3, 5, ..$$
+- optische Verluste: Reflexion ([Brechungsindex](03-Optik)), Kontaktfinger/Verschattung, Transmissionverlust, parasitäre Absorption (Licht wird da Absorbiert an Teilen die nicht gewollt sind)
+  **Lösungen :**
+	- Dicke der ARC anpassen : Dicke $d$ der ARC für destruktive Interferenz der Reflexion + konstruktive Int. des eindringenden Lichts$$d = \frac{k \cdot \lambda}{4n}; \quad k = 1, 3, 5, ..$$
+	- Texturierung : Funktioniert nur mit mono-Si (1 0 0). Nach Ätzen erhält man wegen [[../Begriffe/Anisotropie|Anisotropie]] ein Textur von (1 1 1). Somit hat ein Licht die Chance (nachdem ersten Treffen mit der Oberfläche) nochmal in dem benachbarten Pyramide ins Material einzudringen. Andere Methode ist der Rückkontakt auch zu texturieren damit das im Wafer eingefangene Licht noch mehrmals innendrin reflektiert wird. Der gewinkelte Lichteinfall führt auch zur [Totalreflexion](https://www.pveducation.org/pvcdrom/design-of-silicon-cells/light-trapping).
 
 Warum Halbleiter für SZ geeignet sind? Lebensdauer ist da länger / Rekombination ist langsamer.

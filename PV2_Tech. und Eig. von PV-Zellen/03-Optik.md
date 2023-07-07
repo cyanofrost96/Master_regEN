@@ -19,7 +19,7 @@ $$1-R_{1/2} = \frac{4\cdot n_1 \cdot n_2}{(n_1+n_2)^2}$$
 Die Dicke unterscheidet dann die Farbe des Endprodukts (Also abhängig von der Reflektierte Wellenlänge)
 $$d = \lambda/(4\cdot n)$$
 
-### Texturierung
+### [Texturierung](https://www.pveducation.org/pvcdrom/design-of-silicon-cells/surface-texturing)
 Auf [[monokristallin]]e Silizium ist es auch möglich, Pyramidenstruktur aus der Kristalloberfläche zu schaffen, wobei das Licht nicht nur einmal auf die Oberfläche treffen wird. Durch das Texturieren + ARC-Schicht wird das einkommende Licht mehrmals in der ARC-Schicht prallen, bevor es entweder aus der Zelle raus oder (positiverweise) in die Kristalle eintritt. Dadurch steigt die Lichtausbeute.
 Dieser Textur wird durch Ätzen gemacht, aber dafür ist die (100) Si-Kristalle notwendig.
 
