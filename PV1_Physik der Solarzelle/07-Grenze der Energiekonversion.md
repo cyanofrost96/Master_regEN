@@ -12,4 +12,6 @@
 - elektrische Verluste: Serien- und Parallelwiderstand
 - optische Verluste: 
 	  Reflexion ([Brechungsindex](03-Optik)), Kontaktfinger/Verschattung, Transmissionverlust, parasitäre Absorption (Licht wird da Absorbiert an Teilen die nicht gewollt sind)
+	  Dicke $d$ der ARC für destruktive Interferenz der Reflexion + konstruktive Int. des eindringenden Lichts$$d = \frac{k \cdot \lambda}{4n}; \quad k = 1, 3, 5, ..$$
+
 Warum Halbleiter für SZ geeignet sind? Lebensdauer ist da länger / Rekombination ist langsamer.
