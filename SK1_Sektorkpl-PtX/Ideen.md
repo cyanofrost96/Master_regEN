@@ -7,3 +7,4 @@ Wasserelektrolyse Allgemein:
 Alkalische EL und Proton Membrane sind effizient und geben nur "wenig" Wärme ab (60-90°C).
 
 ## Abwärmenutzung von hochtemp. Elektrolyseur / BZ für Wärmekopplung Ammoniakherstellung
+HT EL/BZ haben geringere Zersetzungsspannung da die Wärme zum größeren Teil des Spaltung beiträgt. Sind auch effizienter wenn man die Abwärme (ausnutzt. 
