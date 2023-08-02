@@ -9,6 +9,7 @@
 Alkalische EL und Proton Membrane haben eine Wirkungsgrad von 60-85% und geben nur "wenig" Wärme ab (60-90°C). Problem: So geringe Wärme kann nicht zum industrielle Zwecken verwendet werden. Für Fernwärme auch ungeeignet (>100°C nötig).
 Mögliche Abwärmenutzung:
 - als Quelle für Wärmepumpe (Häuser, wieder mit Fernwärmeröhren.)
+- Trocknungsanlage (braucht aber auch höhe Luftstrom weil Temp. gering ist)
 - Aquakultur + Hydroponik = Aquaponik
 
 Fische und Pflanzen brauchen bestimmte Temp. (typ.Wert = 27°C) und Wasserströmung (als Nahrungsmittelgeschw.) um effizient zum wachsen und sich vermehren. 
@@ -20,7 +21,7 @@ Vorteile :
 - Sektorkopplung auch für Bereich Nahrung
 - Gentechlos, Bio :)
 
-*Problem* : es gibt gerade nur wenige Fisch-Pflanz-Kombinationen die zusammenwirken können. Fisch : Planz Ratio noch zu finden, immer anders für andere Umgebung. Welche zu Fokussieren, Fisch / Pflanzen?. Abwärme von der EL-Anlage muss dann mit Wasser gekühlt werden - bessere Wärmetransport zum Aquaponikanlage.
+*Problem* : Aquaponik braucht auch Strom (Pumpe, Licht, Ventilatoren). Es gibt gerade nicht so viele Fisch-Pflanz-Kombinationen die zusammenwirken können. Fisch : Planz Ratio noch zu finden, immer anders für andere Umgebung. Welche zu Fokussieren, Fisch / Pflanzen?. Abwärme von der EL-Anlage muss dann mit Wasser gekühlt werden - bessere Wärmetransport zum Aquaponikanlage.
 
 ##### Quelle für Aquaponik & Abwärmenutzung
 [niedertemp. Abwärmenutzung, ASUE](https://asue.de/aktuelles_presse/abwaermenutzung_elektrolyse_projekte_gesamtwirkungsgrad)
