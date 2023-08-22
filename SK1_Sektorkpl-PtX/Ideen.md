@@ -59,3 +59,5 @@ Dazu müssen Sachen recherchiert werden :
 - Bivalentes Modus?
 ### Trocknungsanlage
 Abwärme muss dann zumindest auf 100°C erwärmt. Die Anlage kann auf dem Land auch gebaut werden und dadurch fällt viele Materialkosten für das Wärmetransport massiv aber die Trocknungsanlage muss dann gebaut werden. Wie profitabel ist es im Vergleich zu Wärmeversorgung?
+##### Quellen
+[Vorteile NT Wärmenetze](https://www.iee.fraunhofer.de/de/presse-infothek/Presse-Medien/Pressemitteilungen/2021/handbuch-niedertemperatur-waermenetz.html)
