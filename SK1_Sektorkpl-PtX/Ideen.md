@@ -44,13 +44,13 @@ Herstellung beider Stoffe brauchen zuerst höhe Aktivierungsenergie (Wärme) abe
 ist schon festgelegt dass Niedertemp. EL (Proton Membrane?) hier anzuwenden. Vorgeschlagene Anwendungen sind: Trocknungsanlage (gekoppelt mit Lüftungssysteme, Fließbahn, usw.), Wärmebereitstellung / -unterstützung für die nahgelegten Ortschaften.
 
 Scheinbare Probleme :
-- insuffizient Wärme für fast nichts :(
+- insuffiziente Wärme für fast nichts :(
 - Schwankende Wärmequelle, auch wenn es durch Akku gedämpft.
 - WÜ konzipieren für die ausgewählte EL-Formfaktor
 - Wärmetransport planen
 
 Egal was passiert, die Abwärme muss mit Wärmepumpe noch weiter erwärmt werden.
-### Wärmeversorgung für Ortschaften
+### Wärmeversorgung für Ortschaften (Nahwärmenetz aufbauen)
 Es gibt 2 Ideen, hochtemperatur WP direkt an der EL-Anlage anschließen und das heiße Wasser weiter mit isolierten Erdrohren verteilen, oder die Abwärme an den Ortschaft verteilen, und dort ein WP-Anlage bauen (Materialkosteneinsparung). Wie groß ist die Einsparung ist die große Frage.
 Dazu müssen Sachen recherchiert werden :
 - Wärmeverbrauch
