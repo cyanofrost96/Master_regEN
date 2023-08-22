@@ -39,3 +39,23 @@ Herstellung beider Stoffe brauchen zuerst höhe Aktivierungsenergie (Wärme) abe
 ##### Quelle für industrielle Abwärmenutzung
 [Industrielle Abwärmenutzung, Fraunhofer](https://www.isi.fraunhofer.de/content/dam/isi/dokumente/cce/2013/Kurzstudie_Abwaermenutzung.pdf)
 [Ammoniakherstellung](https://www.lernhelfer.de/schuelerlexikon/chemie-abitur/artikel/technische-herstellung-von-ammoniak)
+
+## Abwärme direkt als Wärme für verschiedene Zwecke verwenden
+ist schon festgelegt dass Niedertemp. EL (Proton Membrane?) hier anzuwenden. Vorgeschlagene Anwendungen sind: Trocknungsanlage (gekoppelt mit Lüftungssysteme, Fließbahn, usw.), Wärmebereitstellung / -unterstützung für die nahgelegten Ortschaften.
+
+Scheinbare Probleme :
+- insuffizient Wärme für fast nichts :(
+- Schwankende Wärmequelle, auch wenn es durch Akku gedämpft.
+- WÜ konzipieren für die ausgewählte EL-Formfaktor
+- Wärmetransport planen
+
+Egal was passiert, die Abwärme muss mit Wärmepumpe noch weiter erwärmt werden.
+### Wärmeversorgung für Ortschaften
+Es gibt 2 Ideen, hochtemperatur WP direkt an der EL-Anlage anschließen und das heiße Wasser weiter mit isolierten Erdrohren verteilen, oder die Abwärme an den Ortschaft verteilen, und dort ein WP-Anlage bauen (Materialkosteneinsparung). Wie groß ist die Einsparung ist die große Frage.
+Dazu müssen Sachen recherchiert werden :
+- Wärmeverbrauch
+- Kosten von Verlegung und Materialien (Entfernung von EL-Anlage zum Ortschaft)
+- Kosten für HT WP und normale (größere) WP
+- Bivalentes Modus?
+### Trocknungsanlage
+Abwärme muss dann zumindest auf 100°C erwärmt. Die Anlage kann auf dem Land auch gebaut werden und dadurch fällt viele Materialkosten für das Wärmetransport massiv aber die Trocknungsanlage muss dann gebaut werden. Wie profitabel ist es im Vergleich zu Wärmeversorgung?
