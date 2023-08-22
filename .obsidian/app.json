@@ -1,10 +1,7 @@
 {
   "legacyEditor": false,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "de",
-    "de-DE"
-  ],
+  "spellcheckLanguages": null,
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
