@@ -1,11 +1,10 @@
-# Titel : Abwärmenutzung PEM Elektrolyseur für Verbräuche mit geringer Temperatur
+# Titel : Abwärmenutzung PEM Elektrolyseur für niedertemperaturige Verbraucher
 
 # 1 Einleitung
 ## 1.1 Einführung in das Thema
 Kurze Historie und die Entwicklung über Elektrolyseur und die Ideen über eine "konzentrierende grüne H2 Anlage". Warum Elektrolyseuren noch nicht in große Maßen gebaut sind.
 ## 1.2 Problemstellung und Zielsetzung
-EL haben nur 50-70% eta (elektrisch in chemisch). Verbesserung der Wirkungsgrad.
-!!
+
 ## 1.3 Ideen und Methodik
 Verbesserung der relativ geringen eta durch Wärmenutzung in verschiedenen Bereichen. Auch eine Möglichkeit weitere Kategorien in Thema Sektorkopplung zu verbinden, bsp. Agrikultur und Wärme.
 # 2 Grundlagen
