@@ -22,9 +22,9 @@ aus der Elektrolyseuranlage
 Standort-, Verbrauch-, Energiequelledaten wird hier erklärt. Wie wird die Simulation durchgeführt, was sind die wichtige Eckdaten und die Ideen (bezogen auf der Fischzucht und Gemüseanbau)
 # 4 Ergebnisse
 ## Simulationsergebnisse
-Grafik und Tabelle erklären, auch die
+Simulation, Grafik und Tabelle erklären
 ## Wärmekapazität und Wirkungsgrade
-Große der bereitstellende Wärme für Nahwärmenetz und Große der Fischzucht / Gemüseanbau
+Große der verfügbare Wärme für Nahwärmenetz und Große der Fischzucht / Gemüseanbau
 ## Gesamt-eta-Verbesserung für die Anlage
 Wie viel höher wird der Wirkungsgrad betragen nach jeweilige Umsetzungen der Ideen.
 # 5 Fazit
