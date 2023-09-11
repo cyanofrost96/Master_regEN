@@ -3,6 +3,10 @@
 # 1 Einleitung
 ## 1.1 Einführung in das Thema
 Kurze Historie und die Entwicklung über Elektrolyseur und die Ideen über eine "konzentrierende grüne H2 Anlage". Warum Elektrolyseuren noch nicht in große Maßen gebaut sind.
+
+HTEL auch in Betrachtung bringen.
+
+EL Hersteller kontaktieren.
 ## 1.2 Problemstellung und Zielsetzung
 
 ## 1.3 Ideen und Methodik
