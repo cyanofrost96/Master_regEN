@@ -16,6 +16,8 @@ Verbesserung der relativ geringen eta durch Wärmenutzung in verschiedenen Berei
 ein Beispielanlage aus der Firma [H-TEC Systems](https://www.h-tec.com/fileadmin/user_upload/produkte/produktseiten/ME450-1400/spec-sheet/H-TEC-Datenblatt-ME450-DE-23-08.pdf)
 ## 2.2 Wärmepumpe
 ## 2.3 Wärmetransport
+Abwärmenutzung in Nahwärmenetz, [was ist Nahwärmenetz?](https://www.naturstrom.de/Energieprojekte/Buergerenergie/Markt_Erlbach/Nahwaerme_NATURSTROM_FAQ.pdf)
+
 ## 2.4 Trnsys (und andere Simulationsprogramme)
 Kurze Erklärung über die Sim.programme, was einzugeben und was sind zu erwarten.
 # 3 Methodik
