@@ -1,7 +1,7 @@
 # Titel : Abwärmenutzung PEM Elektrolyseur für niedertemperaturige Verbraucher
 [Link zum Cloudspeicher](https://mega.nz/folder/qIEjXb4S#LAwIo18I73PyouUojZee0Q)
 # 1 Einleitung
-## 1.1 Einführung in das Thema
+## 1.1 Einführung idn das Thema
 Kurze Historie und die Entwicklung über Elektrolyseur und die Ideen über eine "konzentrierende grüne H2 Anlage". Warum Elektrolyseuren noch nicht in große Maßen gebaut sind.
 
 HTEL auch in Betrachtung bringen.
