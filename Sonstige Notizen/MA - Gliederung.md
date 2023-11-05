@@ -1,7 +1,7 @@
 # Titel : Abwärmenutzung PEM Elektrolyseur für niedertemperaturige Verbraucher
 [Link zum Cloudspeicher](https://mega.nz/folder/qIEjXb4S#LAwIo18I73PyouUojZee0Q)
 # 1 Einleitung
-## 1.1 Einführung idn das Thema
+## 1.1 Einführung in das Thema
 Kurze Historie und die Entwicklung über Elektrolyseur und die Ideen über eine "konzentrierende grüne H2 Anlage". Warum Elektrolyseuren noch nicht in große Maßen gebaut sind.
 
 HTEL auch in Betrachtung bringen.
@@ -15,7 +15,9 @@ Verbesserung der relativ geringen eta durch Wärmenutzung in verschiedenen Berei
 ## 2.1 Elektrolyseuranlage
 ein Beispielanlage aus der Firma [H-TEC Systems](https://www.h-tec.com/fileadmin/user_upload/produkte/produktseiten/ME450-1400/spec-sheet/H-TEC-Datenblatt-ME450-DE-23-08.pdf)
 ## 2.2 Abwärmenutzung
-[Industrielle Abwärmenutzung](https://www.isi.fraunhofer.de/content/dam/isi/dokumente/cce/2013/Kurzstudie_Abwaermenutzung.pdf) Konzepte und pro/kontra von abwärmenutzung (in industriellen Bereichen)
+[Industrielle Abwärmenutzung](https://www.isi.fraunhofer.de/content/dam/isi/dokumente/cce/2013/Kurzstudie_Abwaermenutzung.pdf) Konzepte und pro/kontra von Abwärmenutzung (in industriellen Bereichen)
+
+Laut einer Studie aus Fraunhofer Institut zur industriellen Abwärmenutzung solle es klar sein, wozu die Abwärme hingeführt wird, sonst wird es als Energieeffizienzmaßnahme von der Bedeutung abweicht. Dazu gelten die folgende fünf Kriterien zum Nachdenken bevor es mit der Planung anfängt. (Dimensionierung, Steuerung, Temperaturniveau, )
 ## 2.2 Wärmepumpe
 ## 2.3 Wärmetransport
 Abwärmenutzung in Nahwärmenetz, [was ist Nahwärmenetz?](https://www.naturstrom.de/Energieprojekte/Buergerenergie/Markt_Erlbach/Nahwaerme_NATURSTROM_FAQ.pdf)
