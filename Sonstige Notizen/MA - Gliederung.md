@@ -17,7 +17,8 @@ ein Beispielanlage aus der Firma [H-TEC Systems](https://www.h-tec.com/fileadmin
 ## 2.2 Abwärmenutzung
 [Industrielle Abwärmenutzung](https://www.isi.fraunhofer.de/content/dam/isi/dokumente/cce/2013/Kurzstudie_Abwaermenutzung.pdf) Konzepte und pro/kontra von Abwärmenutzung (in industriellen Bereichen)
 
-Laut einer Studie aus Fraunhofer Institut zur industriellen Abwärmenutzung solle es klar sein, wozu die Abwärme hingeführt wird, sonst wird es als Energieeffizienzmaßnahme von der Bedeutung abweicht. Dazu gelten die folgende fünf Kriterien zum Nachdenken bevor es mit der Planung anfängt. (Dimensionierung, Steuerung, Temperaturniveau, )
+Laut einer Studie aus Fraunhofer Institut zur industriellen Abwärmenutzung solle es klar sein, wozu die Abwärme hingeführt wird, sonst wird es als Energieeffizienzmaßnahme von der Bedeutung abweicht. Dazu gelten die folgende fünf Kriterien zum Nachdenken bevor es mit der Planung anfängt. (Dimensionierung, Steuerung, Temperaturniveau, Isolation, Alternativen)
+Ansonsten sagt Fraunhofer Institut erfahrungsgemäß auch, dass solche Projekte nur zögerlich umgesetzt, da viele Hemmnisse und Risiken besteht. Beispiele davon sind unzureichende Informationen von der Verbraucherseite oder Kapital vom Projektplaner. Von daher müssen die folgende Faktoren vor dem Einsetzen klar sein; Amortisationszeit, Anlagengröße, Umweltwirkungen, Erschließbarkeit
 ## 2.2 Wärmepumpe
 ## 2.3 Wärmetransport
 Abwärmenutzung in Nahwärmenetz, [was ist Nahwärmenetz?](https://www.naturstrom.de/Energieprojekte/Buergerenergie/Markt_Erlbach/Nahwaerme_NATURSTROM_FAQ.pdf)
