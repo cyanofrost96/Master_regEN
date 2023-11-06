@@ -8,7 +8,7 @@ HTEL auch in Betrachtung bringen.
 
 EL Hersteller kontaktieren.
 ## 1.2 Problemstellung und Zielsetzung
-
+Verfügbare Energie aus Windpark und PV-Park, Verlauf über ein Tag und über das Jahr (säisonal)
 ## 1.3 Ideen und Methodik
 Verbesserung der relativ geringen eta durch Wärmenutzung in verschiedenen Bereichen. Auch eine Möglichkeit weitere Kategorien in Thema Sektorkopplung zu verbinden, bsp. Agrikultur und Wärme.
 # 2 Grundlagen
