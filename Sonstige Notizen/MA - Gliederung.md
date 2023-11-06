@@ -35,6 +35,7 @@ aus der Elektrolyseuranlage. Weil es von den Anlage
 	  recherche über wie läuft eine Maschine, mit Nahwärme als Quelle
 - Fischzuchtanlage
 	  hier müss noch recherchiert werden ob es als Wärmestabilisator agieren kann oder nicht
+-  Äquiphäre Speicher
 
 ## Simulationsdaten & -ideen
 Standort-, Verbrauch-, Energiequelledaten wird hier erklärt. Wie wird die Simulation durchgeführt, was sind die wichtige Eckdaten und die Ideen (bezogen auf der Fischzucht und Gemüseanbau)
