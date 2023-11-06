@@ -27,6 +27,7 @@ Kurze Erklärung über die Sim.programme, was einzugeben und was sind zu erwarte
 # 3 Methodik
 ## Verbrauch
 Wie groß der Wärmeverbrauch der Häuser in [Krickow](https://maps.app.goo.gl/qbnyBZMkbCnfNZM19), [Zachow](https://maps.app.goo.gl/631nETm14yyN9XmH7) und [Groß Nemerow](https://maps.app.goo.gl/eTwfeeDyoKfrVNpn9)
+Erstmal von dem durchschnittlichen Wärmeverbrauch 
 ## nutzbare Abwärmeenergie
 aus der Elektrolyseuranlage. Weil es von den Anlage 
 ## Anwendungen der Abwärme
@@ -35,8 +36,7 @@ aus der Elektrolyseuranlage. Weil es von den Anlage
 	  recherche über wie läuft eine Maschine, mit Nahwärme als Quelle
 - Fischzuchtanlage
 	  hier müss noch recherchiert werden ob es als Wärmestabilisator agieren kann oder nicht
--  Äquiphäre Speicher
-
+-  Aquifere Speicher [1aq](https://www.adlershof.de/fileadmin/user_upload/Projektflyer_GeoFern.pdf)
 ## Simulationsdaten & -ideen
 Standort-, Verbrauch-, Energiequelledaten wird hier erklärt. Wie wird die Simulation durchgeführt, was sind die wichtige Eckdaten und die Ideen (bezogen auf der Fischzucht und Gemüseanbau)
 # 4 Ergebnisse
