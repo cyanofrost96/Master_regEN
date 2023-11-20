@@ -27,6 +27,7 @@ Zur Transport sind mind. zwei Technicken erförderlich:
 	Wärme verliert sich immer Richtung außen, beeinflusst durch Wand-, Isolationsstärke des Rohres, sowie Strömungsgeschwindigkeit des Fluids.
 	[Formel: Verlust beim Transport](http://www.fernwaermeleitungen.com/waermeverlust.html) und Berechnung in excel implementiert. Quelle beinhaltet auch typische Leitungsgroße und deren U-Wert.
 	Beispiel: [H-75+75 Rohr](https://www.boesken.de/installation/nah-und-fernwaermeleitungen/isoplus/isopex-doppelrohr-heizung/19998/isopex-doppelrohr-heizung-typ-h-75-75-da-2-x-75-da-200-aus-kunststoff-6-bar)
+	anderer Beispiel für [Ur-Werte Fernwärmerohre](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjEv93m8NKCAxUxRPEDHT4IBi4QFnoECA8QAQ&url=https%3A%2F%2Fwww.endk.ch%2Fde%2Fablage%2Fdokumentation-archiv-muken%2FFaktenblatt_WD_von_FW-Leitungen_2020-02-14.pdf&usg=AOvVaw1OyFicxNTm9BkGorolDZid&opi=89978449)
 	Dazu gibt es ein [Druckverlustdiagramm](https://www.sbz-monteur.de/gut-zu-wissen/optimierung-von-heizungsanlagen-rohrnetzberechnung-teil-1), das die Druckgefälle mit bestimmter Strömungsgeschwindigkeit und Rohrdurchmesser darstellt
 	
 - Wärmeübertrager
