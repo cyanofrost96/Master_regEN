@@ -30,7 +30,8 @@ Zur Transport sind mind. zwei Technicken erförderlich:
 	anderer Beispiel für [Ur-Werte Fernwärmerohre](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjEv93m8NKCAxUxRPEDHT4IBi4QFnoECA8QAQ&url=https%3A%2F%2Fwww.endk.ch%2Fde%2Fablage%2Fdokumentation-archiv-muken%2FFaktenblatt_WD_von_FW-Leitungen_2020-02-14.pdf&usg=AOvVaw1OyFicxNTm9BkGorolDZid&opi=89978449)
 	Dazu gibt es ein [Druckverlustdiagramm](https://www.sbz-monteur.de/gut-zu-wissen/optimierung-von-heizungsanlagen-rohrnetzberechnung-teil-1), das die Druckgefälle mit bestimmter Strömungsgeschwindigkeit und Rohrdurchmesser darstellt
 	
-- Wärmeübertrager
+- Wärmeübertrager :
+	Um Wärme von einem Leitmedium zu einem Anderen zu Übertragen wird ein WÜ verwendet, es wirkt nach dem Prinzip von Wärmeleitung, typischerweise ist ein Rohr in einem größeren eingebettet, wobei sie durch verschiedene Fluiden beflissen werden. Die Flussrichtung kann parallel oder entgegengesetzt verlaufen, sog. Gleichströmung und Gegenströmung.
 ## 2.4 Trnsys (und andere Simulationsprogramme)
 Kurze Erklärung über die Sim.programme, was einzugeben und was sind zu erwarten.
 # 3 Methodik
