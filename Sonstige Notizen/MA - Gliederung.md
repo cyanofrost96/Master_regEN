@@ -35,7 +35,9 @@ Zur Transport sind mind. zwei Technicken erförderlich:
 
 Wärmeverbrauchsprofil für die Simulation
 ## 2.4 Trnsys (und andere Simulationsprogramme)
-Kurze Erklärung über die Sim.programme, was einzugeben und was sind zu erwarten.
+*Kurze Erklärung über die Sim.programme, was einzugeben und was sind zu erwarten.*
+Mithilfe des Programms Trnsys kann Wärmeverbrauch stündlich ermittelt werden.
+
 # 3 Methodik
 ## Verbrauch
 Wie groß der Wärmeverbrauch der Häuser in [Krickow](https://maps.app.goo.gl/qbnyBZMkbCnfNZM19), [Zachow](https://maps.app.goo.gl/631nETm14yyN9XmH7) und [Groß Nemerow](https://maps.app.goo.gl/eTwfeeDyoKfrVNpn9)
