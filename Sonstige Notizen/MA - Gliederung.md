@@ -32,8 +32,8 @@ Zur Transport sind mind. zwei Technicken erförderlich:
 	
 - Wärmeübertrager :
 	Um Wärme von einem Leitmedium zu einem Anderen zu Übertragen wird ein WÜ verwendet, es wirkt nach dem Prinzip von Wärmeleitung, typischerweise ist ein Rohr in einem größeren eingebettet, wobei sie durch verschiedene Fluiden beflissen werden. Die Flussrichtung kann parallel oder entgegengesetzt verlaufen, sog. Gleichströmung und Gegenströmung.
-
-Wärmeverbrauchsprofil für die Simulation
+### Wärmeverbrauchsprofil für die Simulation
+Der Wärmeverbrauchs eines Gebäudes hängt vor allem von der Wetterbedingung und der Dämmung. typsicherweise wird es erstmal unter --°C geheizt und ab --°C die Heizung ausgemacht.
 ## 2.4 Trnsys (und andere Simulationsprogramme)
 *Kurze Erklärung über die Sim.programme, was einzugeben und was sind zu erwarten.*
 Mithilfe des Programms Trnsys kann Wärmeverbrauch stündlich ermittelt werden.
