@@ -3,3 +3,6 @@ Erwartungsmanagement, Vielecke der Optimierung Prozess- & Digitalisierungsmanage
 Energiepolitik beim Ukrainekonflikt
 
 Ölabhängigkeit der Deutschen in der vorherigen Jahren
+
+Doku zuschauen und kommentieren
+Öl. Macht. Geschichte
