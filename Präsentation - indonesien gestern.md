@@ -63,7 +63,24 @@
 - **Ende der Sukarno-Ära:**
     - 1965 kam es zu einem gescheiterten Putschversuch, der zur Verhaftung und Ermordung vieler Kommunisten führte.
     - General Suharto übernahm schrittweise die Macht und setzte Sukarno 1966 ab, womit die Sukarno-Ära endete.
-
+#### Indonesien in OPEC
+- **Beitritt und Rolle:**
+    - Indonesien trat 1962 der OPEC bei und war das einzige asiatische Mitglied bis zu seinem Austritt 2009. Es trat 2016 erneut bei, verließ die Organisation jedoch wieder 2016.
+    - Ziel: Koordination und Vereinheitlichung der Erdölpolitik der Mitgliedsländer und Sicherstellung stabiler Erdölmärkte.
+- **Bedeutung und Herausforderungen:**
+    - Indonesien profitierte von der Mitgliedschaft durch die Stabilisierung der Erdöleinnahmen und den Zugang zu Informationen und Technologien.
+    - Herausforderungen: Sinkende Erdölproduktion und die Notwendigkeit, die Energiewirtschaft zu diversifizieren.
+#### Konferensi Asia Afrika (KAA)
+- **Bandung-Konferenz 1955:**
+    - Indonesien war Gastgeber der Konferenz in Bandung vom 18. bis 24. April 1955.
+    - Die Konferenz versammelte 29 asiatische und afrikanische Staaten, die meisten davon neu unabhängig.
+- **Ziele und Bedeutung:**
+    - Förderung der Solidarität und Zusammenarbeit zwischen den Ländern Asiens und Afrikas.
+    - Unterstützung der Dekolonisation und der Kampf gegen Rassismus.
+    - Beitrag zur Bildung der Blockfreien Bewegung, die ein Gegengewicht zu den Machtblöcken des Kalten Krieges darstellte.
+- **Ergebnisse und Nachwirkungen:**
+    - Die Bandung-Konferenz führte zur Stärkung der politischen und wirtschaftlichen Beziehungen zwischen den Teilnehmerstaaten.
+    - Sie hatte einen nachhaltigen Einfluss auf die globalen Bewegungen für Unabhängigkeit und Gerechtigkeit.
 # 6: Die Suharto-Ära (1966-1998)
 - **Machtübernahme und Neue Ordnung (Orde Baru):**
     - General Suharto übernahm offiziell 1967 die Präsidentschaft und etablierte ein autoritäres Regime, das als Neue Ordnung bekannt wurde.
@@ -77,6 +94,14 @@
 - **Wirtschaftskrise und Suhartos Rücktritt:**
     - Die Asienkrise 1997 führte zu einer schweren Wirtschaftskrise in Indonesien, die das Regime Suhartos stark schwächte.
     - Angesichts massiver Proteste und politischer Unruhen trat Suharto im Mai 1998 zurück, was das Ende der Neuen Ordnung markierte.
+#### Indonesien in ASEAN
+- **Beitritt und Rolle:**
+    - Indonesien ist eines der fünf Gründungsmitglieder von ASEAN, das 1967 gegründet wurde.
+    - Ziel: Förderung der wirtschaftlichen, politischen, sicherheitspolitischen, militärischen, bildungspolitischen und soziokulturellen Zusammenarbeit in Südostasien.
+- **Beitrag und Bedeutung:**
+    - Indonesien spielt eine führende Rolle in der politischen und wirtschaftlichen Integration der Region.
+    - Gastgeber wichtiger ASEAN-Treffen, darunter der ASEAN-Gipfel.
+    - Förderung von Frieden und Stabilität in der Region, inkl. Konfliktmediation (z.B. in Osttimor und dem Südchinesischen Meer).
 
 # 7: Reformasi und Demokratisierung (1998-heute)
 - **Übergang zur Demokratie:**
@@ -92,14 +117,21 @@
     - Fortsetzung wirtschaftlicher Reformen und Integration in die globale Wirtschaft.
     - Indonesien wird zu einer der größten Volkswirtschaften Südostasiens.
 # 8: Indonesien in der modernen Welt
-Titel: Rolle in der internationalen Gemeinschaft
-Inhalt:
-Mitgliedschaft in internationalen Organisationen (UN, ASEAN, G20)
-Wirtschaftliche und politische Bedeutung in Südostasien
-Herausforderungen und Zukunftsperspektiven
+- **Internationale Organisationen:**
+    - Mitgliedschaft in wichtigen internationalen Organisationen wie den Vereinten Nationen, der G20 und der WTO.
+    - Aktive Teilnahme an globalen Diskussionen zu Wirtschaft, Klima und Sicherheit.
+- **Wirtschaftliche und politische Bedeutung:**
+    - Indonesien ist die größte Volkswirtschaft in Südostasien und ein wichtiger Akteur in der ASEAN.
+    - Politischer Einfluss in der Region durch Diplomatie und wirtschaftliche Zusammenarbeit.
+- **Herausforderungen und Zukunftsperspektiven:**
+    - Bekämpfung von Korruption und Förderung guter Regierungsführung.
+    - Nachhaltige wirtschaftliche Entwicklung und Bewältigung des Klimawandels.
+    - Stärkung der demokratischen Institutionen und Menschenrechte.
 # 9: Zusammenfassung und Ausblick
-Titel: Zusammenfassung und Ausblick
-Inhalt:
-Rückblick auf die wichtigsten historischen Ereignisse
-Bedeutung der Geschichte für das heutige Indonesien
-Zukünftige Herausforderungen und Chancen
+- **Rückblick auf die wichtigsten historischen Ereignisse:**
+    - Von der Kolonialzeit über die Unabhängigkeit und die Sukarno- und Suharto-Ära bis zur heutigen Demokratie.
+- **Bedeutung der Geschichte für das heutige Indonesien:**
+    - Die Vergangenheit formte die nationale Identität und die politischen Strukturen.
+- **Zukünftige Herausforderungen und Chancen:**
+    - Wirtschaftliche Diversifizierung, Klimawandel und politische Stabilität.
+    - Rolle Indonesiens als regionaler und globaler Akteur.
