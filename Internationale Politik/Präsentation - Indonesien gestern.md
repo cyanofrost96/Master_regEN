@@ -7,7 +7,7 @@
 
 # 2: Vor der Proklamation (17. Jh. -1945)
 - **Dauer der Kolonialherrschaft:**
-    - Die Niederlande kolonisierten Indonesien ab dem frühen 17. Jahrhundert, wobei die Kolonialverwaltung formal als Niederländisch-Indien bekannt war.
+    - Die Niederlande (Vereenigde Oostindische Compagnie) kolonisierten Indonesien ab dem frühen 17. Jahrhundert, wobei die Kolonialverwaltung formal als Niederländisch-Indien bekannt war.
     - Indonesien wurde ein wichtiger Teil des niederländischen Kolonialreichs.
 - **Wirtschaftliche und soziale Auswirkungen:**
     - **Wirtschaft:** Die Niederlande nutzten Indonesien zur Ausbeutung von Ressourcen wie Gewürzen, Kaffee, und Zucker.
