@@ -3,6 +3,7 @@
 - Bevölkerung: Mit über 270 Millionen Menschen ist Indonesien das viertbevölkerungsreichste Land der Welt. Die Bevölkerung ist ethnisch und kulturell vielfältig, mit Hunderten von ethnischen Gruppen und Sprachen.
 - Kulturvielfalt: Indonesien ist bekannt für seine reichhaltige Kultur, die sich in Traditionen, Musik, Tanz, Kunst und Religion widerspiegelt.
 - Regierungsform: Republik; politisches System: Demokratisch
+- Indonesien ist ein Land, das von vielen Handelsrouten durchquert wird.
 
 # 2: Vor der Proklamation (17. Jh. -1945)
 - **Dauer der Kolonialherrschaft:**
